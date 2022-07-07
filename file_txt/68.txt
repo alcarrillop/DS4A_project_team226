@@ -1,0 +1,1751 @@
+
+
+
+
+
+
+
+
+
+
+
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+
+
+
+FY 2023 Request for Concept Notes on Capacity Development and Strengthening of Domestic Refugee Resettlement - United States Department of State
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.state.gov/#website","url":"https://www.state.gov/","name":"United States Department of State","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.state.gov/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.state.gov/fy-2023-request-for-concept-notes-on-capacity-development-and-strengthening-of-domestic-refugee-resettlement/#webpage","url":"https://www.state.gov/fy-2023-request-for-concept-notes-on-capacity-development-and-strengthening-of-domestic-refugee-resettlement/","name":"FY 2023 Request for Concept Notes on Capacity Development and Strengthening of Domestic Refugee Resettlement - United States Department of State","isPartOf":{"@id":"https://www.state.gov/#website"},"datePublished":"2022-06-22T12:30:57+00:00","dateModified":"2022-06-21T22:26:31+00:00","breadcrumb":{"@id":"https://www.state.gov/fy-2023-request-for-concept-notes-on-capacity-development-and-strengthening-of-domestic-refugee-resettlement/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.state.gov/fy-2023-request-for-concept-notes-on-capacity-development-and-strengthening-of-domestic-refugee-resettlement/"]}]},{"@type":"BreadcrumbList","@id":"https://www.state.gov/fy-2023-request-for-concept-notes-on-capacity-development-and-strengthening-of-domestic-refugee-resettlement/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.state.gov/"},{"@type":"ListItem","position":2,"name":"FY 2023 Request for Concept Notes on Capacity Development and Strengthening of Domestic Refugee Resettlement"}]}]}
+
+
+
+
+
+
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.state.gov\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--state-dark-blue: #062135;--wp--preset--color--state-blue: #0A314D;--wp--preset--color--state-white: #FFFFFF;--wp--preset--color--state-dark-gray: #333333;--wp--preset--color--state-link: #4574A1;--wp--preset--color--state-gold: #C1A783;--wp--preset--color--state-red: #D01319;--wp--preset--color--state-light-gray: #8D98AA;--wp--preset--color--state-gray: #767676;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pageAttributes":[null,null],"pagePostAuthor":"Darrell"};
+	dataLayer.push( dataLayer_content );
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T9WK49Q');
+
+
+
+
+
+
+
+			@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	.profile-card__wrapper .profile-card__image img { top: 63% !important; }
+}
+span.icon-svg, span.icon-svg svg {
+    width: auto;
+}
+.wmpci-popup-wrp.splash {
+    background: hsla( 217, 17%, 66%, 0.6 );
+}
+
+.wmpci-popup-body {
+    max-width: 750px;
+}
+
+.wpmci-popup-cnt-inr-wrp {
+    box-shadow: 0 0 17px 5px hsla(0, 0%, 12%, 0.2);
+    padding: 0;
+}
+
+.dos_popup_header {
+    height: auto;
+    width: 100%;
+}
+
+.wpmci-popup-cnt-inr-wrp h2 {
+    background: linear-gradient( to bottom, #062135 0, #062135 68px, #0a324c 68px, #0a324c 100% );
+    color: #fff !important;
+    font-family: "EB Garamond", Times, Serif;
+    font-size: 20px;
+    height: 168px;
+    margin-bottom: 60px !important;
+    padding-top: 111px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.wpmci-popup-cnt-inr-wrp h2 em {
+    display: inline-block;
+    margin-right: 0.25em;
+    text-transform: none;
+}
+
+.wpmci-popup-cnt-inr-wrp h2::before {
+    background: center / contain no-repeat url('/wp-content/themes/state/images/state-favicon.png');
+    content: '';
+    display: block;
+    height: 70px;
+    left: 50%;
+    position: absolute;
+    top: 19px;
+    transform: translateX( -50% );
+    width: 70px;
+}
+
+.wpmci-popup-cnt-inr-wrp h4 {
+    color: #0a314d !important;
+    font-family: "EB Garamond", Times, Serif;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+    line-height: 42px;
+    margin-bottom:30px;
+}
+
+.dos_popup_copy {
+    color: #333;
+    font-family: "Open Sans", Arial, Sans-Serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.25px;
+    line-height: 28px;
+    margin: 40px auto 50px !important;
+    width: 80%;
+}
+
+.dos_popup_close {
+    border: 3px #D11F27 solid;
+    color: #0a314d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Open Sans", Arial, Sans-Serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    height: 72px;
+    letter-spacing: 1.5px;
+    margin: 0 auto 30px;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.dos_popup_close:hover {
+    color: #8d98aa;
+}
+
+.dos_popup_close::after {
+    color: #d01319;
+    margin-left: 10px;
+}
+.collection-result .collection-result-meta span {
+    border-right: 2px solid #ccc;
+    margin: 20px 15px 0 0;
+    padding-right: 15px;
+}
+.collection-result .collection-result-meta span:last-child {
+    border: 0;
+    margin: 20px 0 0;
+    padding: 0;
+}
+@media only screen and (min-width: 600px) {
+	.collection-result .collection-result-meta span {
+		white-space: nowrap;
+	}
+}
+.collection-result-meta .divider {
+    display: none;
+}
+.report-appendices .appendix__contents ul ul li {
+    padding-left: 20px;
+}
+.report-appendices .appendix__contents ol
+padding-inline-start: 40px;
+}
+.report-appendices .appendix__contents ol > li {
+    padding-left: 0;
+	margin-left: 30px;
+list-style: decimal;
+}
+.report-appendices .appendix__contents ol li {
+    padding-left: 0;
+    margin-left: 30px;
+    list-style: decimal;
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    .report-toc span.toc-hamburger {
+      left: -50px;
+    }
+}
+/* #post-14921 .collection-result-meta {display: none;} */
+
+
+.supporting-content__column .card__image .crop_default img {
+    height: 107%;
+}
+.front-page-policy-issues__wrapper .policy-issues__article a {
+    word-wrap: anywhere;
+}
+.postid-167354 .bc_middle.collapse a:nth-child(n+2), .postid-167354 .bc_middle.collapse .bc_carat {     display: none; }
+
+@media only screen and (max-width: 768px) {
+    html .entry-content img.alignnone,
+    html .entry-content img.aligncenter,
+    html .entry-content img.alignright,
+    html .entry-content img.alignleft,
+    html .entry-content figure.alignnone,
+    html .entry-content figure.aligncenter,
+    html .entry-content figure.alignright,
+    html .entry-content figure.alignleft {
+        width: inherit !important;
+        max-width: 100% !important;
+        display: inherit !important;
+        float: inherit;
+        margin-left: unset;
+        margin-right: unset;
+        height: auto;
+    }
+    html body .entry-content img.alignleft, html .entry-content figure.alignleft {
+        float: left;
+        margin 20px 20px 20px 0 !important;
+        margin-right: 20px !important;
+    }
+    html body .entry-content img.alignright, html .entry-content figure.alignright {
+        float: right;
+        margin 20px 0 20px 20px !important;
+        margin-left: 20px !important;
+    }
+/*	.home .front-page-policy-issues__wrapper .policy-issues__article a {
+    word-break: break-word;
+}*/
+}
+
+.has-background-opacity-10 {
+	background-color: rgba(0, 0, 0, 0.1) !important;
+}
+.has-background-opacity-20 {
+	background-color: rgba(0, 0, 0, 0.2) !important;
+}
+.has-background-opacity-30 {
+	background-color: rgba(0, 0, 0, 0.3) !important;
+}
+.has-background-opacity-40 {
+	background-color: rgba(0, 0, 0, 0.4) !important;
+}
+.has-background-opacity-50 {
+	background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.has-background-opacity-60 {
+	background-color: rgba(0, 0, 0, 0.6) !important;
+}
+.has-background-opacity-70 {
+	background-color: rgba(0, 0, 0, 0.7) !important;
+}
+.has-background-opacity-80 {
+	background-color: rgba(0, 0, 0, 0.8) !important;
+}
+.has-background-opacity-90 {
+	background-color: rgba(0, 0, 0, 0.9) !important;
+}
+.news-bar__list {
+   z-index: 999999999;
+}
+.page-id-84379 .entry-content table {
+    width: 100% !important;
+    display: inline-table;
+}
+@media(max-width:767px) {
+	.page-id-84379 .entry-content table {
+    width: 95% !important;
+    overflow: scroll;
+		display: block;
+  }
+	.hide-on-mobile {
+		display: none !important;
+	}
+}
+.page-id-84379 .entry-content table td {
+    padding: 16px 12px;
+}
+.page-id-84379 .entry-content {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 12;
+    grid-column: 1/span 12;
+}
+body.page-template-collection-by-terms header .social_links_header .frame {
+    margin-bottom: 0 !important;
+}
+html[lang=ar] main .has-text-align-right, html[lang=ar] main .wp-block-pullquote p {
+  direction: rtl !important;
+}
+.dipnote-social-media .widget-area section.widget_custom-twitter-feeds-widget {
+  max-height: 950px;
+}
+.dipnote-social-media aside {
+    height: auto !important;
+}
+.state_trip_travel-template.postid-319779 .slick-dots {
+  display: none;
+}
+.live_now_banner {
+ background:#2d5f99;
+ padding:10px 20px
+}
+.live_now_banner .live_message {
+ display:block;
+ text-indent:-16px;
+ margin:0 auto;
+ padding-left:16px;
+ max-width:1200px
+}
+.live_now_banner .live_message a {
+ color:#fff
+}
+.live_now_banner .live_message:before {
+ color:#f0d21d;
+ content:'\e911';
+ font-family:icomoon;
+ font-size:9px;
+ text-decoration:none;
+ margin-right:3px;
+ z-index:1
+}
+.live_now_banner .live_title {
+ font-size:14px;
+ text-decoration:underline
+}
+@media(min-width:767px) {
+  .home .front-page-hero {
+    min-height: 608px;
+  }
+}
+.home .video__iframe.hidden, .home .video__poster.hidden {
+    display: block;
+}
+.addthis .at-icon-wrapper.at-share-btn.at-svc-email {   display: none; }		
+
+
+
+;(function (g) {
+var d = document, am = d.createElement("script"), h = d.head || d.getElementsByTagName("head")[0], fsr = "fsReady",
+aex = {
+"src": "/wp-content/themes/state/foresee_assets/js/gateway.min.js",
+"type": "text/javascript",
+"async": "true",
+"data-vendor": "fs",
+"data-mode": "selfhost",
+"data-environment": "production",
+"data-hasssl": "true",
+"data-client": "state-gov",
+"data-codelocation": "/wp-content/themes/state/foresee_assets/code/19.11.1/",
+"data-isselfhosted": "true",
+"data-product-assets": "/wp-content/themes/state/foresee_assets/product_assets/",
+"data-role": "gateway"
+};
+for (var attr in aex){am.setAttribute(attr, aex[attr]);}h.appendChild(am); g[fsr] || (g[fsr] = function () {var aT = "__" + fsr + "_stk__";g[aT] = g[aT] || [];g[aT].push(arguments);});})(window);
+
+!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="WQTDE-3U7ZD-TLDZY-ZPT2B-WL72L",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"WQTDE-3U7ZD-TLDZY-ZPT2B-WL72L";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="ejfiazyx2t5roywbxfgq-f-6764d4cf6-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"32","ak.cp":"840896","ak.ai":parseInt("536498",10),"ak.ol":"0","ak.cr":23,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"81734ff3","ak.r":41483,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"34.74.128.0","ak.cport":37152,"ak.gh":"23.220.107.23","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1656863053","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==OUDqcAwMMC89YCdqXWeaJ9nvS6hK8A3Wdsu3P8HzRjKYPMY6ZXVA8Lao9Yn3C7W2IIelcymsIkNG+Xcc6UHEh0Hbmzd5d6lKxe9z4+s01iAZNI8sSOvg2wUcArmYFgRdIqoT3+7moPle+8L7GFhSKZWAtHGx+9u2cElg9kdGRQpiVMh9+oXTZb06JsF7HsdpmPUhGuo8raH6J1s53Y4AmA8j8ScbEVCkEzR+cmflsRMnBCNcn/rq0IokRn00BpdP6qShLFhiyNRVqKQyGDJHAP/08CUVEzCZ/V1JeS/bDOOvIge3Bplt7HTc1mPR/THlexYZv3axUGQbRKtu1zbFF0bWoKJKKUrrkLt5A4onLCpdieEKK3iYzmWDGw0UDakBdLOD1WXkbLzhPkMgn5X2fwVAmuzyzD9mqeeOgIZ2/YY=","ak.pv":"41","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+
+
+
+
+
+Skip to content
+
+An official website of the United States Government Here's how you know
+
+
+
+
+Official websites use .gov
+				A .gov website belongs to an official government organization in the United States.
+			
+
+
+
+
+Secure .gov websites use HTTPS
+				A lock (  ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+			
+
+
+
+
+
+
+Newsroom
+Business
+Employees
+Job Seekers
+Students
+Travelers
+Visas
+ 
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+Flickr
+GovDelivery
+
+
+
+
+
+
+
+	// Code to load the navigation without the temporarily blank navigation and page jumpiness -- mainly for desktop.
+	if( window.jQuery ) {
+		if ( jQuery(window).width() >= 975 ) {
+			jQuery('.nav__utility').show();
+			jQuery('.site-nav--primary').appendTo('.nav__second-nav');
+			jQuery('.nav__primary-nav').appendTo('.nav__second-nav');
+		}
+		if ( jQuery(window).width() < 975 ) {
+			jQuery('.nav__utility').hide();
+		}
+	}
+
+
+
+Menu
+
+State Department Home
+
+Search
+
+
+State Department Home
+Policy Issues
+
+Back
+
+Policy Issues
+
+
+
+
+
+
+										Anti-Corruption and Transparency
+									
+
+
+
+
+
+
+										Arms Control and Nonproliferation
+									
+
+
+
+
+
+
+										Climate and Environment
+									
+
+
+
+
+
+
+										Climate Crisis
+									
+
+
+
+
+
+
+										Combating Drugs and Crime
+									
+
+
+
+
+
+
+										Countering Terrorism
+									
+
+
+
+
+
+
+										COVID-19 Recovery
+									
+
+
+
+
+
+
+										Cyber Issues
+									
+
+
+
+
+
+
+										Disarming Disinformation
+									
+
+
+
+
+
+
+										Economic Prosperity and Trade Policy
+									
+
+
+
+
+
+
+										Energy
+									
+
+
+
+
+
+
+										Global Health
+									
+
+
+
+
+
+
+										Global Women’s Issues
+									
+
+
+
+
+
+
+										Holding Russia and Belarus to Account
+									
+
+
+
+
+
+
+										Human Rights and Democracy
+									
+
+
+
+
+
+
+										Human Trafficking
+									
+
+
+
+
+
+
+										The Ocean and Polar Affairs
+									
+
+
+
+
+
+
+										Refugee and Humanitarian Assistance
+									
+
+
+
+
+
+
+										Science, Technology, and Innovation
+									
+
+
+
+
+
+
+										Treaties and International Agreements
+									
+
+
+
+
+
+
+										United with Ukraine
+									
+
+
+
+
+
+
+
+Countries & Areas
+
+Back
+
+Countries & Areas
+
+Search for country or area
+
+AAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+BBahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+CCabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Costa Rica
+Côte d’Ivoire
+Croatia
+Cuba
+Cyprus
+Czechia
+DDemocratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+EEcuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+FFiji
+Finland
+France
+GGabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+HHaiti
+Holy See
+Honduras
+Hungary
+IIceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+JJamaica
+Japan
+Jordan
+KKazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+LLaos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+MMadagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+NNamibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+OOman
+PPakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+QQatar
+RRepublic of the Congo
+Romania
+Russia
+Rwanda
+SSaint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+São Tomé and Príncipe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+TTaiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+UUganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uruguay
+Uzbekistan
+VVanuatu
+Venezuela
+Vietnam
+YYemen
+ZZambia
+Zimbabwe
+
+
+
+
+
+Bureaus & Offices
+
+Back
+
+Bureaus & Offices
+
+
+
+The Secretary of StateThe Secretary of State
+The Secretary of State
+Bureau of Intelligence and Research
+Bureau of Legislative Affairs
+Counselor of the Department
+Executive Secretariat
+Office of the Chief of Protocol
+Office of Civil Rights
+Office of Diversity and Inclusion
+Office of Global Women’s Issues
+Office of the Legal Adviser
+Office of the Ombudsman
+Office of the U.S. Global AIDS Coordinator and Global Health Diplomacy
+Policy Planning Staff
+Special Presidential Envoy for Hostage Affairs
+Special Representative for Afghanistan Reconciliation
+Special Representative for Iran
+Special Representative for Syria Engagement
+Special Representative for Venezuela
+U.S. Security Coordinator for Israel and the Palestinian Authority
+Deputy Secretaries of StateDeputy Secretaries of State
+Deputy Secretary of State
+Bureau of Cyberspace and Digital Policy
+Office of the U.S. Coordinator for the Arctic Region
+Deputy Secretary of State for Management and Resources
+Office of Foreign Assistance
+Office of Small and Disadvantaged Business Utilization
+Arms Control and International SecurityArms Control and International Security
+Under Secretary for Arms Control and International Security
+Bureau of Arms Control, Verification and Compliance
+Bureau of International Security and Nonproliferation
+Bureau of Political-Military Affairs
+Civilian Security, Democracy, and Human RightsCivilian Security, Democracy, and Human Rights
+Under Secretary for Civilian Security, Democracy, and Human Rights
+Bureau of Conflict and Stabilization Operations
+Bureau of Counterterrorism
+Bureau of Democracy, Human Rights, and Labor
+Bureau of International Narcotics and Law Enforcement Affairs
+Bureau of Population, Refugees, and Migration
+Office of Global Criminal Justice
+Office of International Religious Freedom
+Office of the Special Envoy To Monitor and Combat Antisemitism
+Office to Monitor and Combat Trafficking in Persons
+Economic Growth, Energy, and EnvironmentEconomic Growth, Energy, and Environment
+Under Secretary for Economic Growth, Energy, and the Environment
+Bureau of Economic and Business Affairs
+Bureau of Energy Resources
+Bureau of Oceans and International Environmental and Scientific Affairs
+Office of Global Food Security
+Office of Global Partnerships
+Office of the Chief Economist
+Office of the Science and Technology Adviser
+ManagementManagement
+Under Secretary for Management
+Bureau of Administration
+Bureau of Budget and Planning
+Bureau of the Comptroller and Global Financial Services
+Bureau of Consular Affairs
+Bureau of Diplomatic Security
+Bureau of Global Talent Management
+Bureau of Information Resource Management
+Bureau of Medical Services
+Bureau of Overseas Buildings Operations
+Director of Diplomatic Reception Rooms
+Foreign Service Institute
+Office of Foreign Missions
+Office of Management Strategy and Solutions
+Political AffairsPolitical Affairs
+Under Secretary for Political Affairs
+Bureau of African Affairs
+Bureau of East Asian and Pacific Affairs
+Bureau of European and Eurasian Affairs
+Bureau of International Organization Affairs
+Bureau of Near Eastern Affairs
+Bureau of South and Central Asian Affairs
+Bureau of Western Hemisphere Affairs
+Public Diplomacy and Public AffairsPublic Diplomacy and Public Affairs
+Under Secretary for Public Diplomacy and Public Affairs
+Educational and Cultural Affairs
+Expo Unit
+Global Engagement Center
+Global Public Affairs
+Policy, Planning, and Resources
+U.S. Advisory Commission on Public Diplomacy
+
+
+
+
+
+
+
+About
+
+Back
+
+About
+
+
+
+Mission
+
+
+
+										About the U.S. Department of State
+									
+
+
+
+
+										Joint Strategic Plan
+									
+
+
+
+
+										Equity Action Plan
+									
+
+
+
+
+										Foreign Affairs Manual and Handbook
+									
+
+
+
+
+										We Are the U.S. Department of State
+									
+
+
+
+History
+
+
+
+										Previous Administration Archives
+									
+
+
+
+
+										Foreign Relations of the United States
+									
+
+
+
+
+										National Museum of American Diplomacy
+									
+
+
+
+
+										Art in Embassies
+									
+
+
+
+Administrative
+
+
+
+										Department Reports and Publications
+									
+
+
+
+
+										Agency Financial Reports
+									
+
+
+
+
+										Form Finder
+									
+
+
+
+
+										Organization Chart
+									
+
+
+
+
+										Plans, Performance, Budget
+									
+
+
+
+
+										Information Quality Act
+									
+
+
+
+
+										Open Government Initiative
+									
+
+
+
+
+										Digital Government Strategy
+									
+
+
+
+
+										Plain Writing Program
+									
+
+
+
+
+										Partner With State
+									
+
+
+
+Leadership
+
+
+
+										The Secretary of State
+									
+
+
+
+
+										Deputy Secretary of State
+									
+
+
+
+
+										Deputy Secretary of State for Management and Resources
+									
+
+
+
+
+										Biographies of Senior Officials
+									
+
+
+
+Directories
+
+
+
+										Contact Us
+									
+
+
+
+
+										Telephone Directory
+									
+
+
+
+
+										U.S. Ambassadors
+									
+
+
+
+
+										U.S. Embassies and Other Posts
+									
+
+
+
+
+										Country Offices Directory
+									
+
+
+
+
+										Key Officers of Foreign Service Posts
+									
+
+
+
+
+										Diplomats in Residence
+									
+
+
+
+
+
+
+
+
+
+
+
+
+	// Code to enable sub-area highlighting for countries and areas navigation
+
+	if(window.jQuery) {
+		jQuery(document).ready(function(){
+			jQuery(document).on({
+				touchstart: function( event ) {
+					event.preventDefault();
+					if(!jQuery( this ).prev().hasClass('highlighted')) {
+						jQuery( this ).prev().addClass('highlighted');
+					}
+				},
+				mouseleave: function() {
+					if(jQuery( this ).prev().hasClass('highlighted')) {
+					}
+				},
+				mouseover: function() {
+					if(!jQuery( this ).prev().hasClass('highlighted')) {
+						jQuery( this ).prev().addClass('highlighted');
+					}
+				}
+			}, '#country_navigation_chosen .indent');
+
+			jQuery(document).on({
+				touchstart: function( event ) {
+					event.preventDefault();
+					if(!jQuery( this ).next('.indent').hasClass('highlighted')) {
+						jQuery( this ).next('.indent').addClass('highlighted');
+					}
+				},
+				mouseleave: function() {
+					if(jQuery( this ).next('.indent').hasClass('highlighted')) {
+					}
+				},
+				mouseover: function() {
+					if(!jQuery( this ).next('.indent').hasClass('highlighted')) {
+						jQuery( this ).next('.indent').addClass('highlighted');
+					}
+				}
+			}, '#country_navigation_chosen .noindent');
+
+		});
+
+		// Code to load the navigation without the temporarily blank navigation and page jumpiness -- mainly for desktop.
+		if ( jQuery(window).width() >= 975 ) {
+			jQuery('.nav__utility').show();
+			jQuery('.site-nav--primary').appendTo('.nav__second-nav');
+			jQuery('.nav__primary-nav').appendTo('.nav__second-nav');
+		}
+		if ( jQuery(window).width() < 975 ) {
+			jQuery('.nav__utility').hide();
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+HomeFunding Opportunity Announcements ...FY 2023 Request for Concept Notes on Capacity Development and Strengthening of Domestic Refugee Resettlement 
+hide
+
+
+
+
+	if(window.jQuery) {
+		jQuery( document ).ready(function() {
+			if (jQuery(".bc_middle").hasClass("collapse")) {
+				jQuery(".bc_ellipse").click(function(){
+					jQuery(".bc_hide").toggleClass("visible");
+					jQuery(".bc_middle").toggle();
+					jQuery(".bc_ellipse").toggle();
+					jQuery(".bc_content").toggleClass("noflex");
+					jQuery(".block_breadcrumbs_content").toggleClass("noflex");
+				});
+
+				jQuery(".bc_hide").click(function(){
+					jQuery(".bc_hide").toggleClass("visible");
+					jQuery(".bc_middle").toggle();
+					jQuery(".bc_ellipse").toggle();
+					jQuery(".bc_content").toggleClass("noflex");
+					jQuery(".block_breadcrumbs_content").toggleClass("noflex");
+				});
+
+			} else {
+				jQuery(".bc_ellipse").hide();
+			}
+		});
+	}
+
+
+
+
+
+
+				
+					FY 2023 Request for Concept Notes on Capacity Development and Strengthening of Domestic Refugee Resettlement
+				
+			
+
+
+Funding Opportunity Announcement
+June 8, 2022
+
+
+
+
+
+						Download the Announcement												[409 KB]
+
+
+
+
+Share
+
+
+Share this page on:
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		
+Request for Concept Notes Number: SFOP0009049
+Assistance Listing (CFDA) number: 19.510 – U.S. Refugee Admissions Program
+Announcement issuance date: Wednesday, June 8, 2022
+Proposal submission deadline: Monday, July 11, 2022, at 11:59:59 p.m. (23:59:59) EDT. Concept Notes submitted after this deadline will not be considered.
+Funding limits: Project proposals must not be less than the funding floor and not more than the funding ceiling per activity area per year or they will be disqualified. (Note: See guidance below on the maximum allowed number of submitted concept notes.)
+
+Funding floor per year (lowest $ value): $50,000
+Funding ceiling per year (highest $ value): $1,000,000
+
+Anticipated timeframe for notification of selection for full proposal development: PRM anticipates, but cannot guarantee, that within 60 days from the concept note submission deadline selected concept notes will be notified of selection for full proposal development.
+Anticipated timeframe for award of selected full proposals: Pending the availability of funds, PRM anticipates, but cannot guarantee, that awards will be made less than four (4) months from the proposal submission deadline. Please note that awards for the different capacity building areas may vary in their start dates.
+ADVISORY: All applicants must submit concept notes through the website Grants.gov. PRM strongly recommends submitting concept notes early to allow time to address any technical difficulties that may arise on the Grants.gov website.
+If you are new to PRM funding, the Grants.gov website registration process can be complicated. We urge you to refer to PRM’s General NGO Guidelines “Application Process” section for information and resources to help ensure that the application process runs smoothly. PRM also strongly encourages organizations that have received funding from PRM in the past to read this section as a refresher.
+PRM strongly recommends concept notes be submitted in Adobe PDF, as Microsoft Word documents may sometimes produce different page lengths based on software versions and configurations when transmitted. Exceeding page length limits will result in disqualification. All documents must be in English and should avoid the use of jargon and spell out acronyms upon first use.
+Recommended templates for this notice of funding opportunity are included in the grants.gov listing.
+Project Description
+Summary
+The Bureau of Population, Refugees, and Migration (PRM) seeks concept notes proposing technical assistance or other types of specialized projects to develop and expand the capacity and universe of partners participating in refugee resettlement in the United States, particularly the Reception and Placement (R&P) Program and to strengthen the outcomes of refugees resettled through the U.S. Refugee Admissions Program. The R&P Program is funded by PRM to ensure optimal placement of refugees in local resettlement communities across the United States. After arrival in these communities, local R&P agencies provide direct assistance to refugees during their initial resettlement period of 30-90 days after arrival.
+To grow and strengthen the domestic capacity for placement of refugees in communities across the United States and provide for effective initial resettlement services, PRM intends to fund dedicated technical assistance and/or other types of specialized projects focused on addressing one or more of the following capacity building areas:
+
+generating strategies and solutions to identify and provide affordable, appropriate housing for newly arriving refugees;
+deepening community engagement in refugee resettlement, including through the use of community sponsorship programs;
+supporting and facilitating the entry of new partner organizations to participate in the R&P program; and
+strengthening resettlement outcomes for refugees through innovations to expand resettlement capacity and effectiveness to meet projected U.S. Refugee Admissions Program (USRAP) needs.
+
+Pending funding availability, PRM anticipates, but cannot guarantee, to fund one to four awards through this funding opportunity. Each award will cover at least one of the capacity building areas discussed above, but an award may cover multiple or all areas. PRM anticipates, but cannot guarantee, funding between $50,000-$1,000,000 per year for each capacity building area. If proposing activities covering multiple capacity building areas, applicants must propose no more than $1,000,000 per area per year and each concept note must address one capacity building area (see section below). PRM welcomes proposals from consortia and may also request that two or more organizations combine concept notes into a partnership/consortium proposal during the proposal development process. This solicitation is the first step in a two-part process.
+Number of Concept Note Applications
+Organizations may submit a maximum of one concept note per capacity building area for a total of four concept notes. If an applicant chooses to submit more than one concept note, PRM expects to see cost savings, as applicable, among the multiple concept notes (e.g., staffing costs may be partially charged to each concept note budget). Any subsequent submissions received beyond the allowable four, will be disqualified.
+PRM is interested in multi-year programs for up to three years (36 months). Concept notes must not exceed a program period of three years.
+Specific Guidance for Concept Notes
+Concept notes should propose technical assistance or other specialized projects that can be made available as centralized resources to support organizations participating in refugee resettlement in the United States. Proposed projects must address one of the four specified capacity building areas outlined below and must identify specific objectives, strategies, and outcomes/results for the proposed project activities.
+Technical assistance and specialized support activities may include but are not limited to:
+
+development of needs assessments/analysis;
+targeted initiatives;
+trainings/skill building opportunities;
+creation and dissemination of data/resources/materials;
+knowledge development/management;
+coordination platforms,
+and; innovative partnerships.
+
+To the extent possible, these types of activities should draw on research or evidence-based models and evidence-generating approaches. All proposed projects must ensure nonduplication of established activities at the local, state or federal level (e.g., funding from the Office of Refugee Resettlement, Health and Human Services, Cultural Orientation Technical Assistance operated by the Cultural Orientation Resource Exchange). PRM is interested in projects that coordinate with, complement, and leverage existing relevant resources.
+Concept notes should describe plans for implementing technical assistance or other types of specialized projects, as described above, including an overview of the proposed staffing and funding that will be needed as well as a timeline for implementation and expected outcomes. Suggested activities should incorporate, as relevant, trauma-informed practices that create environments promoting a sense of safety, cultural sensitivity, and self-sufficiency. Further guidance for each topic is as follows:
+Capacity Building Area 1: Strategies and Solutions on Housing
+The ability of newly arrived refugees to move into safe, affordable long-term housing on arrival is a critical component of their successful initial resettlement. Given the challenges that resettlement agencies (RAs) and other resettlement partners face in securing such housing and the resulting impact on their ability to place refugees into communities, PRM intends to fund a technical assistance or specialized project with the objective of helping RAs and other resettlement partners respond to the specific challenges of identifying and sourcing affordable long-term housing options in local communities for newly arrived refugees during their initial resettlement period (30 to 90 days after arrival). This technical assistance project may consider creating innovative housing opportunities that incorporate housing and life skills programming and can draw on best practices more broadly around access to affordable housing for low-income individuals or other similarly situated individuals (e.g., with minimal credit history, etc.).
+Capacity Building Area 2: Deepening Community Engagement and Sponsorship
+Refugee resettlement in the United States has long benefited from, and indeed relied upon, the successful engagement of local community actors, including through the mobilization of volunteers and the development of resettlement agency co-sponsorship programs. PRM supports the deepening of community engagement in resettlement as an avenue for further expanding the reception capacity of resettlement partners, particularly through co-sponsorship whereby local teams of volunteers or community-based organizations resettle refugees in coordination with local resettlement agencies. PRM intends to fund a technical assistance or specialized project with the objective of supporting resettlement partners in mobilizing, recruiting, organizing, training, and overseeing community actors in resettlement, including volunteers, community partners, and co-sponsors, which work with local resettlement agencies to serve refugees. This project should have a strong focus on assisting resettlement agencies in establishing new or expanding existing co-sponsorship programs. The project should also consider the development of standardized resources/tools which can be used internally by all R&P partners and public-facing resources/tools to help the general public navigate available volunteer and/or co-sponsorship opportunities in their local communities. If proposing public-facing resources/tools, the project should address how it will coordinate with and/or complement the development of new resources that PRM will be separately funding to help the general public understand and engage with the pilot program for private sponsorship of refugees, to be launched by PRM later in calendar year 2022.
+Capacity Building Area 3: Supporting Entry of New Participants in R&P
+PRM recognizes that organizations new to the R&P Program would benefit from mentorship and specific technical assistance from an established, experienced national resettlement agency to assist them in understanding how to effectively develop and manage a national R&P Program implemented through a network of local offices and partners. PRM intends to fund a technical assistance project with the objective of leveraging existing R&P expertise to cultivate, guide, and support organizations which are new to R&P. This technical assistance project should consider how to partner with and support approved new organization(s) to:
+
+Develop structures and systems for the national management of R&P;
+Support a network of new affiliates and community partners, including developing strategies for establishing, maintaining, and overseeing local resettlement operations;
+Develop strategic placement plans on the basis of consultation with resettlement agencies operating in the same areas, state refugee coordinators, state refugee health coordinators, and other critical local community stakeholders;
+Develop co-sponsorship programs, recruit and manage volunteers, and robust community engagement activities.
+Develop organizational plans that can accommodate changes in refugee arrivals over time.
+
+Applicants should be aware that award of this specific capacity building area will be dependent upon a new organization or organizations being approved for participation in the R&P Program at the national level for fiscal year (FY) 2023.
+Capacity Building Area 4: Strengthening Resettlement Outcomes through New Capacity and Effectiveness Innovations
+Successful initial resettlement outcomes for refugees and positioning them for effective long-term integration, requires a number of elements, including local community capacity consultation and stakeholder coordination, thoughtful placement strategies, effective service delivery, sufficient capacity to meet basic needs in a timely manner, and the use of targeted financial assistance. To further strengthen initial resettlement outcomes for refugees, PRM is interested in proposals for technical assistance or other specialized projects that meet key refugee and partner capacity needs through the development of innovative models that introduce and incorporate new approaches and resources on resettlement. Proposals must demonstrate sound rationale or evidence for the effectiveness of these approaches. Proposed projects must not duplicate programming and funding available from other federal agencies. Examples of topics and activities that such projects could address may include but are not limited to:
+
+Implementing or researching evidence-based and/or evidence-generating approaches/solutions that optimize refugee outcomes and are informed by refugee experiences, such as data-driven placement strategies or assessment of the value of community sponsors/partners and other resettlement pathways.
+Strengthening and maximizing effective stakeholder consultation/ collaboration.
+Ensuring community connections to services that are critical to the holistic well-being of refugees such as legal, mental health, and social supports.
+Developing, cultivating, harnessing, and/or directing private resources to strategically meet demonstrated needs of resettled refugees and address initial resettlement challenges.
+Creating training opportunities that focus on engaging and preparing refugees to transition into paid, stipend, or volunteer positions with resettlement agencies and other organizations that support refugee resettlement and to participate in leadership opportunities that enable them to draw on their perspectives and lived experiences (e.g., by developing their capacity to serve as cultural or health care community navigators, cultural orientation facilitators, case managers, or other positions to support refugee resettlement).
+Developing specialized structures, initiatives, and/or tools to improve how particularly vulnerable cases (e.g., individuals with significant physical and behavioral health needs, youth aged 18-25 without familial support, cases with specific protection concerns) are identified and matched with appropriate support (whether refugee-specific programs such as Preferred Communities or mainstream supports), either before arrival or during the first 30 to 90 days after arrival.
+
+After reviewing concept notes, PRM anticipates but cannot guarantee, inviting no later than two months after submission, selected organizations to expand their submissions, as applicable, into multi-year (20-page) proposals with objectives, indicators, and detailed budgets for each year of the project. Selected organizations will have 30 calendar days after they are notified of their selection to complete their full proposals. Organizations may apply as consortia. For purposes of this notice, PRM considers consortia to be a group of no fewer than three NGOs that comprise an agreement, combination, or group formed to undertake, or proposing to undertake, a capacity development project beyond the resources of any one member. To support an expansion in the universe of resettlement organizations, PRM will prioritize concept notes from consortia that involve and/or propose to engage new organizations that have not previously received direct PRM support. PRM will also prioritize proposals from consortia that include, involve, or engage refugee-led organizations (established and led entirely by refugees or having them in over half of the decision-making roles).
+This announcement references PRM’s General NGO Guidelines, which contain additional information on PRM’s priorities and NGO funding strategy with which selected organizations must comply. Please use both the General NGO Guidelines and this announcement to ensure that your concept note submission is in full compliance with PRM requirements and that the proposed activities are in line with PRM’s priorities. Concept note submissions that do not reflect the requirements outlined in these guidelines will not be considered.
+Federal Award Information
+
+Proposed project start dates: No earlier than October 1, 2022
+Duration of Activity: Applicants must submit multi-year concept notes with activities and budgets that do not exceed three years from the proposed start date. Budgets submitted in year one can be revised/updated each year. Continued funding after the initial 12-month period of performance requires the submission of a noncompeting single-year or multi-year proposal and will be contingent upon available funding, strong performance, and continuing need. In funding a project one year, PRM makes no representations that it will continue to fund the project in successive years and encourages applicants to seek a wide array of donors to ensure long-term funding possibilities.
+
+Eligibility Information
+Eligible Applicants:
+
+Nonprofits having a 501(c)(3) status with IRS;
+Nonprofits without 501(c)(3) status with IRS;
+Private institutions of higher education; and
+Public and State-controlled institutions of higher education.
+
+Cost Sharing or Matching: Cost sharing, matching, or cost participation is not a requirement of an application in response to this funding announcement.
+Concept notes and later proposals for consideration should describe the sources and amounts of additional funding that may be utilized to complement PRM funding, and meet the following criteria:
+
+Are not paid by the Federal Government under another Federal award;
+Are verifiable from the non-Federal entity’s records;
+Are not included as contributions for any other Federal award; and
+Are necessary and reasonable for accomplishment of project objectives.
+
+Please include this information in the indicated column in the Budget Summary of the concept note submission.
+Note: Though favorably looked upon, inclusion will not result in a competitive ranking increase when evaluated.
+Application and Submission Instructions
+
+Where to Request Application Package: Application packages may be downloaded from full NOFO listing on www.Grants.gov.
+Content and Form of Application: Organizations may submit a maximum of one concept note per capacity building area only for maximum of four total concept notes per organization. Any subsequent submissions received will be disqualified. (Note: Submissions by organizations as part of a consortium do not count toward an individual organization’s submission limit.)
+
+Concept notes must not exceed 4 pages in length, including the table summary (or 5 pages if a consortia submission) submitted in Adobe PDF, using Times New Roman, 12-point font, letter sized paper with one-inch margins on all sides. Concept notes that are longer than 4 pages (or 5 pages if a consortia submission) will be disqualified.
+
+PRM strongly recommends proposals be submitted in Adobe PDF, as Microsoft Word documents may sometimes produce different page lengths based on software versions and configurations.
+Exceeding page length limits will result in disqualification. (Do not include additional cover pages)
+All documents must be in English and should avoid the use of jargon and spell out acronyms upon first use.
+
+
+Concept note narratives must include the following categories, in any arrangement.
+
+Brief problem statement (identification of need or gap to be addressed)
+Project description, rationale, and implementation plan
+Proposed measurable outcomes (including refugee outcomes)
+Summary of the organization(s) and experience doing similar work
+Organizational structure
+
+
+A one-page Budget Summary in Excel format. (Note: Budget summaries should be submitted as an attachment under the “budget narrative” section in grants.gov.) Budget summaries do not count against the 4-page limit (or 5 pages if a consortia submission). The budget summary is separate from SF-424, SF-F24A, and SF-424B documents, which are also required and similarly do not fall within the page limit. The SF-424 family of forms may be downloaded through grants.gov. Budget summaries must include the following categories, and disaggregated by year:
+
+
+Personnel allowances
+Benefits
+Travel
+Project equipment
+Supplies
+Contractual
+Construction
+Other direct costs
+Indirect costs
+Total amount requested
+
+There should be no attachments, other than the budget summary (Excel) and SF-424 documents, to the concept note submission.
+To be considered for PRM funding, organizations must submit a complete application package including:
+
+4-page concept note (or 5-page concept note for consortia);
+One-page budget summary (Excel) clearly indicating costs disaggregated by year for the project period. The budget summary does not count against overall page limits.
+Signed completed SF-424, SF-424 A, and SF-424 B. These documents do not count against the page limit. Note: Form SF-424B is required only for those applicants who have not previously registered in SAM.gov or recertified their registration in SAM.gov since February 2, 2019, and completed the online representations and certifications. The SF-424 family forms are available for download on grants.gov.
+Consortia: Organizations may apply to this call as individual organizations or consortia; however, for consortia, one organization must be designated as the lead applicant at both the concept note and full proposal stage.
+
+For purposes of consortia applying for PRM funding, PRM’s considers consortium to be a group of no less than three NGOs that comprise an agreement, combination, or group formed to undertake, or proposing to undertake, a capacity development project beyond the resources of any one member. PRM may request to review and approve of substantive provisions of proposed sub-awards. Applicants may form consortia in order to bring together organizations with varied expertise to propose a comprehensive project in one proposal. The consortium arrangement may allow for inclusion of technical strengths from multiple organizations, increased inclusion of local and national organizations, and/or the potential of much greater impact through collaboration.
+If the applicant is applying as a consortium, a description of how the consortia will be organized and how lines of authority and decision-making will be managed across all team members and between the lead applicant and associate awardees should be included in the concept note. The prime applicant would be responsible for overall implementation of the proposed project activities, preparation/presentation of annual work plans, M&E planning, and required reporting to PRM. The prime applicant should designate a single individual to be the liaison with PRM, although PRM would reserve the right to communicate with sub-grantees.
+Unique Entity Identifier (UEI) Number and System for Award Management (SAM).
+Note: On April 4, 2022, the DUNS Number was replaced by a “new, non-proprietary identifier” requested in, and assigned by, the System for Award Management (SAM.gov). This new identifier is being called the Unique Entity Identifier (UEI). For more information on the process, visit GSA’s website on the UEI transition.
+Each applicant is required to:
+
+be registered in SAM before submitting its application;
+provide a valid UEI number in its application; and
+continue to maintain an active SAM registration with current information at all times during which it has an active PRM award or an application or plan under consideration by PRM.
+
+No federal award may be made to an applicant until the applicant has complied with all applicable UEI and SAM requirements and, if an applicant has not fully complied with the requirements by the time the PRM award is ready to be made, PRM may determine that the applicant is not qualified to receive a PRM award and use that determination as a basis for making a PRM award to another applicant.
+Concept notes must be submitted via Grants.gov. Grants.gov registration requires a UEI number and active SAM.gov registration. If you are new to PRM funding, the Grants.gov registration process can be complicated. We urge you to refer to PRM’s General NGO Guidelines “Application Process” section for information and resources to help ensure that the application process runs smoothly. PRM also strongly encourages organizations that have received funding from PRM in the past to read this section as a refresher. Applicants may also refer to the “For Applicants” page on Grants.gov for complete details on requirements.
+Do not wait until the deadline to attempt to submit your application on Grants.gov. Organizations not registered with Grants.gov should register well in advance of the deadline as it can take several weeks to finalize registration (sometimes longer for non-U.S.-based NGOs to receive required registration numbers). We also recommend that organizations, particularly first-time applicants, submit applications via Grants.gov no later than one week before the deadline to avoid last-minute technical difficulties that could result in an application not being considered. PRM has extremely limited ability to correct or facilitate rapid resolution of technical difficulties associated with grants.gov, SAM.gov or UEI number and registration issues. PRM partners must maintain an active SAM registration with current and correct information at all times during which they have an active federal award or an application under consideration by PRM or any federal agency.
+When registering with Grants.gov, organizations must designate points of contact and Authorized Organization Representatives (AORs). Organizations based outside the United States must also request and receive an NCAGE code prior to registering with SAM.gov. Applicants experiencing technical difficulties with the SAM registration process should contact the Federal Service Desk (FSD) online or at 1–866-606-8220 (U.S.) and 1-334-206-7828 (International).
+Applications must be submitted under the authority of the Authorized Organization Representative at the applicant organization. Having proposals submitted by agency headquarters helps to avoid possible technical problems.
+If you encounter technical difficulties with Grants.gov please contact the Grants.gov Help Desk at support@grants.gov or by calling 1-800-518-4726.
+Applicants who are unable to submit applications via Grants.gov due to Grants.gov technical difficulties and:
+
+who have reported the problem to the Grants.gov help desk;
+received a case number;
+have completed UEI and SAM.gov registrations
+and had a documented service request opened to research the problem; may contact the PRM NGO Coordinator before the submission deadline to determine whether an alternative method of submission is appropriate. PRM makes no guarantee to accept an application outside of the grants.gov system.
+
+It is the responsibility of each applicant to ensure the appropriate registrations are in place and active. Failure to have the appropriate organizational registrations in place or experiencing issues resulting from discrepancies across registration platforms is not considered a technical difficulty and is not justification for an alternate means of submission.
+Submission Dates and Times
+Announcement issuance date: Wednesday, June 8, 2022
+Concept Note submission deadline: Monday, July 11, 2022, at 11:59:59 p.m. (23:59:59) EDT. Concept Notes submitted after this deadline will not be considered.
+This solicitation is the first step in a two-part process. After reviewing concept notes, PRM will invite selected organizations to expand their submissions into full-length proposals with detailed budgets. Selected organizations will have 30 calendar days after they are notified of their selection to complete their full proposals.
+Intergovernmental Review: Not Applicable
+Funding Restrictions: Federal awards will not allow reimbursement of Federal Award costs without prior authorization by PRM.
+Other Submission Requirements
+Branding and Marking Strategy
+The following provisions will be included whenever assistance is awarded:
+
+The Recipient shall recognize the United States Government’s funding for activities specified under this award at the project site with a graphic of the U.S. flag accompanied by one of the following two phrases based on the level of funding for the award:
+Fully funded by the award: “Gift of the United States Government”
+Partially funded by the award: “Funding provided by the United States Government”
+
+PRM highly encourages recognition of U.S. government funding on social media and website platforms to be included in proposals branding and marking strategy. Recipients should tag PRM’s Twitter account @StatePRM and/or Facebook account @State.PRM (rather than using hashtags). Additionally, the applicable U.S. Embassy should be tagged as well.
+Updates of actions taken to fulfill this requirement must be included in quarterly program reports to PRM.
+Do not use the Department of State seal without the express written approval from PRM. 
+Sub non-Federal entities (sub-awardees) and subsequent tier sub-award agreements are subject to the marking requirements and the non-Federal entity shall include a provision in the sub non-Federal entity agreement indicating that the standard, rectangular U.S. flag is a requirement. Exemptions from this requirement may be allowable but must be agreed to in writing by the Grants Officer. (Note: An exemption refers to the complete or partial cessation of branding, not use of alternative branding). Requests should be initiated with the Grants Officer and Grants Officer Representative. Waivers issued are applied only to the exemptions requested through the Recipient’s proposal for funding and any subsequent negotiated revisions.
+In the event the non-Federal entity does not comply with the marking requirements as established in the approved assistance agreement, the Grants Officer Representative and the Grants Officer must initiate corrective action with the non-Federal entity.
+Application Review Information
+Criteria: Eligible submissions will be those that comply with the criteria and requirements included in this announcement. In addition, the review panel will evaluate the concept notes based on the following criteria, in addition to a ranking of High/Medium/Low priority:
+
+Quality of project idea (10 points). Demonstration that the project specifically addresses one or more of the four capacity building areas; rationale and/or evidence that the project will address key needs and contribute to positive refugee outcomes; incorporation of new, creative, or innovative approaches; nonduplication of local, state, and federally funded initiatives; and collaboration, coordination, and leveraging of existing relevant resources and projects.
+Project feasibility/ability to achieve outcomes (10 points). Realistic, coherent strategy with a clear action plan, milestones, and expected outcomes. Strong evidence and/or rationale for proposed approach.
+Project Scope (10 points). Potential for project to operate at a national level or to scale over time to support resettlement partners participating in R&P, and/or to contribute to expansion of a cohesive, effective resettlement system. Project does not duplicate other local, state, or federally funded initiatives.
+Organizational experience and capacity (10 points). Demonstrated capability to implement and manage a productive, effective project and realize proposed outcomes. Sound management staffing, structure, and strategy. Proposals from consortia demonstrate clear oversight mechanisms and implementation plans. One or more of the applicants in the consortia are refugee-led organizations (established and led entirely by refugees or having them in over half of the decision-making roles).
+Cost effectiveness (10 points). Level of requested funding in relation to proposed outcomes demonstrates efficient use of resources, including private contributions as applicable. Degree of project sustainability.
+
+PRM will conduct a formal competitive review of all concept notes submitted in response to this funding announcement. A review panel of at least three people will evaluate submissions based on the above-referenced programmatic criteria and PRM priorities in the context of available funding.
+After reviewing the concept notes, selected organizations will be invited to submit full proposals. PRM expects to provide formal notifications to NGOs of final decisions within 90 days after the closing date of this announcement. Selected organizations will have 30 calendar days from notification to submit full proposals, with detailed budgets, and attachments as applicable (refer to PRM’s General NGO Guidelines for general proposal formatting and submission guidance for multi-year projects).
+Federal Award Administration Information
+Federal Award Administration. A successful applicant can expect to receive a separate notice from PRM stating that an application has been selected before PRM makes the federal award. That notice is not an authorization to begin performance. Only the notice of award signed by the Grants Officer is the authorizing document. Unsuccessful applicants will be notified following completion of the selection and award process.
+Administrative and National Policy Requirements. PRM awards are made consistent with the following provisions in the following order of precedence: (a) applicable laws and statutes of the United States, including any specific legislative provisions mandated in the statutory authority for the award; (b) Code of Federal Regulations (CFR); (c) Department of State Standard Terms and Conditions of the award; (d) the award’s specific requirements; and (e) other documents and attachments to the award.
+Reporting. Successful applicants will be required to submit:
+
+Program Reports: PRM requires program reports describing and analyzing the results of activities undertaken during the validity period of the agreement. A program report is required within thirty (30) days following the end of each three-month period of performance during the validity period of the agreement. The final program report is due one hundred and twenty (120) days following the end of the agreement. The submission dates for program reports will be written into the cooperative agreement. Partners receiving multi-year awards should follow this same reporting schedule and should still submit a final program report at the end of each year that summarizes the NGO’s performance during the previous year.
+Financial Reports: Financial reports are required within thirty (30) days following the end of each calendar year quarter during the validity period of the agreement (January 30th, April 30th, July 30th, October 30th). The final financial report covering the entire period of the agreement is required within one hundred and twenty (120) days after the expiration date of the agreement. For agreements containing indirect costs, final financial reports are due within sixty (60) days of the finalization of the applicable negotiated indirect cost rate agreement (NICRA). Reports reflecting expenditures for the recipient’s overseas and United States offices should be completed in accordance with the Federal Financial Report (FFR SF-425) and submitted electronically in the Department of Health and Human Services’ Payment Management System (HHS/PMS) and in accordance with other award specific requirements. Detailed information pertaining to the Federal Financial Report including due dates, instruction manuals and access forms, is provided on the HHS/PMS website.
+Audit Reports: When a recipient-contracted audit is not required because the Federal award amount is less than the $750,000 threshold, the Department may determine that an audit must be performed and the audit report must be submitted to the responsible grants office(r) for review, dissemination, and resolution as appropriate. The cost of audits required under this policy may be charged either as an allowable direct cost to the award or included in the organizations established indirect costs in the award’s detailed budget.
+
+PRM Points of Contact
+Applicants with technical questions related to this announcement should contact the PRM staff listed below prior to submission. Please note that responses to technical questions from PRM do not indicate a commitment to fund the project discussed.
+PRM POC: Holly Herrera, HerreraHA@state.gov
+Disclaimer: External websites linked above may not be supported or accessible by all web browsers. If you are unable to link to a referenced website, please try using a different browser or update to a more recent one. If you continue to experience difficulties to reach external resources, please contact the PRM NGO Coordinator.
+
+
+
+
+
+
+Tags
+
+Bureau of Population, Refugees, and Migration
+Refugees
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+					June 22, 2022
+				
+
+
+				World Refugee Day 2022			
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+					June 20, 2022
+				
+
+
+				Remarks at the Annual Tripartite Consultations on Resettlement			
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					June 20, 2022
+				
+
+
+				Commemorating World Refugee Day 2022			
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+
+Back to Top
+
+
+
+
+
+
+
+
+
+
+
+
+White House
+USA.gov
+Office of the Inspector General
+Archives
+Contact Us
+ 
+
+
+
+
+follow us
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+Flickr
+GovDelivery
+
+
+
+
+Privacy Policy
+Accessibility Statement
+Copyright Information
+FOIA
+No FEAR Act
+ 
+
+
+
+
+
+
+
+
+Search:
+
+
+
+
+Search
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+.wmpci-popup-wrp .wmpci-popup-body{background-color: #ffffff;border-width: 0px; border-style: solid;max-width: 50;}.wpmci-popup-cnt-inr-wrp{height:1000;color:#000000;}.wpmci-popup-cnt-inr-wrp h2, .wpmci-popup-cnt-inr-wrp h4{color:#000000;}
+
+
+
+
+
+U.S. Department of State
+The Lessons of 1989: Freedom and Our Future
+
+
+
+
+
+
+
+
+var sbiajaxurl = "https://www.state.gov/wp-admin/admin-ajax.php";
+
+
+
+
+
+
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/www.state.gov\/wp-json\/","nonce":"2889d25d7e","versionString":"wp\/v2\/"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var Wmpci_Popup = {"enable":"0","delay":"0","exp_time":"1","close_on_esc":"1","hide_time":"0"};
+/* ]]> */
+
+
+
+

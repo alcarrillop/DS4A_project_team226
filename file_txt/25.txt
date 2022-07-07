@@ -1,0 +1,1592 @@
+
+
+
+
+
+
+
+//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+
+
+
+FY 2020 Notice of Funding Opportunity for NGO Programs Benefiting Refugees and Vulnerable Populations in Burkina Faso, Mauritania, Niger, and Senegal - United States Department of State
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://2017-2021.state.gov/#website","url":"https://2017-2021.state.gov/","name":"United States Department of State","description":"","potentialAction":[{"@type":"SearchAction","target":"https://2017-2021.state.gov/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://2017-2021.state.gov/fy-2020-nofo-refugees-west-africa/#webpage","url":"https://2017-2021.state.gov/fy-2020-nofo-refugees-west-africa/","name":"FY 2020 Notice of Funding Opportunity for NGO Programs Benefiting Refugees and Vulnerable Populations in Burkina Faso, Mauritania, Niger, and Senegal - United States Department of State","isPartOf":{"@id":"https://2017-2021.state.gov/#website"},"datePublished":"2020-04-23T11:55:12+00:00","dateModified":"2020-12-01T02:42:56+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://2017-2021.state.gov/fy-2020-nofo-refugees-west-africa/"]}]}]}
+
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/2017-2021.state.gov\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//<![CDATA[
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page"};
+	dataLayer.push( dataLayer_content );//]]>
+
+//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T9WK49Q');//]]>
+
+
+
+
+
+
+
+			@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	.profile-card__wrapper .profile-card__image img { top: 63% !important; }
+}
+span.icon-svg, span.icon-svg svg {
+    width: auto;
+}
+.wmpci-popup-wrp.splash {
+    background: hsla( 217, 17%, 66%, 0.6 );
+}
+
+.wmpci-popup-body {
+    max-width: 750px;
+}
+
+.wpmci-popup-cnt-inr-wrp {
+    box-shadow: 0 0 17px 5px hsla(0, 0%, 12%, 0.2);
+    padding: 0;
+}
+
+.dos_popup_header {
+    height: auto;
+    width: 100%;
+}
+
+.wpmci-popup-cnt-inr-wrp h2 {
+    background: linear-gradient( to bottom, #062135 0, #062135 68px, #0a324c 68px, #0a324c 100% );
+    color: #fff !important;
+    font-family: "EB Garamond", Times, Serif;
+    font-size: 20px;
+    height: 168px;
+    margin-bottom: 60px !important;
+    padding-top: 111px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.wpmci-popup-cnt-inr-wrp h2 em {
+    display: inline-block;
+    margin-right: 0.25em;
+    text-transform: none;
+}
+
+.wpmci-popup-cnt-inr-wrp h2::before {
+    background: center / contain no-repeat url('/wp-content/themes/state/images/state-favicon.png');
+    content: '';
+    display: block;
+    height: 70px;
+    left: 50%;
+    position: absolute;
+    top: 19px;
+    transform: translateX( -50% );
+    width: 70px;
+}
+
+.wpmci-popup-cnt-inr-wrp h4 {
+    color: #0a314d !important;
+    font-family: "EB Garamond", Times, Serif;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+    line-height: 42px;
+    margin-bottom:30px;
+}
+
+.dos_popup_copy {
+    color: #333;
+    font-family: "Open Sans", Arial, Sans-Serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.25px;
+    line-height: 28px;
+    margin: 40px auto 50px !important;
+    width: 80%;
+}
+
+.dos_popup_close {
+    border: 3px #D11F27 solid;
+    color: #0a314d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Open Sans", Arial, Sans-Serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    height: 72px;
+    letter-spacing: 1.5px;
+    margin: 0 auto 30px;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.dos_popup_close:hover {
+    color: #8d98aa;
+}
+
+.dos_popup_close::after {
+    color: #d01319;
+    margin-left: 10px;
+}
+.collection-result .collection-result-meta span {
+    border-right: 2px solid #ccc;
+    margin: 20px 15px 0 0;
+    padding-right: 15px;
+}
+.collection-result .collection-result-meta span:last-child {
+    border: 0;
+    margin: 20px 0 0;
+    padding: 0;
+}
+@media only screen and (min-width: 600px) {
+	.collection-result .collection-result-meta span {
+		white-space: nowrap;
+	}
+}
+.collection-result-meta .divider {
+    display: none;
+}
+.report-appendices .appendix__contents ul ul li {
+    padding-left: 20px;
+}
+.report-appendices .appendix__contents ol
+padding-inline-start: 40px;
+}
+.report-appendices .appendix__contents ol > li {
+    padding-left: 0;
+	margin-left: 30px;
+list-style: decimal;
+}
+.report-appendices .appendix__contents ol li {
+    padding-left: 0;
+    margin-left: 30px;
+    list-style: decimal;
+}
+.report-appendices .appendix__contents h2 {
+display: block;
+font-size: 42px;
+font-weight: normal;
+margin-block-end: .83em;
+margin-block-start: .83em;
+padding: 15px 0 5px 0;
+margin: inherit;
+color: #0A314D;
+font-family: "EB Garamond", Times, Serif;
+}
+.report-appendices .appendix__contents h3 {
+display: block;
+font-size: 36px;
+font-weight: normal;
+margin-block-end: .83em;
+margin-block-start: .83em;
+padding: 15px 0 5px 0;
+margin: inherit;
+color: #0A314D;
+font-family: "EB Garamond", Times, Serif;
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    .report-toc span.toc-hamburger {
+      left: -50px;
+    }
+}
+#post-14921 .collection-result-meta {display: none;}
+
+.page-template-collection-by-terms .button.button--filters.report-nav__open::before {
+content: '';
+background: url('/wp-content/uploads/2020/12/filter-icon.png');
+width: 40px;
+height: 40px;
+position: relative;
+display: block;
+left: 10px;
+}		
+!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="2DA7E-FYR2K-MHG3S-LKGMK-J5ETF",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"2DA7E-FYR2K-MHG3S-LKGMK-J5ETF";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="ejfiazyx2t5quywbxc5a-f-94123ac8c-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"32","ak.cp":"669151","ak.ai":parseInt("677240",10),"ak.ol":"0","ak.cr":21,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"655a04af","ak.r":41483,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"34.74.128.0","ak.cport":59628,"ak.gh":"23.220.107.10","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1656862906","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==U0AbuDFW19+2o5cXJPyeqG1hDcZKf4g4D0HfZK5yM/dYm74nlv3h4tATWULdO2VrtwZW8Ob5Pe6kZZ5mZpdQF1fm3bfv4ph7pWgzCh8q+8fBmywUzQSc7lNNMWJSCB5FSBJGqP7YJa6Ph/85ZAKP2YSI34XY3+KXXQJ50K5sVZ0XmOf3EEQnrWb+ijCDf6CBZaLqUjO6xuDOQNwL/nb8xe0vKEtsq+tTvDWSf89m6ANb0aU7SBaWptLEoWn1uAmc+7zR1/7/rsgevba0lTyPNPkcvJe86AVScehvhuWRHjC0R1PfpMxHJYj+sm09dkNq9QB2CJsn6IS1bumlxfaQAGzpxj4ISdZ+IDO8H4CN5xW73nJ1fEwpPoAjqlXx5/eq1X9lxIcleAWkA31Lbe7z9FGdjPudjrnWjEr0V4YwMyM=","ak.pv":"19","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+
+
+
+Skip to content
+
+An official website of the United States government Here's how you know
+
+
+
+
+Official websites use .gov
+				A .gov website belongs to an official government organization in the United States.
+			
+
+
+
+
+Secure .gov websites use HTTPS
+				A lock (  ) or https:// means youâve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+			
+
+
+
+
+
+
+2017-2021 ARCHIVED CONTENTYou are viewing ARCHIVED CONTENT released online from January 20, 2017 to January 20, 2021.Content in this archive site is NOT UPDATED, and links may not function.For current information, go to www.state.gov.
+.header-alert .icon.icon-close-thin.header-alert__close.js-header-alert-close{display:none;}
+
+
+Close
+
+
+
+
+
+
+Press
+Business
+Employees
+Job Seekers
+Students
+Travelers
+ 
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+Flickr
+
+
+
+
+
+
+
+	// Code to load the navigation without the temporarily blank navigation and page jumpiness -- mainly for desktop.
+	if ( jQuery(window).width() >= 975 ) {
+		jQuery('.nav__utility').show();
+		jQuery('.site-nav--primary').appendTo('.nav__second-nav');
+		jQuery('.nav__primary-nav').appendTo('.nav__second-nav');
+	}
+	if ( jQuery(window).width() < 975 ) {	
+		jQuery('.nav__utility').hide();
+	}
+
+
+
+Menu
+
+State Department Home
+
+Search
+
+
+State Department Home
+Policy Issues
+
+Back
+
+Policy Issues
+
+
+
+
+
+
+										5G Security
+									
+
+
+
+
+
+
+										Anti-Corruption and Transparency
+									
+
+
+
+
+
+
+										Arms Control and Nonproliferation
+									
+
+
+
+
+
+
+										The China Challenge
+									
+
+
+
+
+
+
+										Climate and Environment
+									
+
+
+
+
+
+
+										Combating Drugs and Crime
+									
+
+
+
+
+
+
+										Coronavirus
+									
+
+
+
+
+
+
+										Countering Terrorism
+									
+
+
+
+
+
+
+										Cyber Issues
+									
+
+
+
+
+
+
+										Economic Prosperity and Trade Policy
+									
+
+
+
+
+
+
+										Energy
+									
+
+
+
+
+
+
+										Global Health
+									
+
+
+
+
+
+
+										Global Women's Issues
+									
+
+
+
+
+
+
+										Human Rights and Democracy
+									
+
+
+
+
+
+
+										Human Trafficking
+									
+
+
+
+
+
+
+										Illegal Immigration
+									
+
+
+
+
+
+
+										Iran: A Dangerous Regime
+									
+
+
+
+
+
+
+										Nicaragua: Return to Democracy
+									
+
+
+
+
+
+
+										The Ocean and Polar Affairs
+									
+
+
+
+
+
+
+										Refugee and Humanitarian Assistance
+									
+
+
+
+
+
+
+										Science, Technology, and Innovation
+									
+
+
+
+
+
+
+										Treaties and International Agreements
+									
+
+
+
+
+
+
+										Venezuela: A Democratic Crisis
+									
+
+
+
+
+
+
+
+Countries & Areas
+
+Back
+
+Countries & Areas
+
+Search for country or area
+
+AAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+BBahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+CCabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Costa Rica
+CÃ´te dâIvoire
+Croatia
+Cuba
+Cyprus
+Czechia
+DDemocratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+EEcuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+FFiji
+Finland
+France
+GGabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+HHaiti
+Holy See
+Honduras
+Hungary
+IIceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+JJamaica
+Japan
+Jordan
+KKazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+LLaos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+MMadagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+NNamibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+OOman
+PPakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+QQatar
+RRepublic of the Congo
+Romania
+Russia
+Rwanda
+SSaint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+SÃ£o TomÃ© and PrÃ­ncipe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+TTaiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+UUganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uruguay
+Uzbekistan
+VVanuatu
+Venezuela
+Vietnam
+YYemen
+ZZambia
+Zimbabwe
+
+
+
+
+
+Bureaus & Offices
+
+Back
+
+Bureaus & Offices
+
+
+
+Deputy Secretary of StateDeputy Secretary of State
+Deputy Secretary of State
+Office of Small and Disadvantaged Business Utilization
+Office of the U.S. Coordinator for the Arctic Region
+Reporting Directly to the SecretaryReporting Directly to the Secretary
+Bureaus and Offices Reporting Directly to the Secretary
+Bureau of Intelligence and Research
+Bureau of Legislative Affairs
+Counselor of the Department
+Executive Secretariat
+Office of Civil Rights
+Office of Foreign Assistance
+Office of Global Women’s Issues
+Office of the Chief of Protocol
+Office of the Coordinator for Cyber Issues
+Office of the Legal Adviser
+Office of the Ombudsman
+Office of the U.S. Global AIDS Coordinator and Global Health Diplomacy
+Policy Planning Staff
+Special Presidential Envoy for Hostage Affairs
+Special Representative for Afghanistan Reconciliation
+Special Representative for Iran
+Special Representative for Syria Engagement
+Special Representative for Venezuela
+The Global Coalition To Defeat ISIS
+U.S. Security Coordinator for Israel and the Palestinian Authority
+Arms Control and International SecurityArms Control and International Security
+Under Secretary for Arms Control and International Security
+Bureau of Arms Control, Verification and Compliance
+Bureau of International Security and Nonproliferation
+Bureau of Political-Military Affairs
+Civilian Security, Democracy, and Human RightsCivilian Security, Democracy, and Human Rights
+Under Secretary for Civilian Security, Democracy, and Human Rights
+Bureau of Conflict and Stabilization Operations
+Bureau of Counterterrorism
+Bureau of Democracy, Human Rights, and Labor
+Bureau of International Narcotics and Law Enforcement Affairs
+Bureau of Population, Refugees, and Migration
+Office of Global Criminal Justice
+Office of International Religious Freedom
+Office of the Special Envoy To Monitor and Combat Anti-Semitism
+Office of the U.S. Special Coordinator for Tibetan Issues
+Office to Monitor and Combat Trafficking in Persons
+Economic Growth, Energy, and EnvironmentEconomic Growth, Energy, and Environment
+Under Secretary for Economic Growth, Energy, and the Environment
+Bureau of Economic and Business Affairs
+Bureau of Energy Resources
+Bureau of Oceans and International Environmental and Scientific Affairs
+Office of Global Partnerships
+Office of the Chief Economist
+Office of the Science and Technology Adviser
+ManagementManagement
+Under Secretary for Management
+Bureau of Administration
+Bureau of Budget and Planning
+Bureau of Consular Affairs
+Bureau of Diplomatic Security
+Bureau of Global Talent Management
+Bureau of Information Resource Management
+Bureau of Medical Services
+Bureau of the Comptroller and Global Financial Services
+Director of Diplomatic Reception Rooms
+Foreign Service Institute
+Office of Emergencies in the Diplomatic and Consular Service
+Office of Foreign Missions
+Office of Management Strategy and Solutions
+Bureau of Overseas Buildings Operations
+Political AffairsPolitical Affairs
+Under Secretary for Political Affairs
+Bureau of African Affairs
+Bureau of East Asian and Pacific Affairs
+Bureau of European and Eurasian Affairs
+Bureau of International Organization Affairs
+Bureau of Near Eastern Affairs
+Bureau of South and Central Asian Affairs
+Bureau of Western Hemisphere Affairs
+Public Diplomacy and Public AffairsPublic Diplomacy and Public Affairs
+Under Secretary for Public Diplomacy and Public Affairs
+Educational and Cultural Affairs
+Expo Unit
+Global Engagement Center
+Global Public Affairs
+Policy, Planning, and Resources
+
+
+
+
+
+
+
+About
+
+Back
+
+About
+
+
+
+Mission
+
+
+
+										About the U.S. Department of State
+									
+
+
+
+
+										Professional Ethos
+									
+
+
+
+
+										Joint Strategic Plan
+									
+
+
+
+
+										Foreign Affairs Manual and Handbook
+									
+
+
+
+
+										Department of State by State Map
+									
+
+
+
+
+										We Are the U.S. Department of State
+									
+
+
+
+Leadership
+
+
+
+										The Secretary of State
+									
+
+
+
+
+										Deputy Secretary of State
+									
+
+
+
+
+										Executive Secretariat
+									
+
+
+
+
+										Counselor of the Department
+									
+
+
+
+Administrative
+
+
+
+										Department Reports and Publications
+									
+
+
+
+
+										Agency Financial Reports
+									
+
+
+
+
+										Form Finder
+									
+
+
+
+
+										Organization Chart
+									
+
+
+
+
+										Plans, Performance, Budget
+									
+
+
+
+
+										Information Quality Act
+									
+
+
+
+
+										Open Government Initiative
+									
+
+
+
+
+										Digital Government Strategy
+									
+
+
+
+
+										Plain Writing Program
+									
+
+
+
+
+										Partner With State
+									
+
+
+
+History
+
+
+
+										Foreign Relations of the United States
+									
+
+
+
+
+										Previous Administration Archives
+									
+
+
+
+Directories
+
+
+
+										Biographies of Senior Officials
+									
+
+
+
+
+										Contact Us
+									
+
+
+
+
+										Telephone Directory
+									
+
+
+
+
+										U.S. Ambassadors
+									
+
+
+
+
+										U.S. Embassies and Other Posts
+									
+
+
+
+
+										Country Offices Directory
+									
+
+
+
+
+										Key Officers of Foreign Service Posts
+									
+
+
+
+
+										Diplomats in Residence
+									
+
+
+
+Visit
+
+
+
+										Diplomatic Reception Rooms
+									
+
+
+
+
+										National Museum of American Diplomacy
+									
+
+
+
+
+										Art in Embassies
+									
+
+
+
+
+
+
+
+
+
+
+
+
+	// Code to load the navigation without the temporarily blank navigation and page jumpiness -- mainly for desktop.
+	if ( jQuery(window).width() >= 975 ) {
+		jQuery('.nav__utility').show();
+		jQuery('.site-nav--primary').appendTo('.nav__second-nav');
+		jQuery('.nav__primary-nav').appendTo('.nav__second-nav');
+	}
+	if ( jQuery(window).width() < 975 ) {	
+		jQuery('.nav__utility').hide();
+	}
+
+
+
+
+
+
+
+
+
+
+
+				
+					FY 2020 Notice of Funding Opportunity for NGO Programs Benefiting Refugees and Vulnerable Populations in Burkina Faso, Mauritania, Niger, and Senegal
+				
+			
+
+
+Funding Opportunity Announcement
+Bureau of Population, Refugees, and Migration
+April 23, 2020
+
+
+
+
+Share
+
+
+Share this page on:
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+Funding Opportunity Number: SFOP0006817
+Assistance Listings (CFDA) number:Â 19.517 – Overseas Refugee Assistance Programs for Africa
+Announcement issuance date: Thursday, April 16, 2020
+Announcement type:Â Â Cooperative Agreement
+Proposal submission deadline:Â  Monday, May 18, 2020 at 11:59:59 p.m.Â  We are unable to consider proposals submitted after this deadline.
+Anticipated time to award for selected proposals: Pending the availability of funds, PRM anticipates, but makes no guarantee, that awards will be made less than 3 months from the proposal submission deadline.
+**ADVISORY:Â Â All applicants must submit application packages through the website Grants.gov (not SAMS Domestic).Â  Applications that are submitted through SAMS Domestic in response to this funding opportunity will be disqualified.Â Â PRM strongly recommends submitting your application package early to allow time to address any technical difficulties that may arise on the Grants.gov website. **
+If you are new to PRM funding, the Grants.govÂ registration process can be complicated.Â Â We urge you to refer to PRMâs General NGO Guidelines âApplication Processâ section for information and resources to help ensure that the application process runs smoothly.Â Â PRM also strongly encourages organizations that have received funding from PRM in the past to read this section as a refresher.
+PRM recommends application packages be submitted in Adobe PDF, as Microsoft Word documents may sometimes produce different page lengths based on software versions and configurations.Â  Do not include a cover page, page limits are strictly adhered to, andÂ exceeding the page length limits will result in disqualification.Â Â All documentsÂ must be in English.
+Organizations can request a proposal template by emailing PRM’s NGO Coordinator with the with the subject line âPRM NGO Templatesâ (exactly as written, and without the quotation marks), and you will get an automatic reply email with the template.
+Full Text of Notice of Funding Opportunity
+1. Program Description
+ThisÂ announcement is designed to accompanyÂ PRMâsÂ General NGO GuidelinesÂ which contain additional information on PRMâs priorities and NGO funding strategy with which selected organizations must comply.Â Â Please use both theÂ General NGO GuidelinesÂ and this announcement to ensure that your submission is in full compliance with PRM requirements and that the proposed activities are in line with PRMâs priorities.Â Â Submissions that do not reflect the requirements outlined in these guidelines will not be considered.
+A. Current Funding Priorities: Proposed activities should support refugee populations and host communities in Burkina Faso, Mauritania, Niger, and refugee returnee populations in Senegal. Because of PRM’s mandate to provide protection, assistance, and sustainable solutions for refugees and victims of conflict, PRM will consider funding only those programs that include a target beneficiary base of at least 50 percent refugees in Burkina Faso, Mauritania, Niger or refugee returnees in Senegal, and in the sectors outlined in the country-specific guidelines below. Programs in non-camp areas should pursue a community-based approach that also benefits host communities. It is strongly encouraged that projects mainstream protection, in particular gender-based violence (GBV) risk mitigation, across proposed sectors and activities. Proposals may include host government capacity building as an aspect that supports other refugee assistance/protection activities. PRM strongly recommends submitting multiyear proposals for multiyear activities that build on previous year activities.
+B. Program area:Â Â Proposals must support one or more of the following program areas:
+Burkina Faso: Proposed activities must support Malian refugees living in Goudebou and Mentao camps or settled outside of camps. Proposals may focus on one or more of the following areas of intervention:
+
+Protection, including child protection, gender-based violence (GBV) prevention and response, and support for vulnerable groups
+Livelihoods â priority will be given to programs that foster refugeesâ economic security/self-sufficiency (must include a market analysis, or will be disqualified)
+Education
+
+Mauritania: Proposed activities must support Malian refugees (living in Mbera camp or outside of camp in Bassikounou Department. Proposals may focus on one or more of the following areas of intervention:
+
+Protection, including child protection, gender-based violence (GBV) prevention and response
+Education â priority will be given to projects that demonstrate coordination with national education plans of both the host country and â when possible â the country of origin
+
+Niger: It is strongly recommended that organizations wishing to work with both Malian and Nigerian refugees in Niger submit a single proposal that covers activities benefiting both populations. Organizations are not required to work with both Malian and Nigerian refugees. Proposed activities must focus primarily on support for Malian refugees in Tillabery or Tahoua regions, and/or support for Nigerian refugees and other conflict-victims in Diffa region. PRM is not currently funding NGO programs in Maradi Region. Proposals may focus on one or more of the following areas of intervention:
+
+For Malian refugees living in camps, zones d’accueil, or those who have transitioned or are in the process of transitioning out of camps as part of UNHCR âlocalizationâ efforts. Proposals may focus on one or more of the following areas of intervention:
+(i) Protection, including child protection and gender-based violence (GBV) prevention and response, and support for vulnerable groups
+(ii) Livelihoods â priority will be given to programs that foster refugeesâ economic security/self-sufficiency (must include a market analysis, or will be disqualified)
+
+
+For Nigerian refugees and other conflict-victims in the Diffa region living in current or planned refugee camps or outside of camps. Priority will be given to programs that can also demonstrate benefit to affected host communities and/or Nigerien returnees displaced by the conflict in Nigeria. Proposals may focus on one or more of the following areas of intervention:
+(i) Protection, including child protection, gender-based violence (GBV) prevention and response, and support for vulnerable groups â priority will be given to assistance for unaccompanied and separated minors, women and girls, and/or prevention of recruitment by armed groups and ensuring civilian character of refugee-hosting sites
+(ii) Water, Sanitation, and Hygiene (WASH)
+
+Senegal: Proposed activities must support Senegalese refugee returnees to the Casamance region. Proposals may focus on one or more of the following areas of intervention:
+
+Shelter
+Water, Sanitation, and Hygiene (WASH)
+
+In order to ensure greater accountability for protection outcomes, all overseas assistance program proposals must include the following protection outcome indicator under one of the objectives: Percentage of beneficiaries who report an improved sense of safety and well-being at the end of the program, disaggregated by age and gender.Â  See NGO Guidelines in section A.C.1. of Appendix C for more details.
+Cash and Voucher Assistance programs must include one indicator from the selection contained in the NGO Guidelines in section A.C.2. of Appendix C.
+Organizations may submit a maximum of one proposal per country only.Â  Any subsequent submissions received will be disqualified.Â  (Note: Submissions by organizations as part of a consortium do not count toward an individual organizationâs submission limit.)
+D. Organizations may submit a maximum of one proposal per country only.Â Â Any subsequent submissions received will be disqualified.Â Â (Note: Submissions by organizations as part of a consortium do not count toward an individual organizationâs submission limit.)
+E. Country-Specific Provisions:
+General Guidance: Proposed activities should primarily support refugee populations in targeted countries as identified below. Â PRM will only review proposals for a target beneficiary base of at least 50 percent refugees as outlined in the country specific guidelines above. Programs should, whenever possible, pursue a community-based approach that also benefits host communities. Please see below the criteria on which the review panel will evaluate proposals.
+Duration of Activity: Program plans for one, two, or three years will be considered.
+Period of Performance: Programs period of performance of up to 12 months will be considered.
+Funding limits: Program proposals must not be less than the funding floor and not more than the funding ceiling per year or they will be disqualified.
+
+Burkina Faso, Mauritania, and Niger: benefiting only Malian refugees
+
+Funding floor per award $400,000
+Funding ceiling per award $1,000,000
+
+
+Niger: benefiting only Nigerian refugees
+
+Funding floor per award $400,000
+Funding ceiling per award $800,000
+
+
+Niger: benefiting both Malian and Nigerian refugees in multiple locations
+
+Funding floor per award $700,000
+Funding ceiling per award $1,500,00
+
+
+Senegal: benefiting Senegalese refugee returnees in the Casamance
+
+Funding floor per award $400,000
+Funding ceiling per award $800,000
+
+
+
+Note: Â Funding ceilings and floors pertain to the PRM cost per year.
+Anticipated Number of Awards: PRM anticipates, but makes no guarantee, to make approximately up to 10 to 12 awards through this announcement.
+Anticipated Amount to be Awarded Total:Â  PRM anticipates, but makes no guarantee, to approximately award up to $11,000,000 total through this NOFO for this country.
+2. Federal Award Information
+Proposed program start dates: August 1, 2020
+Duration of Activity: See country-specific guidelines above.Â  Applicants may submit multi-year proposals with activities and budgets that do not exceed three years from the proposed start date.Â  Actual awards will not exceed one year in duration and activities and budgets submitted in year one can be revised/updated each year.Â  Continued funding after the initial 12-month period of performance requires the submission of a noncompeting single or multiyear proposal and will be contingent upon available funding, strong performance, and continuing need.Â  In funding a program one year, PRM makes no representations that it will continue to fund the program in successive years and encourages applicants to seek a wide array of donors to ensure long-term funding possibilities.Â  Please see Multi-Year Funding section below for additional information.Â  Livelihoods programs are encouraged to be multi-year, and livelihoods proposals must include a market analysis or will be disqualified.
+Period of Performance: See country-specific guidelines above.
+Funding Limits: See country-specific guidelines above.
+Anticipated Number of Awards: See country-specific guidelines above.
+Anticipated Amount to be Awarded Total: See country-specific guidelines above.
+3. Eligibility Information
+A. Eligible Applicants: (1) Nonprofits having a 501(c)(3) status with IRS, other than institutions of higher education; (2) Nonprofits without 501(c)(3) status with IRS, other than institutions of higher education; and (3) International Organizations.Â  International multilateral organizations, such as United Nations agencies, should not submit proposals through Grants.gov in response to this Notice of Funding Opportunity.Â  Multilateral organizations that are seeking funding for programs relevant to this announcement should contact the PRM Program Officer (as listed below) on or before the closing date of the funding announcement.
+Cost Sharing or Matching: Cost sharing, matching, or cost participation is not a requirement of an application in response to this funding announcement.Â Proposals will be considered that describe the sources and amounts of additional funding that may be utilized to compliment PRM funding, and meet the following criteria;
+
+Are not paid by the Federal Government under another Federal award;
+Are verifiable from the non-Federal entity’s records;
+Are not included as contributions for any other Federal award; and
+Are necessary and reasonable for accomplishment of project or program objectives.
+
+Please include this information in the Budget Summary, Budget Detail, and Budget Narrative of the proposal, and separated from the PRM share of the proposed budget.
+(Note: Though favorably looked upon, such will not result in a competitive ranking increase when evaluated.)
+4. Other
+Proposals must have a concrete implementation plan with well-conceived objectives and indicators that are specific, measurable, achievable, relevant and reliable, time-bound, and trackable (SMART), have established baselines, and include at least one outcome or impact indicator per objective; objectives should be clearly linked to the sectors.
+Proposals must adhere to relevant international standards for humanitarian assistance. See PRMâs General NGO Guidelines for a complete list of sector-specific standards including guidance on proposals for programs in urban areas.
+PRM strongly encourages programs that target the needs of vulnerable and underserved groups among the beneficiary population (such groups may include: women; children; adolescents; lesbian, gay, bisexual, transgender, or intersex (LGBTI) individuals; older persons; the sick; persons with disabilities; and members of minority communities) and can demonstrate what steps have been taken to meet the specific and unique protection and assistance needs of these vulnerable groups effectively.
+PRM will accept proposals from any NGO working in the above mentioned sectors although, given budgetary constraints, priority will be given to proposals from organizations that can demonstrate:
+
+a working relationship with UNHCR;
+a proven track record in providing proposed assistance both in the sector and specified location;
+evidence of coordination with international organizations (IOs) and other NGOs working in the same area or sector as well as â where possible â local authorities;
+an emphasis on the outcome or impact of program activities;
+a strong sustainability plan, involving local capacity building, where feasible;
+where applicable, adherence to PRMâs Principles for Refugee Protection in Urban Areas ;
+an understanding of and sensitivity to conflict dynamics in the program location.
+
+5. Application and Submission Instructions
+Consortia: Organizations may apply to this call as part of a consortia; however, for consortia, one organization must be designated as the lead applicant. For purposes of consortia applying for PRM funding, PRMâs considers consortium to be a group of no less than three NGOs that comprise an agreement, combination, or group formed to undertake, or propose to undertake, an assistance activity beyond the resources of any one member.
+Submissions by organizations as part of a consortium do not count toward an individual organizationâs submission limit.Â  A description of how the partnership will be organized and how lines of authority and decision-making will be managed across all team members and between the lead applicant and associate awardees should be included in the proposal.
+Content and Form of Application: Organizations may submit a maximum of 1 proposal(s) per country only.Â  Any subsequent submissions received will be disqualified.Â  PRM strongly recommends using the proposal and budget templates that are available upon email request from PRM’s NGO Coordinator.Â  Organizations can request single-year and multi-year funding proposal narrative templates by emailing PRM’s NGO Coordinator with the subject line âPRM NGO Templatesâ (exactly as written, without the quotation marks), and you will get automatic reply email with all of the templates.
+Single-Year Proposals:
+Single-year program proposal page limits: Single-year proposals using PRMâs templates must be no more than 15 pages in length (Times New Roman 12 point font, one inch margins on all sides).Â  If the applicant does not use PRMâs recommended templates, proposals must not exceed 10 pages in length.Â  Organizations may choose to attach work plans, activity calendars, and/or logical frameworks as addendums/appendices to the proposal.Â  These attachments do not count toward the page limit total; however, annexes cannot be relied upon as a key source of program information.Â  The proposal narrative must be able to stand on its own in the application process.Â  For multi-year funding application instructions, see section (e) below.Â  Proposals exceeding the page limit will not be considered.
+
+PRM recommends proposals be submitted in Adobe PDF, as Microsoft Word documents may sometimes produce different page lengths based on software versions and configurations.
+Exceeding page length limits, including through the inclusion of cover pages, will result in disqualification.
+All proposals, and required documents, must be in English.
+
+Multi-Year Proposals:
+
+Applicants proposing multi-year programs should adhere to the following guidance: Applicants may submit proposals that include multi-year strategies presented in one year (12 month) cycles for a period not to exceed three years (36 months) from the proposed start date. Fully developed programs with detailed budgets, objectives and indicators are required for each year of activities.Â  Applicants should use PRMâs recommended multi-year proposal template for the first year of a multi-year application.
+Multi-year funding applicants may use PRMâs budget summary and separate budget detail templates, and should disaggregate budget by year, per year, and for each program year. Multi-year proposal narratives and budgets can be updated yearly upon submission of new noncompeting single year proposal narrative template with an updated budget, each year.
+Multi-year program proposal page limits: Multi-year proposals using PRMâs multi-year template must be no more than 20 pages in length (Times New Roman 12 point font, one inch margins on all sides).Â  If the applicant does not use PRMâs recommended templates, proposals must not exceed 15 pages in length.Â  Organizations may choose to attach work plans, activity calendars, and/or logical frameworks as addendums/appendices to the proposal.Â  These attachments do not count toward the page limit total however annexes cannot be relied upon as a key source of program information.Â  The proposal narrative must be able to stand on its own in the application process.Â  Proposals exceeding the page limit will not be considered.
+PRM recommends proposals be submitted in Adobe PDF, as Microsoft Word documents may sometimes produce different page lengths based on software versions and configurations.
+Exceeding page length limits, including through the inclusion of cover pages, will result in disqualification.
+All proposals, and required documents, must be in English.
+Multi-year applications selected for funding by PRM will be funded in one year (12- month) increments based on the proposal submitted in the initial application as approved by PRM. Continued funding after the initial 12-month award requires the submission of a noncompeting single-year proposal narrative and will be contingent upon available funding, strong performance, and continuing need.Â  Follow-on applications are submitted annually for years two through three of proposals through non-competed directed announcements for the continuation funding.Â  It is strongly recommended that NGOs submit as early as possible after the directed announcement for continuation funding has been issued.Â  Years two through three of proposals must be submitted by the organization no later than 90 days before the proposed start date of the new cooperative agreement (e.g., if the next program period is to begin on September 1, submit your application by June 1).Â  Late submissions will jeopardize continued funding.
+In the proposal narrative, please include an explanation of why multi-year funding may be necessary for this program to succeed, how longer periods of consultation with beneficiary populations will inform programming and enable interventions to be studied and improved, and how the proposed activities in year one will contribute to outcomes and impacts in years two and three. Please, articulate and quantify cost efficiencies that could not otherwise be attained through single year programs as well.
+
+For Both Single and Multi-year proposals
+To be considered for PRM funding, organizations must submit a complete application package, including:
+
+Proposal narrative including objectives and indicators for each year of the program period, not exceeding the page limits above. PRM now requires a specific outcome indicator to be included each proposal.Â  Please see NGO Guidelines for more details.
+Budget summary disaggregated by year and for each year of the program period.
+Budget detail disaggregated by year and for each year of the program period. Organizations can request both budget summary and separate budget detail templates by emailing PRM’s NGO Coordinator with the with the subject line âPRM NGO Templatesâ (exactly as written, and without the quotation marks), and you will get automatic reply email that includes both templates.
+Budget narrative disaggregated by year and for each year of the program period.
+Completed SF-424, SF-424A, and SF-424B forms. PRM requires that Box 21 of the SF-424 be checked.Â Form SF-424B is now required only for those applicants who have not registered in SAM.gov or recertified their registration in SAM.gov since February 2, 2019 and completed the online representations and certifications.
+Information in support of any cost-sharing/cost-matching arrangements, if applicable.
+Information detailing the source of any in-kind contributions, if applicable.
+Details on any sub-agreements associated with the program including the budget detail (must be part of the budget submission as noted above), if applicable.
+Risk Analysis (separate from proposal narrative and from the security plan).
+Organizational Chart for award applicant and sub-recipient(s), if applicable.
+Key Personnel for award applicant and sub-recipient(s), if applicable.Â Applicants must furnish names, titles, and brief biographical information on the education and experience of key personnel in implementing the program and key supervisory personnel; (i.e., the members of the professional staff in a program supervisory position engaged for or assigned to duties under the award). RÃ©sumÃ©s of key personnel must be provided in an annex (or provided for approval prior to hiring).
+Copy of the organizationâs Prevention of Sexual Exploitation and Abuse (PSEA) Code of Conduct, will be required prior to the issuance of an award, if proposal is chosen for implementation. Please ensure that your organization has a PSEA Code of Conduct consistent with the 6 IASC Principles when you are considering competing for PRM funding or it may risk delay in finalizing the cooperative agreement (See Appendix B, section A.B.6 in the NGO Guidelines for more details).
+Copy of the organizationâs Security Plan.
+Copy of the organizationâs Accountability to Affected Populations (AAP) framework, which organizations that have not received PRM-funding since 2016 or after must be submit separately.Â The AAP section of a NOFO proposal narrative is specific to the program being proposed, and is distinct from the organization-level AAP framework requirement listed here, which is a separate document, which organizations that have not received PRM-funding since 2016 or after must be submit separately.
+
+Additionally, organizations must submit the following documents as part of their proposal package, if applicable:
+
+A market analysis and a beneficiary competency/capacity assessment for all proposals that include at least one livelihoods sector objective (or will be disqualified). Please see the General NGO Guidelines for more details.
+Most recent Negotiated Indirect Cost Rate Agreement (NICRA), if applicable, or a de minimis rate calculation of Modified Total Direct Costs (MTDC) if the applicant is eligible and elects to use the de minimis rate.
+Most recent external audit report is required prior to issuance of an award, if proposal is chosen for implementation.
+In order to be considered a competitive proposal, the proposal narrative and budget detail should include the following information:
+
+
+Focus on outcome or impact indicators as much as possible. At a minimum, each objective should have one outcome or impact indicator.Â  Wherever possible, baselines should be established before the start of the program.
+PRM requires a specific outcome indicator be included in each proposal measuring the sense of safety and well-being of beneficiaries. Baseline and end of program surveys should be used to measure the indicator.Â  Please see the NGO Guidelines for more details.
+Include specific information on locations of programs and beneficiaries (GPS coordinates if possible) to increase PRMâs ability to track the impact of PRM funding.
+Outline how the NGO will acknowledge PRM funding. If an organization believes that publicly acknowledging the receipt of USG funding for a particular PRM-funded program could potentially endanger the lives of the beneficiaries and/or the organization staff, invite suspicion about the organization’s motives, or alienate the organization from the population it is trying to help, it must provide a brief explanation in its proposal as to why it should be exempted from this requirement.
+PRM expects each proposal, regardless of sector, to demonstrate protection mainstreaming, including by identifying potential protection risks associated with the program and how they will be mitigated. Assistance activities should mainstream protection by analyzing the protection risks in relation to each specific programming sector.Â  An analysis of the risks should inform how assistance is designed to minimize them and maximize protection of beneficiaries.Â  Applicants may introduce gender-specific risks in this section but provide a full analysis in the gender analysis.
+PRM partners must complete a gender analysis in the proposal narrative that briefly explains (1) experiences of men, women, boys, and girls with a focus on the different familial roles, community privileges, and gender dynamics within the target population; (2) associated risks and threats experienced by women, girls, and other vulnerable populations based on their gender; (3) power imbalances and needs that arise based on gender inequalities that exist within the family or community; and (4) proposed responses that will address the above and mitigate any gender differences in access, participation, or decision-making that may be experienced by at-risk groups, particularly women and girls. The gender analysis should aim to specify and target specific at-risk sub-populations of women and girls, such as women and girl heads of households, out-of-school girls, women and girls with disabilities, women and girl survivors of violence, married girls, adolescent mothers, as well as people who identify as lesbian, gay, bisexual, transgender, or intersex (LGBTI), and those who are often unaware of and excluded from programs and services and who may be the hardest to reach based on their gender.
+The budget should include a specific breakdown of funds being provided by UNHCR, other USG agencies, other donors, and your own organization.
+Applicants whose proposals address gender-based violence (GBV) through their programs must estimate the total cost of these activities as a separate line item in their proposed budgets (see PRMâs budget template). Proposals and budgets must include details of any sub-agreements associated with the programs.
+For consortia only, a description of how the partnership will be organized and how lines of authority and decision-making will be managed across all team members and between the lead applicant and associate awardees should be included in the proposal.
+
+Dun and Bradstreet Data Universal Numbering System (DUNS) Number and System for Award Management (SAM)
+Each applicant is required to:
+
+be registered in SAM at (sam.gov ) before submitting its application;
+provide a valid DUNS number in its application; and
+continue to maintain an active SAM registration with current information at all times during which it has an active PRM award or an application or plan under consideration by PRM. No federal award may be made to an applicant until the applicant has complied with all applicable DUNS and SAM requirements and, if an applicant has not fully complied with the requirements by the time the PRM award is ready to be made, PRM may determine that the applicant is not qualified to receive a PRM award and use that determination as a basis for making a PRM award to another applicant.
+
+Proposals must be submitted via Grants.gov (not via SAMS Domestic). gov registration requires a DUNS number and active SAM.gov registration.Â  If you are new to PRM funding, the Grants.gov registration process can be complicated.Â  We urge you to refer to PRMâs General NGO Guidelines âApplication Processâ section for information and resources to help ensure that the application process runs smoothly.Â  PRM also strongly encourages organizations that have received funding from PRM in the past to read this section as a refresher.Â  Applicants may also refer to the âFor Applicants â page on Grants.gov for complete details on requirements.
+Do not wait until the deadline to submit your application on Grants.gov. Organizations not registered with Grants.gov should register well in advance of the deadline as it can take up to two weeks to finalize registration (sometimes longer for non-U.S. based NGOs to receive required registration numbers).Â  We also recommend that organizations, particularly first-time applicants, submit applications via Grants.gov no later than one week before the deadline to avoid last-minute technical difficulties that could result in an application not being considered.Â  PRM partners must maintain an active SAM registration with current information at all times during which they have an active federal award or an application under consideration by PRM or any federal agency.
+When registering with Grants.gov , organizations must designate points of contact and Authorized Organization Representatives (AORs). Organizations based outside the United States must also request and receive an NCAGE  (https://eportal.nspa.nato.int/AC135Public/scage/CageList.aspx ) code prior to registering with SAM.gov .Â  Applicants experiencing technical difficulties with the SAM registration process should contact the Federal Service Desk  (FSD) online or at 1-866-606-8220 (U.S.) and 1-334-206-7828 (International).
+
+Applications must be submitted under the authority of the Authorized Organization Representative at the applicant organization. Having proposals submitted by agency headquarters helps to avoid possible technical problems.
+
+If you encounter technical difficulties with Grants.gov please contact the Grants.gov Help Desk at support@grants.gov or by calling 1-800-518-4726.
+Applicants who are unable to submit applications via Grants.gov due to Grants.gov technical difficulties and;
+
+who have reported the problem to the Grants.gov help desk;
+received a case number;
+had a service request opened to research the problem;
+
+may contact the relevant PRM Program Officer before the submission deadline to determine whether an alternative method of submission is appropriate.
+It is the responsibility of each applicant to ensure the appropriate registrations are in place and active. Failure to have the appropriate organizational registrations in place is not considered a technical difficulty and is not justification for an alternate means of submission.
+In accordance with 2 CFR Â§200.113, Mandatory disclosures, the non-Federal entity or applicant for a Federal award must disclose, in a timely manner, in writing to the Federal awarding agency or pass-through entity all violations of Federal criminal law involving fraud, bribery, or gratuity violations potentially affecting the Federal award. Non-Federal entities that have received a Federal award including the term and condition outlined in Appendix XIIâAward Term and Condition for Recipient Integrity and Performance Matters are required to report certain civil, criminal, or administrative proceedings to SAM.Â  Failure to make required disclosures can result in any of the remedies described in 2 CFR Â§200.338 Remedies for noncompliance, including suspension or debarment.Â  (See also 2 CFR part 180, 31 U.S.C.Â  3321, and 41 U.S.C.Â  )
+Submission Dates and Times
+
+Announcement issuance date: Friday, April 17, 2020
+Proposal submission deadline: Monday, May 18, 2020 at 11:59:59 p.m. Proposals submitted after this deadline will not be considered.
+
+Intergovernmental Review: Not Applicable.
+Funding Restrictions: Federal awards will not allow reimbursement of Federal Award costs without prior authorization by PRM.
+Other Submission Requirements
+Branding and Marking Strategy
+The following provisions will be included whenever assistance is awarded:
+The Recipient shall recognize the United States Governmentâs funding for activities specified under this award at the project site with a graphic of the U.S. flag accompanied by one of the following two phrases based on the level of funding for the award:
+
+Fully funded by the award: âGift of the United States Governmentâ
+Partially funded by the award: âFunding provided by the United States Governmentâ
+
+PRM highly encourages recognition of U.S. government funding on social media and website platforms to be included in proposals branding and marking strategy.Â  Recipients should tag PRMâs Twitter account @StatePRM and/or Facebook account @State.PRM (rather than using hashtags).Â  Additionally, the applicable U.S. Embassy should be tagged as well.
+Updates of actions taken to fulfill this requirement must be included in quarterly program reports to PRM.
+All programs, projects, assistance, activities, and public communications to foreign audiences, partially or fully funded by the Department, should be marked appropriately overseas with the standard U.S. flag in a size and prominence equal to (or greater than) any other logo or identity.Â  The requirement does not apply to the Recipientâs own corporate communications or in the United States.
+The Recipient should ensure that all publicity and promotional materials underscore the sponsorship by or partnership with the U.S. Government or the U.S. Embassy.Â  The Recipient may continue to use existing logos or project materials; however, a standard rectangular U.S. flag must be used in conjunction with such logos.
+Do not use the Department of State seal without the express written approval from PRM.
+Sub non-Federal entities (sub-awardees) and subsequent tier sub-award agreements are subject to the marking requirements and the non-Federal entity shall include a provision in the sub non-Federal entity agreement indicating that the standard, rectangular U.S. flag is a requirement.
+Exemptions from this requirement may be allowable but must be agreed to in writing by the Grants Officer.Â  (Note: An exemption refers to the complete or partial cessation of branding, not use of alternative branding).Â  Requests should be initiated with the Grants Officer and Grants Officer Representative.Â  Waivers issued are applied only to the exemptions requested through the Recipientâs proposal for funding and any subsequent negotiated revisions.
+In the event the non-Federal entity does not comply with the marking requirements as established in the approved assistance agreement, the Grants Officer Representative and the Grants Officer must initiate corrective action with the non-Federal entity.
+PRM Standardized Indicators: In an effort to streamline the proposal writing/reviewing process and better measure the impact of the Bureauâs work, PRM strongly recommends the use of standardized indicators for programs in the protection, child protection, health, mental health and psychosocial support, WASH, nutrition and food security, education, livelihoods, and shelter sectors, as well as programs that include local government capacity-building and core relief items (non-food items).Â  Applicants must fill in numerical and/or percentage targets for each indicator.Â  Sphere standards should be used as targets, unless otherwise noted.Â  Proposals must include at least one standardized indicator per sector, as applicable.Â  Please refer to PRMâs General NGO Guidelines for a complete list of all standardized indicators that may be included.
+PRM requires a specific outcome indicator in each proposal measuring the sense of safety and well-being of beneficiaries. All overseas assistance program proposals must include the following protection outcome indicator under one of the objectives: Percentage of beneficiaries who report an improved sense of safety and well-being at the end of the program disaggregated by age and gender.Â  Please see the NGO Guidelineâs section A.C.1.Â  of Appendix C for more details.
+Cash and Voucher Assistance programs must include one indicator from the selection contained in the NGO Guidelines in section A.C.2. of Appendix C.
+Recipient Vetting After Award:Â  Recipients shall advise the Grants Officer of any changes in personnel listed in the DS Form 4184, Risk Analysis Information, and shall provide vetting information on new individuals.Â  The government reserves the right to vet these personnel changes and to terminate assistance awards for convenience based on vetting results.
+6. Application Review Information
+Criteria: Eligible submissions will be those that comply with the criteria and requirements included in this announcement.Â  In addition, the review panel will evaluate the proposals based on the following criteria:
+
+Gap/Analysis (5)
+Profile of Target Population (5)
+Program Description/3a Gender Analysis (20)
+Objectives & Indicators (10)
+Monitoring & Evaluation Plan (10)
+Risk Management (10)
+Accountability to Affected Populations (5)
+
+(Note: The AAP section of a NOFO proposal narrative is specific to the program being proposed, is the criterion listed above being evaluated, and is distinct from the organization-level AAP framework requirement, which is a separate document, which organizations that have not received PRM-funding since 2016 or after must be submit separately.)
+
+
+Coordination (5)
+Sustainability and Capacity-Building (5)
+Management and Past Performance (10)
+Budget/Budget Narrative (15 points)
+
+PRM will conduct a formal competitive review of all proposals submitted in response to this funding announcement.Â  A review panel of at least three people will evaluate submissions based on the above-referenced programmatic criteria and PRM priorities in the context of available funding.Â  Examples of PRM scorecards can be found in Appendix H of the NGO Guidelines.
+Department of State review panels may provide conditions and recommendations on applications to enhance the proposed program, which must be addressed by the applicant before further consideration of the award.Â  To ensure effective use of limited PRM funds, conditions or recommendations may include requests to increase, decrease, clarify, and/or justify costs and program activities.
+7. Federal Award Administration Information
+Federal Award Administration. A successful applicant can expect to receive a separate notice from PRM stating that an application has been selected before PRM actually makes the federal award.Â  That notice is not an authorization to begin performance.Â  Only the notice of award signed by the grants officer is the authorizing document.Â  Unsuccessful applicants will be notified following completion of the selection and award process.
+Administrative and National Policy Requirements. PRM awards are made consistent with the following provisions in the following order of precedence:Â  (a) applicable laws and statutes of the United States, including any specific legislative provisions mandated in the statutory authority for the award; (b) Code of Federal Regulations (CFR); (c) Department of State Standard Terms and Conditions of the award; (d) the awardâs specific requirements; and (e) other documents and attachments to the award.
+Reporting: Successful applicants will be required to submit:
+
+Program Reports: PRM requires program reports describing and analyzing the results of activities undertaken during the validity period of the agreement.Â  A program report is required within thirty (30) days following the end of each three month period of performance during the validity period of the agreement.Â  The final program report is due ninety (90) days following the end of the agreement.Â  The submission dates for program reports will be written into the cooperative agreement.Â  Partners receiving multi-year awards should follow this same reporting schedule and should still submit a final program report at the end of each year that summarizes the NGOâs performance during the previous year. The Bureau suggests that NGOs receiving PRM funding use the PRM recommended quarterly program report template.Â  The suggested PRM NGO reporting template is designed to ease the reporting requirements while ensuring that all required elements are addressed.Â  The Quarterly Program Report Template can be requested by sending an email with only the phrase âPRM NGO Templatesâ (exactly as written,without the quotation marks) in the subject line, to PRMNGOCoordinator@state.gov.
+Financial Reports: Financial reports are required within thirty (30) days following the end of each calendar year quarter during the validity period of the agreement (January 30th, April 30th, July 30th, October 30th).Â  The final financial report covering the entire period of the agreement is required within ninety (90) days after the expiration date of the agreement.Â  For agreements containing indirect costs, final financial reports are due within sixty (60) days of the finalization of the applicable negotiated indirect cost rate agreement (NICRA). Reports reflecting expenditures for the recipientâs overseas and United States offices should be completed in accordance with the Federal Financial Report (FFR SF-425) and submitted electronically in the Department of Health and Human Servicesâ Payment Management System (HHS/PMS) and in accordance with other award specific requirements.Â  Detailed information pertaining to the Federal Financial Report including due dates, instruction manuals and access forms, is provided on the HHS/PMS website .
+Audit Reports: When a recipient-contracted audit is not required because the Federal award amount is less than the $750,000 threshold, the Department may determine that an audit must be performed and the audit report must be submitted to the responsible grants office(r) for review, dissemination, and resolution as appropriate.Â  The cost of audits required under this policy may be charged either as an allowable direct cost to the award, or included in the organizations established indirect costs in the awardâs detailed budget.
+
+PRM Contacts
+Applicants with technical questions related to this announcement should contact the PRM staff listed below prior to submission. Please note that responses to technical questions from PRM do not indicate a commitment to fund the program discussed.
+
+PRM Program Officer: Kristin Alderman, AldermanKL@state.gov, West Africa Program Officer, Washington, D.C.
+Regional Refugee Coordinator: Geoffrey Parker, ParkerGA@state.gov, Regional Refugee Coordinator, Embassy Dakar.
+Deputy Regional Coordinator: Russell Bernstein, BernsteinR@state.gov, Regional Refugee Coordinator, Embassy Dakar.
+
+Disclaimer: External websites linked above may not be supported or accessible by all web browsers.Â  If you are unable to link to a referenced website, please try using a different browser or update to a more recent one.Â  If you continue to experience difficulties to reach external resources, please contact PRM’s NGO Coordinator.
+
+
+
+
+
+Tags
+
+Africa
+Bureau of African Affairs
+Bureau of Population, Refugees, and Migration
+Burkina Faso
+Mauritania
+Niger
+Notice of Funding Opportunity
+Refugee and Humanitarian Assistance
+Refugees
+Senegal
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+					October 20, 2020
+				
+
+
+				Remarks at the Ministerial Roundtable for the Central Sahel			
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+					May 23, 2019
+				
+
+
+				Managing Forced Displacement in Africa			
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+					November 24, 2020
+				
+
+
+				FY 2021 Request for Concept Notes for NGO Programs Benefiting Displaced Iraqis and Syrians in Iraq, Jordan, Lebanon, and Turkey			
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+
+Back to Top
+
+
+
+
+
+
+
+
+
+
+
+
+White House
+USA.gov
+Office of the Inspector General
+Archives
+Contact Us
+ 
+
+
+
+
+follow us
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+Flickr
+
+
+
+
+Privacy Policy
+Accessibility Statement
+Copyright Information
+FOIA
+No FEAR Act
+ 
+
+
+
+
+
+
+
+
+Search:
+
+
+
+
+Search
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+.wmpci-popup-wrp .wmpci-popup-body{background-color: #ffffff;border-width: 0px; border-style: solid;max-width: 50;}.wpmci-popup-cnt-inr-wrp{height:1000;color:#000000;}.wpmci-popup-cnt-inr-wrp h2, .wpmci-popup-cnt-inr-wrp h4{color:#000000;}
+
+
+
+
+
+U.S. Department of State
+The Lessons of 1989: Freedom and Our Future
+
+
+
+
+
+
+
+
+var sbiajaxurl = "https://2017-2021.state.gov/wp-admin/admin-ajax.php";
+
+
+
+
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/2017-2021.state.gov\/wp-json\/","nonce":"00e8bf8dd1","versionString":"wp\/v2\/"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var Wmpci_Popup = {"enable":"0","delay":"0","exp_time":"1","close_on_esc":"1","hide_time":"0"};
+/* ]]> */
+
+
+
+
+

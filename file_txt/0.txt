@@ -1,0 +1,2282 @@
+
+
+
+
+
+
+
+
+
+
+
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+
+
+
+FY 2023 Notice of Funding Opportunity for Resettlement Support Center (RSC) Middle East and North Africa (MENA) and RSC Turkey and Middle East (TuME) - United States Department of State
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.state.gov/#website","url":"https://www.state.gov/","name":"United States Department of State","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.state.gov/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.state.gov/fy-2023-notice-of-funding-opportunity-for-resettlement-support-center-rsc-middle-east-and-north-africa-mena-and-rsc-turkey-and-middle-east-tume/#webpage","url":"https://www.state.gov/fy-2023-notice-of-funding-opportunity-for-resettlement-support-center-rsc-middle-east-and-north-africa-mena-and-rsc-turkey-and-middle-east-tume/","name":"FY 2023 Notice of Funding Opportunity for Resettlement Support Center (RSC) Middle East and North Africa (MENA) and RSC Turkey and Middle East (TuME) - United States Department of State","isPartOf":{"@id":"https://www.state.gov/#website"},"datePublished":"2022-05-03T15:44:16+00:00","dateModified":"2022-05-19T15:10:59+00:00","breadcrumb":{"@id":"https://www.state.gov/fy-2023-notice-of-funding-opportunity-for-resettlement-support-center-rsc-middle-east-and-north-africa-mena-and-rsc-turkey-and-middle-east-tume/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.state.gov/fy-2023-notice-of-funding-opportunity-for-resettlement-support-center-rsc-middle-east-and-north-africa-mena-and-rsc-turkey-and-middle-east-tume/"]}]},{"@type":"BreadcrumbList","@id":"https://www.state.gov/fy-2023-notice-of-funding-opportunity-for-resettlement-support-center-rsc-middle-east-and-north-africa-mena-and-rsc-turkey-and-middle-east-tume/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.state.gov/"},{"@type":"ListItem","position":2,"name":"FY 2023 Notice of Funding Opportunity for Resettlement Support Center (RSC) Middle East and North Africa (MENA) and RSC Turkey and Middle East (TuME)"}]}]}
+
+
+
+
+
+
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.state.gov\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--state-dark-blue: #062135;--wp--preset--color--state-blue: #0A314D;--wp--preset--color--state-white: #FFFFFF;--wp--preset--color--state-dark-gray: #333333;--wp--preset--color--state-link: #4574A1;--wp--preset--color--state-gold: #C1A783;--wp--preset--color--state-red: #D01319;--wp--preset--color--state-light-gray: #8D98AA;--wp--preset--color--state-gray: #767676;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pageAttributes":[null,null],"pagePostAuthor":"Michael Wingard"};
+	dataLayer.push( dataLayer_content );
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T9WK49Q');
+
+
+
+
+
+
+
+			@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	.profile-card__wrapper .profile-card__image img { top: 63% !important; }
+}
+span.icon-svg, span.icon-svg svg {
+    width: auto;
+}
+.wmpci-popup-wrp.splash {
+    background: hsla( 217, 17%, 66%, 0.6 );
+}
+
+.wmpci-popup-body {
+    max-width: 750px;
+}
+
+.wpmci-popup-cnt-inr-wrp {
+    box-shadow: 0 0 17px 5px hsla(0, 0%, 12%, 0.2);
+    padding: 0;
+}
+
+.dos_popup_header {
+    height: auto;
+    width: 100%;
+}
+
+.wpmci-popup-cnt-inr-wrp h2 {
+    background: linear-gradient( to bottom, #062135 0, #062135 68px, #0a324c 68px, #0a324c 100% );
+    color: #fff !important;
+    font-family: "EB Garamond", Times, Serif;
+    font-size: 20px;
+    height: 168px;
+    margin-bottom: 60px !important;
+    padding-top: 111px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.wpmci-popup-cnt-inr-wrp h2 em {
+    display: inline-block;
+    margin-right: 0.25em;
+    text-transform: none;
+}
+
+.wpmci-popup-cnt-inr-wrp h2::before {
+    background: center / contain no-repeat url('/wp-content/themes/state/images/state-favicon.png');
+    content: '';
+    display: block;
+    height: 70px;
+    left: 50%;
+    position: absolute;
+    top: 19px;
+    transform: translateX( -50% );
+    width: 70px;
+}
+
+.wpmci-popup-cnt-inr-wrp h4 {
+    color: #0a314d !important;
+    font-family: "EB Garamond", Times, Serif;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+    line-height: 42px;
+    margin-bottom:30px;
+}
+
+.dos_popup_copy {
+    color: #333;
+    font-family: "Open Sans", Arial, Sans-Serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.25px;
+    line-height: 28px;
+    margin: 40px auto 50px !important;
+    width: 80%;
+}
+
+.dos_popup_close {
+    border: 3px #D11F27 solid;
+    color: #0a314d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Open Sans", Arial, Sans-Serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    height: 72px;
+    letter-spacing: 1.5px;
+    margin: 0 auto 30px;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.dos_popup_close:hover {
+    color: #8d98aa;
+}
+
+.dos_popup_close::after {
+    color: #d01319;
+    margin-left: 10px;
+}
+.collection-result .collection-result-meta span {
+    border-right: 2px solid #ccc;
+    margin: 20px 15px 0 0;
+    padding-right: 15px;
+}
+.collection-result .collection-result-meta span:last-child {
+    border: 0;
+    margin: 20px 0 0;
+    padding: 0;
+}
+@media only screen and (min-width: 600px) {
+	.collection-result .collection-result-meta span {
+		white-space: nowrap;
+	}
+}
+.collection-result-meta .divider {
+    display: none;
+}
+.report-appendices .appendix__contents ul ul li {
+    padding-left: 20px;
+}
+.report-appendices .appendix__contents ol
+padding-inline-start: 40px;
+}
+.report-appendices .appendix__contents ol > li {
+    padding-left: 0;
+	margin-left: 30px;
+list-style: decimal;
+}
+.report-appendices .appendix__contents ol li {
+    padding-left: 0;
+    margin-left: 30px;
+    list-style: decimal;
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    .report-toc span.toc-hamburger {
+      left: -50px;
+    }
+}
+/* #post-14921 .collection-result-meta {display: none;} */
+
+
+.supporting-content__column .card__image .crop_default img {
+    height: 107%;
+}
+.front-page-policy-issues__wrapper .policy-issues__article a {
+    word-wrap: anywhere;
+}
+.postid-167354 .bc_middle.collapse a:nth-child(n+2), .postid-167354 .bc_middle.collapse .bc_carat {     display: none; }
+
+@media only screen and (max-width: 768px) {
+    html .entry-content img.alignnone,
+    html .entry-content img.aligncenter,
+    html .entry-content img.alignright,
+    html .entry-content img.alignleft,
+    html .entry-content figure.alignnone,
+    html .entry-content figure.aligncenter,
+    html .entry-content figure.alignright,
+    html .entry-content figure.alignleft {
+        width: inherit !important;
+        max-width: 100% !important;
+        display: inherit !important;
+        float: inherit;
+        margin-left: unset;
+        margin-right: unset;
+        height: auto;
+    }
+    html body .entry-content img.alignleft, html .entry-content figure.alignleft {
+        float: left;
+        margin 20px 20px 20px 0 !important;
+        margin-right: 20px !important;
+    }
+    html body .entry-content img.alignright, html .entry-content figure.alignright {
+        float: right;
+        margin 20px 0 20px 20px !important;
+        margin-left: 20px !important;
+    }
+/*	.home .front-page-policy-issues__wrapper .policy-issues__article a {
+    word-break: break-word;
+}*/
+}
+
+.has-background-opacity-10 {
+	background-color: rgba(0, 0, 0, 0.1) !important;
+}
+.has-background-opacity-20 {
+	background-color: rgba(0, 0, 0, 0.2) !important;
+}
+.has-background-opacity-30 {
+	background-color: rgba(0, 0, 0, 0.3) !important;
+}
+.has-background-opacity-40 {
+	background-color: rgba(0, 0, 0, 0.4) !important;
+}
+.has-background-opacity-50 {
+	background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.has-background-opacity-60 {
+	background-color: rgba(0, 0, 0, 0.6) !important;
+}
+.has-background-opacity-70 {
+	background-color: rgba(0, 0, 0, 0.7) !important;
+}
+.has-background-opacity-80 {
+	background-color: rgba(0, 0, 0, 0.8) !important;
+}
+.has-background-opacity-90 {
+	background-color: rgba(0, 0, 0, 0.9) !important;
+}
+.news-bar__list {
+   z-index: 999999999;
+}
+.page-id-84379 .entry-content table {
+    width: 100% !important;
+    display: inline-table;
+}
+@media(max-width:767px) {
+	.page-id-84379 .entry-content table {
+    width: 95% !important;
+    overflow: scroll;
+		display: block;
+  }
+	.hide-on-mobile {
+		display: none !important;
+	}
+}
+.page-id-84379 .entry-content table td {
+    padding: 16px 12px;
+}
+.page-id-84379 .entry-content {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 12;
+    grid-column: 1/span 12;
+}
+body.page-template-collection-by-terms header .social_links_header .frame {
+    margin-bottom: 0 !important;
+}
+html[lang=ar] main .has-text-align-right, html[lang=ar] main .wp-block-pullquote p {
+  direction: rtl !important;
+}
+.dipnote-social-media .widget-area section.widget_custom-twitter-feeds-widget {
+  max-height: 950px;
+}
+.dipnote-social-media aside {
+    height: auto !important;
+}
+.state_trip_travel-template.postid-319779 .slick-dots {
+  display: none;
+}
+.live_now_banner {
+ background:#2d5f99;
+ padding:10px 20px
+}
+.live_now_banner .live_message {
+ display:block;
+ text-indent:-16px;
+ margin:0 auto;
+ padding-left:16px;
+ max-width:1200px
+}
+.live_now_banner .live_message a {
+ color:#fff
+}
+.live_now_banner .live_message:before {
+ color:#f0d21d;
+ content:'\e911';
+ font-family:icomoon;
+ font-size:9px;
+ text-decoration:none;
+ margin-right:3px;
+ z-index:1
+}
+.live_now_banner .live_title {
+ font-size:14px;
+ text-decoration:underline
+}
+@media(min-width:767px) {
+  .home .front-page-hero {
+    min-height: 608px;
+  }
+}
+.home .video__iframe.hidden, .home .video__poster.hidden {
+    display: block;
+}
+.addthis .at-icon-wrapper.at-share-btn.at-svc-email {   display: none; }		
+
+
+
+;(function (g) {
+var d = document, am = d.createElement("script"), h = d.head || d.getElementsByTagName("head")[0], fsr = "fsReady",
+aex = {
+"src": "/wp-content/themes/state/foresee_assets/js/gateway.min.js",
+"type": "text/javascript",
+"async": "true",
+"data-vendor": "fs",
+"data-mode": "selfhost",
+"data-environment": "production",
+"data-hasssl": "true",
+"data-client": "state-gov",
+"data-codelocation": "/wp-content/themes/state/foresee_assets/code/19.11.1/",
+"data-isselfhosted": "true",
+"data-product-assets": "/wp-content/themes/state/foresee_assets/product_assets/",
+"data-role": "gateway"
+};
+for (var attr in aex){am.setAttribute(attr, aex[attr]);}h.appendChild(am); g[fsr] || (g[fsr] = function () {var aT = "__" + fsr + "_stk__";g[aT] = g[aT] || [];g[aT].push(arguments);});})(window);
+
+!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="WQTDE-3U7ZD-TLDZY-ZPT2B-WL72L",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"WQTDE-3U7ZD-TLDZY-ZPT2B-WL72L";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="ejfiazyx2t5quywbxbvq-f-2bdc54268-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"32","ak.cp":"840896","ak.ai":parseInt("536498",10),"ak.ol":"0","ak.cr":22,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"654f0e35","ak.r":41483,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"34.74.128.0","ak.cport":59378,"ak.gh":"23.220.107.10","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1656862827","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==kfM2UgfD3TLqVHmD1nXHD3xC8dF3ymddP2kWzWBRixsB/bEaZF2m69o/oa4L9mkdFyYt8AS0DaYOlgA11ioPdymKxQiQJJkugwLLb8I73zfkqqWbFQ4+CQuqXvzlHuRLCvrCOkY2bX049NocfJROPjWorE4C9aMTlegQwQdnOSothSYEALEBdAQVUxIp1v5TbiE6XxK2BavY9m0evhw0zE1OEu2hdPLUscEKWUl7WuLtUQjOhx2iP4n5fXi3kcdpOC9Sf9bFzad1IHgymtMR4XPEISlE01vC4shPZhgexh2p17YWUmb8cC4VamCo7+K3I6G6zOW8bL/h3vw10noefZ+cwHcvHVvG5AWiWdsIJSovszG7EuobAKgoV2Eefn2oj2OP7AnVMIASxLCFDbgmqmu2ecHdclwBVJhj96UBnS0=","ak.pv":"41","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+
+
+
+
+
+Skip to content
+
+An official website of the United States Government Here's how you know
+
+
+
+
+Official websites use .gov
+				A .gov website belongs to an official government organization in the United States.
+			
+
+
+
+
+Secure .gov websites use HTTPS
+				A lock (  ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+			
+
+
+
+
+
+
+Newsroom
+Business
+Employees
+Job Seekers
+Students
+Travelers
+Visas
+ 
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+Flickr
+GovDelivery
+
+
+
+
+
+
+
+	// Code to load the navigation without the temporarily blank navigation and page jumpiness -- mainly for desktop.
+	if( window.jQuery ) {
+		if ( jQuery(window).width() >= 975 ) {
+			jQuery('.nav__utility').show();
+			jQuery('.site-nav--primary').appendTo('.nav__second-nav');
+			jQuery('.nav__primary-nav').appendTo('.nav__second-nav');
+		}
+		if ( jQuery(window).width() < 975 ) {
+			jQuery('.nav__utility').hide();
+		}
+	}
+
+
+
+Menu
+
+State Department Home
+
+Search
+
+
+State Department Home
+Policy Issues
+
+Back
+
+Policy Issues
+
+
+
+
+
+
+										Anti-Corruption and Transparency
+									
+
+
+
+
+
+
+										Arms Control and Nonproliferation
+									
+
+
+
+
+
+
+										Climate and Environment
+									
+
+
+
+
+
+
+										Climate Crisis
+									
+
+
+
+
+
+
+										Combating Drugs and Crime
+									
+
+
+
+
+
+
+										Countering Terrorism
+									
+
+
+
+
+
+
+										COVID-19 Recovery
+									
+
+
+
+
+
+
+										Cyber Issues
+									
+
+
+
+
+
+
+										Disarming Disinformation
+									
+
+
+
+
+
+
+										Economic Prosperity and Trade Policy
+									
+
+
+
+
+
+
+										Energy
+									
+
+
+
+
+
+
+										Global Health
+									
+
+
+
+
+
+
+										Global Women’s Issues
+									
+
+
+
+
+
+
+										Holding Russia and Belarus to Account
+									
+
+
+
+
+
+
+										Human Rights and Democracy
+									
+
+
+
+
+
+
+										Human Trafficking
+									
+
+
+
+
+
+
+										The Ocean and Polar Affairs
+									
+
+
+
+
+
+
+										Refugee and Humanitarian Assistance
+									
+
+
+
+
+
+
+										Science, Technology, and Innovation
+									
+
+
+
+
+
+
+										Treaties and International Agreements
+									
+
+
+
+
+
+
+										United with Ukraine
+									
+
+
+
+
+
+
+
+Countries & Areas
+
+Back
+
+Countries & Areas
+
+Search for country or area
+
+AAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+BBahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+CCabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Costa Rica
+Côte d’Ivoire
+Croatia
+Cuba
+Cyprus
+Czechia
+DDemocratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+EEcuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+FFiji
+Finland
+France
+GGabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+HHaiti
+Holy See
+Honduras
+Hungary
+IIceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+JJamaica
+Japan
+Jordan
+KKazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+LLaos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+MMadagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+NNamibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+OOman
+PPakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+QQatar
+RRepublic of the Congo
+Romania
+Russia
+Rwanda
+SSaint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+São Tomé and Príncipe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+TTaiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+UUganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uruguay
+Uzbekistan
+VVanuatu
+Venezuela
+Vietnam
+YYemen
+ZZambia
+Zimbabwe
+
+
+
+
+
+Bureaus & Offices
+
+Back
+
+Bureaus & Offices
+
+
+
+The Secretary of StateThe Secretary of State
+The Secretary of State
+Bureau of Intelligence and Research
+Bureau of Legislative Affairs
+Counselor of the Department
+Executive Secretariat
+Office of the Chief of Protocol
+Office of Civil Rights
+Office of Diversity and Inclusion
+Office of Global Women’s Issues
+Office of the Legal Adviser
+Office of the Ombudsman
+Office of the U.S. Global AIDS Coordinator and Global Health Diplomacy
+Policy Planning Staff
+Special Presidential Envoy for Hostage Affairs
+Special Representative for Afghanistan Reconciliation
+Special Representative for Iran
+Special Representative for Syria Engagement
+Special Representative for Venezuela
+U.S. Security Coordinator for Israel and the Palestinian Authority
+Deputy Secretaries of StateDeputy Secretaries of State
+Deputy Secretary of State
+Bureau of Cyberspace and Digital Policy
+Office of the U.S. Coordinator for the Arctic Region
+Deputy Secretary of State for Management and Resources
+Office of Foreign Assistance
+Office of Small and Disadvantaged Business Utilization
+Arms Control and International SecurityArms Control and International Security
+Under Secretary for Arms Control and International Security
+Bureau of Arms Control, Verification and Compliance
+Bureau of International Security and Nonproliferation
+Bureau of Political-Military Affairs
+Civilian Security, Democracy, and Human RightsCivilian Security, Democracy, and Human Rights
+Under Secretary for Civilian Security, Democracy, and Human Rights
+Bureau of Conflict and Stabilization Operations
+Bureau of Counterterrorism
+Bureau of Democracy, Human Rights, and Labor
+Bureau of International Narcotics and Law Enforcement Affairs
+Bureau of Population, Refugees, and Migration
+Office of Global Criminal Justice
+Office of International Religious Freedom
+Office of the Special Envoy To Monitor and Combat Antisemitism
+Office to Monitor and Combat Trafficking in Persons
+Economic Growth, Energy, and EnvironmentEconomic Growth, Energy, and Environment
+Under Secretary for Economic Growth, Energy, and the Environment
+Bureau of Economic and Business Affairs
+Bureau of Energy Resources
+Bureau of Oceans and International Environmental and Scientific Affairs
+Office of Global Food Security
+Office of Global Partnerships
+Office of the Chief Economist
+Office of the Science and Technology Adviser
+ManagementManagement
+Under Secretary for Management
+Bureau of Administration
+Bureau of Budget and Planning
+Bureau of the Comptroller and Global Financial Services
+Bureau of Consular Affairs
+Bureau of Diplomatic Security
+Bureau of Global Talent Management
+Bureau of Information Resource Management
+Bureau of Medical Services
+Bureau of Overseas Buildings Operations
+Director of Diplomatic Reception Rooms
+Foreign Service Institute
+Office of Foreign Missions
+Office of Management Strategy and Solutions
+Political AffairsPolitical Affairs
+Under Secretary for Political Affairs
+Bureau of African Affairs
+Bureau of East Asian and Pacific Affairs
+Bureau of European and Eurasian Affairs
+Bureau of International Organization Affairs
+Bureau of Near Eastern Affairs
+Bureau of South and Central Asian Affairs
+Bureau of Western Hemisphere Affairs
+Public Diplomacy and Public AffairsPublic Diplomacy and Public Affairs
+Under Secretary for Public Diplomacy and Public Affairs
+Educational and Cultural Affairs
+Expo Unit
+Global Engagement Center
+Global Public Affairs
+Policy, Planning, and Resources
+U.S. Advisory Commission on Public Diplomacy
+
+
+
+
+
+
+
+About
+
+Back
+
+About
+
+
+
+Mission
+
+
+
+										About the U.S. Department of State
+									
+
+
+
+
+										Joint Strategic Plan
+									
+
+
+
+
+										Equity Action Plan
+									
+
+
+
+
+										Foreign Affairs Manual and Handbook
+									
+
+
+
+
+										We Are the U.S. Department of State
+									
+
+
+
+History
+
+
+
+										Previous Administration Archives
+									
+
+
+
+
+										Foreign Relations of the United States
+									
+
+
+
+
+										National Museum of American Diplomacy
+									
+
+
+
+
+										Art in Embassies
+									
+
+
+
+Administrative
+
+
+
+										Department Reports and Publications
+									
+
+
+
+
+										Agency Financial Reports
+									
+
+
+
+
+										Form Finder
+									
+
+
+
+
+										Organization Chart
+									
+
+
+
+
+										Plans, Performance, Budget
+									
+
+
+
+
+										Information Quality Act
+									
+
+
+
+
+										Open Government Initiative
+									
+
+
+
+
+										Digital Government Strategy
+									
+
+
+
+
+										Plain Writing Program
+									
+
+
+
+
+										Partner With State
+									
+
+
+
+Leadership
+
+
+
+										The Secretary of State
+									
+
+
+
+
+										Deputy Secretary of State
+									
+
+
+
+
+										Deputy Secretary of State for Management and Resources
+									
+
+
+
+
+										Biographies of Senior Officials
+									
+
+
+
+Directories
+
+
+
+										Contact Us
+									
+
+
+
+
+										Telephone Directory
+									
+
+
+
+
+										U.S. Ambassadors
+									
+
+
+
+
+										U.S. Embassies and Other Posts
+									
+
+
+
+
+										Country Offices Directory
+									
+
+
+
+
+										Key Officers of Foreign Service Posts
+									
+
+
+
+
+										Diplomats in Residence
+									
+
+
+
+
+
+
+
+
+
+
+
+
+	// Code to enable sub-area highlighting for countries and areas navigation
+
+	if(window.jQuery) {
+		jQuery(document).ready(function(){
+			jQuery(document).on({
+				touchstart: function( event ) {
+					event.preventDefault();
+					if(!jQuery( this ).prev().hasClass('highlighted')) {
+						jQuery( this ).prev().addClass('highlighted');
+					}
+				},
+				mouseleave: function() {
+					if(jQuery( this ).prev().hasClass('highlighted')) {
+					}
+				},
+				mouseover: function() {
+					if(!jQuery( this ).prev().hasClass('highlighted')) {
+						jQuery( this ).prev().addClass('highlighted');
+					}
+				}
+			}, '#country_navigation_chosen .indent');
+
+			jQuery(document).on({
+				touchstart: function( event ) {
+					event.preventDefault();
+					if(!jQuery( this ).next('.indent').hasClass('highlighted')) {
+						jQuery( this ).next('.indent').addClass('highlighted');
+					}
+				},
+				mouseleave: function() {
+					if(jQuery( this ).next('.indent').hasClass('highlighted')) {
+					}
+				},
+				mouseover: function() {
+					if(!jQuery( this ).next('.indent').hasClass('highlighted')) {
+						jQuery( this ).next('.indent').addClass('highlighted');
+					}
+				}
+			}, '#country_navigation_chosen .noindent');
+
+		});
+
+		// Code to load the navigation without the temporarily blank navigation and page jumpiness -- mainly for desktop.
+		if ( jQuery(window).width() >= 975 ) {
+			jQuery('.nav__utility').show();
+			jQuery('.site-nav--primary').appendTo('.nav__second-nav');
+			jQuery('.nav__primary-nav').appendTo('.nav__second-nav');
+		}
+		if ( jQuery(window).width() < 975 ) {
+			jQuery('.nav__utility').hide();
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+HomeFunding Opportunity Announcements ...FY 2023 Notice of Funding Opportunity for Resettlement Support Center (RSC) Middle East and North Africa (MENA) and RSC Turkey and Middle East (TuME) 
+hide
+
+
+
+
+	if(window.jQuery) {
+		jQuery( document ).ready(function() {
+			if (jQuery(".bc_middle").hasClass("collapse")) {
+				jQuery(".bc_ellipse").click(function(){
+					jQuery(".bc_hide").toggleClass("visible");
+					jQuery(".bc_middle").toggle();
+					jQuery(".bc_ellipse").toggle();
+					jQuery(".bc_content").toggleClass("noflex");
+					jQuery(".block_breadcrumbs_content").toggleClass("noflex");
+				});
+
+				jQuery(".bc_hide").click(function(){
+					jQuery(".bc_hide").toggleClass("visible");
+					jQuery(".bc_middle").toggle();
+					jQuery(".bc_ellipse").toggle();
+					jQuery(".bc_content").toggleClass("noflex");
+					jQuery(".block_breadcrumbs_content").toggleClass("noflex");
+				});
+
+			} else {
+				jQuery(".bc_ellipse").hide();
+			}
+		});
+	}
+
+
+
+
+
+
+				
+					FY 2023 Notice of Funding Opportunity for Resettlement Support Center (RSC) Middle East and North Africa (MENA) and RSC Turkey and Middle East (TuME)
+				
+			
+
+
+Funding Opportunity Announcement
+May 2, 2022
+
+
+
+
+
+						Download Report												[550 KB]
+
+
+
+
+Share
+
+
+Share this page on:
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		
+Funding Opportunity Number:  SFOP0008932
+Assistance Listings (CFDA) number:  
+19.018 – Resettlement Support Centers (RSCs) for U.S. Refugee Resettlement
+Announcement issuance date:  Monday, May 2, 2022
+Announcement type:  Cooperative Agreement
+Proposal submission deadline:  Friday, July 8, 2022 at 11:59:59 p.m. (23:59:59) EDT.  Proposals submitted after this deadline will not be considered.
+Anticipated timeframe to award for selected proposals:  Pending the availability of funds, PRM anticipates, but makes no guarantee, that awards will be made less than three months from the proposal submission deadline.
+ADVISORY:  All applicants must submit application packages through the website Grants.gov.  PRM strongly recommends submitting your application packages early to allow time to address any technical difficulties that may arise on the Grants.gov website.
+If you are new to PRM funding, the Grants.gov registration process can be complicated.  We urge you to refer to PRM’s General NGO Guidelines “Application Process” section for information and resources to help ensure that the application process runs smoothly.  PRM also strongly encourages organizations that have received funding from PRM in the past to read this section as a refresher.
+PRM strongly recommends application packages be submitted in Adobe PDF, as Microsoft Word documents may sometimes produce different page lengths based on software versions and configurations when transmitted.  Exceeding page length limits, including through the inclusion of cover pages, will result in disqualification.  All documents must be in English and should avoid the use of jargon and should spell out all acronyms upon first use.
+All templates and further instructions are included as appendices and attachments to this funding announcement.
+COVID-19:  PRM recognizes the difficult circumstances under which organizations are currently operating because of the COVID-19 pandemic and will take them into consideration in application package reviews. To the extent possible, organizations should address how COVID-19 and resulting risks, restrictions, and limitations will factor into their designated programs and attempt to ensure that proposed indicators and activities can be implemented under the challenging circumstances created by the COVID-19 response.
+Program Description
+Summary
+This announcement is designed to accompany PRM’s General NGO Guidelines, which contain additional information on PRM’s priorities and NGO funding strategy with which selected organizations must comply.  Please use both the General NGO Guidelines and this announcement to ensure that your submission is in full compliance with PRM requirements and that the proposed activities are in line with PRM’s priorities.  Submissions that do not reflect the requirements outlined in these guidelines will not be considered.
+Purpose of Resettlement Support Centers (RSCs)
+The admissions process for refugee applicants seeking resettlement in the United States is overseen by the Department of State’s Bureau of Population, Refugees, and Migration (the Bureau).
+The purpose of RSCs is to assist the Bureau in preparing the necessary casework for persons in selected locations who will be interviewed by the Department of Homeland Security’s (DHS) U.S. Citizenship and Immigration Services (USCIS) in support of the U.S. Refugee Admissions Program (USRAP).  For those persons approved by USCIS, the RSC provides assistance in completing the additional requirements for refugee admission.  These requirements include, but are not limited to, ensuring the required security checks are requested, completing a medical exam, and attending cultural orientation.  In addition, the RSC collects and maintains data to facilitate the services provided to refugees by U.S.-based resettlement agencies.
+The Bureau will make one award each for RSC MENA (based in Amman, Jordan) and RSC TuME (based in Istanbul, Turkey) for an initial period beginning October 1, 2022, through September 30, 2023, subject to availability of funds.  With this award, the Bureau will provide full financial support to the selected organization, based on the proposal submitted in response to this funding opportunity.  Each of the two awards will have the possibility of being extended for two additional fiscal years through September 30, 2025.
+Refugee Processing Caseload
+In order to serve the Administration’s goal to admit up to 125,000 refugees in FY 2023, while taking into account the current state of USRAP capacity and ongoing operational constraints related to COVID-19, the Bureau intends to award initial funding and allocations at an operational level of 65,000 refugee arrivals.  If the Presidential Determination for FY 2023 sets a target beyond this initial operational level, the Bureau will work with successful applicants to adjust allocation numbers and proposal documents.  Arrival trends will be reviewed mid-year to adjust budgets upwards, as needed.  Each RSC applicant should prepare proposal documents based on the allocations below.  For proposal documents that reference years two and three of the program in FY 2024 and FY 2025, organizations should plan based on maximum actual departures for those fiscal years and the resources needed to achieve this level of departures.
+
+RSC MENA:  9,000 refugee departures from the Middle East, North Africa, and India.
+RSC TuME:  4,000 refugee departures from Turkey and Lebanon.
+
+Standardized Program Objectives and Indicators
+In an effort to strengthen the quality and integrity of the USRAP, the Bureau has established the following standardized objectives and indicators, which will be monitored throughout the fiscal year, for each organization selected for funding.  In addition to the standardized indicators below, applicants are required to propose at least one additional outcome-based indicator for each of these four objectives.  Of the additional indicators proposed, one indicator per year must be related to:
+a) cultural orientation,
+b) scheduling and coordinating medicals, and
+c) coordinating departures with the International Organization for Migration (IOM).
+Applicants may include additional objectives and indicators if they choose.  In addition, PRM reserves the right to add or change indicators in consultation with applicants during final negotiations prior to award of the cooperative agreement.  See Attachment B included in this funding opportunity on Grants.gov for the objectives and indicators table that should be included as part of the application submission.
+
+Objective 1:  RSC completes processing for refugee applicants in accordance with USRAP guidelines and the cooperative agreement.
+Percent of target number of refugee applicants pre-screened.
+Percent of circuit rides with an average score of 4 or 5 on the DHS Mission Support Feedback Form
+RSC passes random quality control checks performed by PRM/Refugee Processing Center (RPC) staff on RSC cases to verify the RSC is following USRAP START Processing Guidance and has not deviated from this guidance without formally documented approval from PRM as required in RSC Local Standard Operating Procedures (SOP).
+Objective 2:  RSC maintains program integrity and protects against fraud and malfeasance, in accordance with the PRM Integrity and Compliance module.
+Percentage extent to which RSC is deemed compliant with PRM’s Integrity and Compliance module based on PRM’s review of RSC annual compliance reports.
+Percent of staff and refugee applicants aware of fraud reporting channels.
+Objective 3:  RSC management provides oversight and support to maintain a trained and knowledgeable workforce.
+Percent of RSC staff receiving on-boarding training and specialized training, as needed, to achieve USRAP objectives.
+Percent of staff able to demonstrate knowledge required to fulfill their job.
+Objective 4:  RSC maintains professional and respectful services, environment, and communications with refugee applicants.
+Percent of refugee applicant inquiries responded to within two weeks.
+Percent of refugee applicants reporting satisfaction with quality of interactions with RSC.
+
+Program Requirements
+The Bureau has established the following requirements for each organization managing RSC MENA and RSC TuME:
+
+Beginning on October 1, 2022, provide regional refugee processing services for all USRAP applicants regardless of nationality, religion, gender, sexual orientation, political opinion, race or ethnicity in:
+MENA, with the primary RSC office to be located in Amman, Jordan, with sub-offices in Cairo, Egypt and Baghdad, Iraq (U.S. Embassy Baghdad).
+TuME, with the primary RSC office to be located in Istanbul, Turkey, with a sub-office in Beirut, Lebanon.
+Collaborate equitably with all domestic resettlement agencies, including sharing relevant biographic and other background information with domestic resettlement agencies working in the Reception and Placement Program, as appropriate and in accordance with PRM confidentiality guidelines and procedures, to facilitate their provision of required sponsorship assurances.
+Provide refugee processing services in support of the USRAP using START and in accordance with procedures established by the Bureau, as needs arise.  Conduct pre-screening interviews and casework in the countries listed above to capture all relevant information pertaining to the case, e.g., biographical data, special medical needs, information about victims of torture, etc.  Ensure that all necessary security checks are requested and remain in a valid status for travel in accordance with the USRAP Manual and RPC SOPs.  Prepare the case file, including completion of all forms necessary for presentation of the case to USCIS for adjudication.
+Enter all required information into START in a timely manner in adherence with the USRAP Manual and RPC SOPs.
+Remain in close contact with the RPC, cooperating fully and at all times, to ensure that collected refugee information, START interface, and related equipment remains secure, functional, up to date, and in compliance with Department and Bureau guidance where appropriate.
+For applicants approved by USCIS, assist the refugees in completing all post-adjudication steps required for admission to the United States.  This includes coordinating with the RPC to obtain sponsorship assurances from resettlement agencies working under cooperative agreements with the Bureau, preparing travel packets, coordinating medical screening, conducting cultural orientation training, and working with IOM for travel arrangements.
+Correspond with applicants and partners on relevant case statuses and to obtain, as necessary, information relevant to the applicant’s qualifications for admission, in accordance with PRM confidentiality guidelines and procedures, including PRM’s Integrity and Compliance module.
+Provide cultural orientation to approved refugees in accordance with guidelines developed by the Bureau and by using materials and resources developed by the current cultural orientation technical assistance provider (see https://coresourceexchange.org/).
+Develop a formal curriculum, in consultation with the Bureau, for cultural orientation training for refugees that will prepare them for travel and initial adjustment to life in the United States.  Develop a training and management plan for RSC staff who will conduct cultural orientation training.  Conduct cultural orientation in such a way as to achieve performance outcomes as delineated by the Bureau.
+The cultural orientation training will cover, at a minimum, the following subjects:
+Travel
+Role of the Resettlement Agency
+Health
+Cultural Adjustment
+Rights and Responsibilities
+Employment
+Education
+
+Federal Award Information
+
+Proposed program start dates:  October 1, 2022.
+Duration of Activity:  An initial period beginning October 1, 2022 through September 30, 2023, subject to the availability of funds.  Continued funding after the initial 12-month period of performance requires the submission of a noncompeting updated single year proposal and will be contingent upon available funding, strong performance, and continuing need.  This agreement may be renewable for up to two additional fiscal years.  At the end of three years, if the need to operate the RSC continues, the Bureau will re-compete the project, and the recipient of this award may participate in that process.  In funding a project one year, PRM makes no representations that it will continue to fund the project in successive years.  
+Period of Performance:  An initial 12-month period of performance with the possibility of two, one-year extensions for a total program duration of 36 months.
+Funding Limits:  The Bureau anticipates up to two awards with award amounts that will vary depending on the RSC location and anticipated number of refugee departures.  Funding amounts for individual awards in previous years have varied, depending on the location.  There is no funding floor or ceiling for this award.  However, total award amounts will be contingent on funding availabilities. 
+Anticipated Number of Awards:  As specified above, there will be a total of two awards with one award each for RSC MENA and RSC TuME.
+Anticipated Amount to be Awarded Total:  Total amounts awarded will be based on a thorough review of each RSC proposal received, anticipated refugee departures for each region, and amount of funding available in FY 2023.
+
+Eligibility Information
+Eligible Applicants:
+
+Nonprofits having a 501(c)(3) status with IRS, other than institutions of higher education (U.S.-based NGOs must be able to demonstrate proof of non-profit tax status);
+Nonprofits without 501(c)(3) status with IRS, other than institutions of higher education (overseas-based NGOs must be able to demonstrate proof of registration in country of domicile); and
+International Organizations.  International multilateral organizations, such as United Nations agencies, should not submit proposals through Grants.gov in response to this NOFO.  Multilateral organizations that are seeking funding for programs relevant to this announcement should contact the PRM Program Officer (as listed below) on or before the closing date of the funding announcement.
+
+Other Eligibility Requirements:  Organizations must also be authorized to operate, or eligible for authorization, by the host governments to be considered for an award.  This should be understood, when required by each government’s law, to include registration with or receipt of project approval from any relevant country ministry, agency, or other official organization with jurisdiction over any activity to be conducted by the RSC.  The RSC must also have authorization to operate in all countries where refugee processing activities will occur.
+
+MENA:  Be authorized, or eligible for authorization, by the Governments of Jordan, Egypt, Iraq, and India to conduct activities in these countries relating to the processing of refugees for eventual resettlement.  This should be understood, when required by each government’s law, to include registration with or receipt of project approval from any relevant country ministry, agency, or other official organ with jurisdiction over any activity to be conducted by the RSC.
+TuME:  Be authorized, or eligible for authorization, by the Governments of Turkey and Lebanon to conduct activities in these countries relating to the processing of refugees for eventual resettlement.  This should be understood, when required by each government’s law, to include registration with or receipt of project approval from any relevant country ministry, agency, or other official organ with jurisdiction over any activity to be conducted by the RSC.
+
+Cost Sharing or Matching:  Cost sharing, matching, or cost participation is not a requirement of an application in response to this funding announcement.
+Proposals for consideration should describe the sources and amounts of additional funding that may be utilized to complement PRM funding, and meet the following criteria:
+
+Are not paid by the Federal Government under another Federal award;
+Are verifiable from the non-Federal entity’s records;
+Are not included as contributions for any other Federal award; and
+Are necessary and reasonable for accomplishment of project or program objectives.
+
+Please include this information in the Budget Summary, Budget Detail, and Budget Narrative of the proposal, and separated from the PRM share of the proposed budget.
+Note: Though favorably looked upon, inclusion will not result in a competitive ranking increase when evaluated.
+Other
+Proposals must have a concrete implementation plan with well-conceived objectives and indicators that are specific, measurable, achievable, relevant and reliable, time-bound, and trackable (SMART), have established baselines, and include at least one outcome or impact indicator per objective; objectives should be clearly linked to the sectors.  Objectives and indicators should originate from the Standardized Program Objectives and Indicators section above and be detailed in the attached objectives and indicators table (Attachment B).  Applicants may include additional objectives and indicators if they choose.
+RSC applicants must have evidence of effective coordination with U.S. government agencies, non-governmental organizations, and international organizations involved with the USRAP and possess management capacity at the agency’s headquarters sufficient to oversee the operation of the RSC.
+The use of START is mandatory.   See Appendix 3 for a list of hardware and software items that are currently needed to access and/or operate START, including the equipment to operate the circuit ride functionality. Equipment that will be procured by the RSC and related costs must be included in the proposal.
+PRM strongly encourages programs that target the needs of vulnerable and underserved groups among the beneficiary population (such groups may include: women; children; adolescents; lesbian, gay, bisexual, transgender, or intersex (LGBTQI+) individuals; older persons; the sick; persons with disabilities; and members of minority communities) and can demonstrate what steps have been taken to meet the specific and unique protection and assistance needs of these vulnerable groups effectively.
+Application and Submission Instructions  
+
+Address to Request Application Package:  Application packages may be downloaded from the website www.Grants.gov.
+Content and Form of Application:  Organizations may submit a maximum of 1 proposal(s) per RSC only, for a maximum of 2 total possible applications.  Any subsequent submissions received will be disqualified.  PRM strongly recommends using the proposal and budget templates.  All templates are included as attachments to this funding opportunity.
+
+Multi-Year Proposals: 
+
+Applicants proposing multi-year programs should adhere to the following guidance: Applicants may submit proposals that include multi-year strategies presented in one year (12 month) cycles for a period not to exceed three years (36 months) from the proposed start date.  Fully developed programs with detailed budgets, objectives and indicators are required for each year of activities.  Applicants should follow the multi-year proposal instructions included as an appendix for the first year of a multi-year application.
+Multi-year funding applicants may use the budget summary and separate budget detail template attached to this funding announcement, and should disaggregate budget by year, per year, and for each program year.  Multi-year proposal narratives and budgets can be updated yearly upon submission of new noncompeting single year proposal narrative template with an updated budget.
+Multi-year program proposal page limits:  Multi-year proposals using the template in Appendix 1 must not exceed 20 pages in length (Times New Roman 12 point font, letter sized paper, one inch margins on all sides).  If the applicant does not use the recommended templates, proposals must not exceed 15 pages in length.  Organizations may choose to attach work plans, activity calendars, and/or logical frameworks as addendums/appendices to the proposal, but are not required to do so.  These attachments do not count toward the page limit total however annexes cannot be relied upon as a key source of program information.  The proposal narrative must be able to stand on its own in the application process.  Proposals exceeding the page limit will not be considered.
+PRM strongly recommends application packages be submitted in Adobe PDF, as Microsoft Word documents may sometimes produce different page lengths based on software versions and configurations.
+Exceeding page length limits, including through the inclusion of cover pages, will result in disqualification.
+All documents must be in English and should avoid the use of jargon and should spell out all acronyms upon first use.
+Multi-year applications selected for funding by PRM will be funded in one year (12-month) increments based on the proposal submitted in the initial application as approved by PRM.  Continued funding after the initial 12-month award requires the submission of a noncompeting single-year proposal narrative and will be contingent upon available funding, strong performance, and continuing need.  Follow-on applications are submitted annually for years two through three of proposals through non-competed directed announcements for the continuation funding.  It is strongly recommended that NGOs submit as early as possible after the directed announcement for continuation funding has been issued.  Late submissions will jeopardize continued funding.
+
+Application Package
+To be considered for PRM funding, organizations must submit a complete application package, including:
+
+A proposal narrative with the information included in Appendix 1 that details the first year of the program (October 1, 2022-September 30, 2023).  This narrative includes an additional section from previous RSC funding opportunities where applicants will have to detail capacity development plans to reach higher anticipated refugee arrivals throughout the three years that the organization operates the RSC.
+Budget summary, budget detail, and budget narrative.  Appendix 2 provides more guidance and information on the template for the budget proposal documents.  Attachment A, included in this funding opportunity on Grants.gov, provides the template for the budget summary and detail and should be prepared in Excel format.  The budget summary and budget detail also include columns for planned budgets in FY 2024 and FY 2025.  In the budget narrative, organizations should also provide a brief summary of the anticipated additional resources needed to reach maximum departures in FY 2024 and FY 2025.
+Applicants must submit a table (see Attachment B included as part of this funding opportunity on Grants.gov) detailing objectives and indicators for the project in FY 2023.
+Completed and signed SF-424 and SF-424A.  PRM requires that Box 21 of the SF-424 be checked.
+Form SF-424B is required only for those applicants who have not registered in SAM.gov or recertified their registration in SAM.gov since February 2, 2019 and completed the online representations and certifications. The SF-424 family forms are available for download on Grants.gov.
+Risk Analysis (separate from Proposal Narrative and from the Security Plan).  For more information, please reference Attachment C.
+Protection from Sexual Exploitation and Abuse (PSEA) Code of Conduct.
+Consistent with the 2019 six IASC Principles and that there is a country or regional implementation plan specific to the country or region of the application, if applicable.
+(See NGO Guidelines for more details).
+Security Plan.
+Accountability to Affected Populations (AAP) Organization Framework
+Note: The AAP section of a NOFO proposal narrative is specific to the program being proposed and is distinct from the organization-level AAP framework requirement listed here, which is a separate document.
+Key Personnel and Org Chart for award applicant and sub-recipient(s)
+Applicants must furnish names, titles, and brief biographical information on the education and experience of key personnel in implementing the program and key supervisory personnel; (i.e., the members of the professional staff in a program supervisory position engaged for or assigned to duties under the award).
+Most recent Negotiated Indirect Cost Rate Agreement (NICRA), if applicable, or a de minimis rate calculation of Modified Total Direct Costs (MTDC) if the applicant is eligible and elects to use the de minimis rate.
+Most recent external audit report is required prior to issuance of an award, if proposal is chosen for implementation.
+Information in support of any cost-sharing/cost-matching arrangements, if applicable.
+Information detailing the source of any in-kind contributions, if applicable.
+Details on any sub-agreements associated with the program including the budget detail (must be part of the budget submission as noted above), if applicable.
+
+Additionally, organizations must consider the following considerations as part of their proposal package:
+
+To be considered a competitive proposal, the Proposal Narrative and Budget Detail should include the following information:
+Focus on outcome or impact indicators as much as possible.  At a minimum, each objective should have one outcome or impact indicator.  Wherever possible, baselines should be established before the start of the program.
+Outline how the NGO will acknowledge PRM funding.  If an organization believes that publicly acknowledging the receipt of USG funding for a particular PRM-funded program could potentially endanger the lives of the beneficiaries and/or the organization staff, invite suspicion about the organization’s motives, or alienate the organization from the population it is trying to help, it must provide a brief explanation in its proposal as to why it should be exempted from this requirement.
+PRM expects each proposal, regardless of sector, to demonstrate protection mainstreaming, including by identifying potential protection risks associated with the program and how they will be mitigated.  An analysis of the risks should inform how assistance is designed to minimize them and maximize protection of beneficiaries.  Applicants may introduce gender-specific risks in this section but should provide a full analysis in the gender analysis.
+PRM partners must complete a gender analysis in the proposal narrative that briefly explains (1) experiences of men, women, boys, and girls with a focus on the different familial roles, community privileges, and gender dynamics within the target population; (2) associated risks and threats experienced by women, girls, and other vulnerable populations based on their gender; (3) power imbalances and needs that arise based on gender inequalities that exist within the family or community; and (4) proposed responses that will address the above and mitigate any gender differences in access, participation, or decision-making that may be experienced by at-risk groups, particularly women and girls.  The gender analysis should aim to specify and target specific at-risk sub-populations of women and girls, such as women and girl heads of households, out-of-school girls, women and girls with disabilities, women and girl survivors of violence, married girls, adolescent mothers, as well as people who identify as LGBTQI+, and those who are often unaware of and excluded from programs and services and who may be the hardest to reach based on their gender.
+The budget should include a specific breakdown of funds being provided by UNHCR, other USG agencies, other donors, and your own organization.
+Proposals and budgets must include details of any sub-agreements associated with the programs.
+
+C.  Unique Entity Identifier (UEI) and System for Award Management (SAM) 
+Each applicant is required to:
+
+be registered in SAM before submitting its application;
+provide a valid UEI number in its application; and
+continue to maintain an active SAM registration with current information at all times during which it has an active PRM award or an application or plan under consideration by PRM.
+
+No federal award may be made to an applicant until the applicant has complied with all applicable SAM requirements and, if an applicant has not fully complied with the requirements by the time the PRM award is ready to be made, PRM may determine that the applicant is not qualified to receive a PRM award and use that determination as a basis for making a PRM award to another applicant.
+ Note: On April 4, 2022, the DUNS Number was replaced by a “new, non
+proprietary identifier” requested in, and assigned by, the System for Award
+Management (SAM.gov).  This new identifier is being called the Unique Entity
+Identifier (UEI).  For more information on the process, visit
+GSA’s website on the UEI transition.
+D.  Applications must be submitted via Grants.gov.  Grants.gov registration requires a UEI number and active SAM.gov registration.  If you are new to PRM funding, the Grants.gov registration process can be complicated.  We urge you to refer to PRM’s General NGO Guidelines “Application Process” section for information and resources to help ensure that the application process runs smoothly.  PRM also strongly encourages organizations that have received funding from PRM in the past to read this section as a refresher.  Applicants may also refer to the “For Applicants” page on Grants.gov for complete details on requirements.
+Do not wait until the deadline to attempt to submit your application on Grants.gov.  Organizations not registered with Grants.gov should register well in advance of the deadline as it can take several weeks to finalize registration (sometimes longer for non-U.S. based NGOs to receive required registration numbers).  We also recommend that organizations, particularly first-time applicants, submit applications via Grants.gov no later than one week before the deadline to avoid last-minute technical difficulties that could result in an application not being considered. PRM has extremely limited ability to correct or facilitate rapid resolution to technical difficulties associated with Grants.gov, SAM.gov or UEI number issues.  PRM partners must maintain an active SAM.gov registration with current and correct information at all times during which they have an active federal award or an application under consideration by PRM or any federal agency.
+When registering with Grants.gov, organizations must designate points of contact and Authorized Organization Representatives (AORs).  Organizations based outside the United States must also request and receive an NCAGE code prior to registering with SAM.gov.  Applicants experiencing technical difficulties with the SAM.gov registration process should contact the Federal Service Desk  online or at 1–866-606-8220 (U.S.) and 1-334-206-7828 (International).
+Applications must be submitted under the authority of the Authorized Organization Representative at the applicant organization.  Having proposals submitted by agency headquarters helps to avoid possible technical problems.
+If you encounter technical difficulties with Grants.gov please contact the Grants.gov Help Desk at support@grants.gov or by calling 1-800-518-4726.  
+Applicants who are unable to submit applications via Grants.gov due to Grants.gov technical difficulties and;
+
+who have reported the problem to the Grants.gov help desk;
+received a case number;
+have completed SAM.gov registrations;
+and had a documented service request opened to research the problem;
+
+Applicants may contact the PRM NGO Coordinator before the submission deadline to determine whether an alternative method of submission is appropriate. PRM makes no guarantee to accept an application outside of the grants.gov system.
+It is the responsibility of each applicant to ensure the appropriate registrations are in place and active.  Failure to have the appropriate organizational registrations in place or are experiencing issues resulting from discrepancies across registration platforms is not considered a technical difficulty and is not justification for an alternate means of submission.
+In accordance with 2 CFR §200.113, Mandatory disclosures, the non-Federal entity or applicant for a Federal award must disclose, in a timely manner, in writing to the Federal awarding agency or pass-through entity all violations of Federal criminal law involving fraud, bribery, or gratuity violations potentially affecting the Federal award.  Non-Federal entities that have received a Federal award including the term and condition outlined in Appendix XII—Award Term and Condition for Recipient Integrity and Performance Matters are required to report certain civil, criminal, or administrative proceedings to SAM.  Failure to make required disclosures can result in any of the remedies described in 2 CFR §200.338 Remedies for noncompliance, including suspension or debarment.  (See also 2 CFR part 180, 31 U.S.C.  3321, and 41 U.S.C.  2313.)
+E.  Submission Dates and Times
+
+Announcement issuance date:  Monday, May 2, 2022
+Proposal submission deadline:  Friday, July 8, 2022 at 11:59:59 p.m. (23:59:59) EDT.  Applications submitted after this deadline will not be considered.
+
+F.  Intergovernmental Review: Not Applicable
+G.  Funding Restrictions:  Federal awards will not allow reimbursement of Federal Award costs without prior authorization by PRM.
+H.  Other Submission Requirements
+
+Branding and Marking Strategy 
+
+The following provisions will be included whenever assistance is awarded:
+The Recipient shall recognize the U.S. Government’s funding for activities specified under this award at the project site with a graphic of the U.S. flag accompanied by one of the following two phrases based on the level of funding for the award:
+
+Fully funded by the award:  “Gift of the United States Government”
+Partially funded by the award:  “Funding provided by the United States Government”
+
+PRM highly encourages recognition of U.S. Government funding on social media and website platforms to be included in proposals branding and marking strategy.  Recipients should tag PRM’s Twitter account @StatePRM and/or Facebook account @State.PRM (rather than using hashtags).  Additionally, the applicable U.S. Embassy should be tagged as well.
+Updates of actions taken to fulfill this requirement must be included in quarterly program reports to PRM.
+All programs, projects, assistance, activities, and public communications to foreign audiences, partially or fully funded by the Department, must be marked appropriately overseas with the standard U.S. flag in a size and prominence equal to (or greater than) any other logo or identity.  The requirement does not apply to the Recipient’s own corporate communications or in the United States.
+The Recipient must appropriately ensure that all publicity and promotional materials underscore the sponsorship by or partnership with the U.S. Government or the U.S. Embassy.  The Recipient may continue to use existing logos or project materials; however, a standard rectangular U.S. flag must be used in conjunction with such logos.
+Do not use the Department of State seal without the express written approval from PRM.  
+Sub non-Federal entities (sub-awardees) and subsequent tier sub-award agreements are subject to the marking requirements and the non-Federal entity shall include a provision in the sub non-Federal entity agreement indicating that the standard, rectangular U.S. flag is a requirement.
+Exemptions from this requirement may be allowable but must be agreed to in writing by the Grants Officer.  (Note: An exemption refers to the complete or partial cessation of branding, not use of alternative branding).  Requests should be initiated with the Grants Officer and Grants Officer Representative.  Waivers issued are applied only to the exemptions requested through the Recipient’s proposal for funding and any subsequent negotiated revisions.
+In the event the non-Federal entity does not comply with the marking requirements as established in the approved assistance agreement, the Grants Officer Representative and the Grants Officer must initiate corrective action with the non-Federal entity.
+i.  Assistance Award Provision – SPOT:  The following provisions will be included in the Bureau specific component of the Notice of Award for performance in a designated combat area (Iraq and Afghanistan).  Recipients are required to include this provision in any sub-grant awards or agreements.
+ SPECIAL PROVISION FOR PERFORMANCE IN A DESIGNATED COMBAT AREA
+The Recipient must report and account for all employees, subrecipient personnel, and contract personnel working under grants or cooperative agreements working in contingency operations outside the United States that involve combat operations. The database to collect this information, called the Synchronized Pre-Deployment Operational Tracker (SPOT), is managed by the Department of Defense
+In coordination with the Grants Officer and Grants Officer Representative, the Recipient generally provides this information to the Department of State SPOT Program Manager (AQMops@state.gov). The Department SPOT Program Manager enters information provided by the Recipient directly into the SPOT system.
+For Recipients with personnel who are NOT performing private security functions and who do not need access to U.S. government support or facilities:
+· Personnel, including U.S. citizens, third country nationals, and local personnel, are accounted for anonymously, in aggregate.
+· The Recipient will request an aggregate count template from the Grants Officer or Grants Officer Representative, or directly from the SPOT Program Manager (AQMops@state.gov). The recipient will complete the template and return the completed form to the Grants Officer/ Grants Officer Representative or SPOT Program Manager.
+· The Recipient is responsible for updating the aggregate count every quarter by providing updated information via the “Aggregate Count” template to SPOT Program Manager for each SPOT award.
+For Recipients with personnel who ARE performing a private security function; require access to U.S. government support, facilities, or services; or who may be eligible for special refugee or immigration status under U.S. regulation: 
+The personnel funded under that award must be entered into SPOT individually with all required personal information.
+· The Recipient must enter this information into the SPOT database directly. Unlike the aggregate count process, the Department’s SPOT Program Manager does not enter this information into SPOT on behalf of the Recipient.
+· The Recipient starts the process by registering for an account in SPOT by contacting the SPOT help desk.
+Note: Recipients utilizing armed private security personnel, whether employed directly or via contract, are required to adhere to post policies and procedures regarding private security contractors. As specific post policies and procedures differ in scope and applicability, the Recipient is advised to review post policies carefully and direct any questions to the embassy Regional Security Office through the Grants Officer or Grants Officer Representative.
+In addition, the Recipient is reminded that only the Grants Officer has the authority to modify this Notice of Award. Recipients shall proceed with any security guidance provided by the Regional Security Officer; however, the Recipient must advise the Grants Officer and Grants Officer Representative of the guidance received and any potential cost or schedule impact. 
+ii.  Applicant Vetting as a Condition of Award (Afghanistan, Iraq, Lebanon, Pakistan, and Syria):  Applicants are advised that successful passing of vetting to evaluate the risk that funds may benefit terrorists or their supporters is a condition of award.  Vetting information is also required for all sub award performance on assistance awards identified by the Department of State as presenting a risk of terrorist financing.  Applicants may be asked to submit Risk Analysis information about their company and its key personnel via the secure RAM web portal.   If vetting is required, the RAM Team will contact applicants directly via email and instruct them on how to enter their data via the Secure Portal. Once a user is logged on to the Portal, there are links to help users input the required information.  Failure to submit information when requested, or failure to pass vetting, may be grounds for rejecting your proposal.  The following clause shall be included in Section 15.c, Additional Specific Provisions, or as an addendum to the solicitation, whenever assistance is awarded after vetting:
+iii.  Recipient Vetting After Award:  Recipients shall advise the Grants Officer of any changes in personnel and shall provide vetting information on new individuals via the secure RAM web portal.  The government reserves the right to vet these personnel changes and to terminate assistance awards for convenience based on vetting results.
+Application Review Information
+Criteria:
+Eligible submissions will be those that comply with the criteria and requirements included in this announcement.  The review panel will evaluate the proposals based on the following criteria:
+
+Organizational Structure and Management Capacity (20 points)
+Processing Expertise and Plan to Achieve Objectives (20 points)
+Cultural Orientation (5 points)
+Coordination with Stakeholders (5 points)
+Training, Monitoring, and Oversight (20 points)
+Risk Management (5 points)
+Accountability to Affected Populations (5 points)
+Gender Analysis (5 points)
+Budget (15 points)
+
+PRM will conduct a formal competitive review of all proposals submitted in response to this funding announcement.  A review panel of at least three people will evaluate submissions based on the above-referenced programmatic criteria and PRM priorities in the context of available funding.  An example of this scorecard is included in Appendix 4.
+Department of State review panels may provide conditions and recommendations on applications to enhance the proposed program, which must be addressed by the applicant before further consideration of the award.  To ensure effective use of limited PRM funds, conditions or recommendations may include requests to increase, decrease, clarify, and/or justify costs and program activities.
+Federal Award Administration Information
+
+Federal Award Administration.  A successful applicant can expect to receive a separate notice from PRM stating that an application has been selected before PRM actually makes the federal award.  That notice is not an authorization to begin performance.  Only the notice of award signed by the Grants Officer is the authorizing document.  Unsuccessful applicants will be notified following completion of the selection and award process.
+Administrative and National Policy Requirements.  PRM awards are made consistent with the following provisions in the following order of precedence:  (a) applicable laws and statutes of the United States, including any specific legislative provisions mandated in the statutory authority for the award; (b) Code of Federal Regulations (CFR); (c) Department of State Standard Terms and Conditions of the award; (d) the award’s specific requirements; and (e) other documents and attachments to the award.
+Reporting: Successful applicants will be required to submit:
+
+a.  Program Reports:  PRM requires program reports describing and analyzing the results of activities undertaken during the validity period of the agreement.  A program report is required within thirty (30) days following the end of each three month period of performance during the validity period of the agreement.  The final program report is due one hundred and twenty (120) days following the end of the agreement.  The submission dates for program reports will be written into the cooperative agreement.  Partners receiving multi-year awards should follow this same reporting schedule and should still submit a final program report at the end of each year that summarizes the NGO’s performance during the previous year.
+RSCs should also include an attachment to quarterly program reports with the following information on RSC staffing.  This attachment must provide statistics (in an Excel spreadsheet format) on average output of staff with duties in the START application conducting core processing activities including prescreening, preparation of USCIS interview, creation of travel packets, etc. (e.g., number of prescreening interviews conducted by X number of staff, resulting in an average of Y interviews conducted by each staff assigned to this duty on a daily basis; number of travel packets prepared by X number of staff, resulting in an average of Y travel packets prepared by each staff assigned to this duty on a daily basis; etc.).  RSCs should add metrics on additional processing activities as relevant and available.  Each submission of the statistics Excel spreadsheet should build on the previous submission to provide cumulative statistics.  RSC System Solution Champions (SSCs) should work together on a shared format following receipt and acceptance of the cooperative agreement.  The RPC Change Management and Communication Team will approve the proposed format.  The first such submission of this RPC staffing attachment will be in the quarter two program report and subsequent quarterly program reports.
+b. Financial Reports:  Financial reports are required within thirty (30) days following the end of each calendar year quarter during the validity period of the agreement (January 30th, April 30th, July 30th, October 30th).  The final financial report covering the entire period of the agreement is required within one hundred and twenty (120) days after the expiration date of the agreement.  For agreements containing indirect costs, final financial reports are due within sixty (60) days of the finalization of the applicable negotiated indirect cost rate agreement (NICRA).
+Reports reflecting expenditures for the recipient’s overseas and United States offices should be completed in accordance with the Federal Financial Report (FFR SF-425) and submitted electronically in the Department of Health and Human Services’ Payment Management System (HHS/PMS) and in accordance with other award specific requirements.  Detailed information pertaining to the Federal Financial Report including due dates, instruction manuals and access forms, is provided on the HHS/PMS website.
+c.  Audit Reports:  When a recipient-contracted audit is not required because the Federal award amount is less than the $750,000 threshold, the Department may determine that an audit must be performed and the audit report must be submitted to the responsible grants office(r) for review, dissemination, and resolution as appropriate.  The cost of audits required under this policy may be charged either as an allowable direct cost to the award, or included in the organizations established indirect costs in the award’s detailed budget.
+PRM Points of Contact
+Applicants with technical questions related to this announcement should contact the PRM staff listed below prior to submission.  Please note that responses to technical questions from PRM do not indicate a commitment to fund the program discussed.
+
+PRM Program Officer:  Judit Visontai, visontaij@state.gov, Washington, D.C.
+PRM Program Officer:  Fahan Ali, alifa@state.gov, Washington, D.C.
+
+Disclaimer: 
+External websites linked above may not be supported or accessible by all web browsers.  If you are unable to link to a referenced website, please try using a different browser or update to a more recent one.  If you continue to experience difficulties to reach external resources, please contact PRM NGO Coordinator.
+Appendix 1:  Proposal Narrative Guidance
+The following format should be used when drafting the proposal narrative.  The proposal narrative should be titled and numbered to correspond with the information below.  If any individual section of information is not applicable, that fact should be stated.  Page numbers should be sequential for the entirety of the proposal narrative and should not restart with each section of required information.  This proposal narrative should mostly focus on the first year of the program (October 1, 2022-September 30, 2023) with organizations using Section 9 (capacity development plan) below to address how the RSC will reach a maximum proposed level of departures in FY 2024 and FY 2025.  Proposals should not exceed 20 pages in length (Times New Roman 12 point font, letter sized paper, one inch margins on all sides)
+ 1.  Organizational Structure & Management
+
+How the applicant will meet the expectations outlined in this funding opportunity, including:  (a) the ability to provide regional refugee processing services for all USRAP applicants regardless of nationality, religion, gender, sexual orientation, political opinion, race or ethnicity; (b) the ability to collaborate equitably with all domestic resettlement agencies; (c) ensure that activities undertaken by the RSC effectively consider the specific and unique protection and assistance needs of potentially vulnerable and underserved groups; and (d) system security posture and ability to protect refugee data.
+Its organizational structure, including the number of headquarters staff (to be described in terms of “Full Time Equivalent” or FTE positions) that will be assigned to oversee RSC MENA or RSC TuME.  Describe how the organizational structure demonstrates both cost effectiveness and strong management and program delivery.
+The number of local and international staff to be assigned to the RSC and staffing patterns.  If applicable, explain proposed changes per position from FY 2022 to FY 2023.  Justify the number and need for the proposed FTEs to process and depart the proposed number of refugees (include workflow calculations for how to staff each required RSC function based on projected caseloads, i.e., projected caseload for each caseworker, for each cultural orientation trainer, number of staff per supervisor, etc.).
+Local and headquarters management and oversight policies.
+Outline how the applicant will acknowledge PRM funding.  If an organization believes that publicly acknowledging the receipt of U.S. Government funding for a particular PRM-funded project could potentially endanger the lives of the beneficiaries and/or the organization staff, invite suspicion about the organization’s motives, or alienate the organization from the population it is trying to help, it must provide a brief explanation in its proposal as to why it should be exempted from this requirement.
+
+2.  Processing
+
+How the organization will establish an operation to handle the processing of its caseload as well as meet program objectives as outlined in this funding opportunity.  This includes adherence to USRAP SOPs and the demonstrated ability to adapt quickly to changing requirements at every stage of processing.
+The RSC’s communication strategy for disseminating information to refugees, while adhering to privacy and confidentiality guidelines.  How the applicant will respond to PRM inquiries about specific cases.
+If applicable, a detailed plan outlining how the organization will assume responsibility for the RSC, including logistics, staffing, and timeframe for transition.
+
+3.  Cultural Orientation
+
+How the applicant will develop and implement a formal curriculum for cultural orientation training for refugees that will prepare them for travel and initial adjustment to life in the United States and meet program requirements.
+How the RSC is incorporating the Bureau’s cultural orientation guidelines and other materials developed by the current cultural orientation technical assistance provider.
+
+4.  Coordination with Stakeholders
+
+How the applicant will collaborate and coordinate on USRAP operational matters with the UN High Commissioner for Refugees (UNHCR), IOM and other organizations involved in referring applicants to USRAP and resettling them in the United States.
+
+5.  Training, Monitoring & Oversight
+
+How the applicant will develop and implement an annual and new staff training and management plan for all RSC staff, including how the proposed plan will strengthen service delivery.
+How the applicant will ensure compliance with USRAP Integrity and Compliance Module guidelines training requirements.
+How the applicant proposes internal monitoring of its processing and cultural orientation activities.
+How the applicant will establish and document procedures for fraud mitigation and response and how the applicant will ensure compliance with the USRAP Integrity and Compliance module.
+How the organization will provide timely and accurate reports on processing and orientation activities.
+The organization should identify the Bureau’s point of contact at the headquarters office and at the RSC for training, monitoring, and oversight activities.
+
+6.  AAP Framework
+
+This section of the proposal narrative should describe the organization’s procedures for collecting, analyzing, and responding to beneficiary feedback throughout the refugee processing process.
+Please note, this should be specific to the program being proposed and is distinct from the organization-level AAP framework listed in the application package requirements.
+
+7.  Gender Analysis
+
+PRM partners must complete a gender analysis in the proposal narrative that briefly explains (1) experiences of men, women, boys, and girls with a focus on the different familial roles, community privileges, and gender dynamics within the target population; (2) associated risks and threats experienced by women, girls, and other vulnerable populations based on their gender; (3) power imbalances and needs that arise based on gender inequalities that exist within the family or community; and (4) proposed responses that will address the above and mitigate any gender differences in access, participation, or decision-making that may be experienced by at-risk groups, particularly women and girls.  The gender analysis should aim to specify and target specific at-risk sub-populations of women and girls, such as women and girl heads of households, out-of-school girls, women and girls with disabilities, women and girl survivors of violence, married girls, adolescent mothers, as well as people who identify as LGBTQI+, and those who are often unaware of and excluded from programs and services and who may be the hardest to reach based on their gender.
+
+8.  Capacity Development Plan
+
+Please provide a macro-level description of how you plan to reach higher departure numbers in FY 2023, FY 2024, and FY 2025, if not already addressed in the proposal narrative.  Some of the topics you should address include a broad overview of the increased resources (staffing, infrastructure, etc.) you will need to achieve your departure number, as specified in this funding opportunity.  Organizations can also address number of referrals, USCIS interviews/circuit rides, medicals, etc. needed to reach the allocations provided in this funding opportunity and your proposed number of departures for FY 2024 and FY 2025.  As feasible, justify the likely/intended impact of increased resources on departure numbers based on data and past experience.  Please also address any limitations that may prevent you from reaching this level of departures.  Within this section, organizations should propose a number of departures for FY 2024 and FY 2025, based on capacity and expected RSC growth.  The RSC will not be held to these numbers, but it will allow for better outyear planning.
+
+Appendix 2:  Budget Documents Guidance
+The following provides guidance for the preparation of a proposal’s budget summary, detail, and narrative.  
+1.  Please include the following items in the FY 2023 budget. These in-person workshops will be dependent on the current COVID-19 pandemic posture:
+
+One System Solution Champion in-person meeting for one participant for five days in the Middle East (location subject to change)
+One Reporting Working Group Meeting for two participants for five days in Rosslyn, Virginia
+One RSC Director’s Workshop for two participants for four days in Rosslyn, Virginia
+Two Cultural Orientation Workshops
+Leadership Meeting in Q4 for one participant for four days in Silver Spring, Maryland
+Provider’s Workshop in Q3 for one participant for five days in Silver Spring, Maryland
+The security and compliance framework in use for the RSC must continue to be followed.  The RSC must align to the National Institute of Standards and Technology (NIST) security compliance framework.  RSCs that were not evaluated in FY 2022 should be ready to receive a security assessment by PRM-funded personnel in FY 2023.
+The budget must include funding for qualified IT/system security personnel to maintain the security posture of the system, perform continuous monitoring, and ensure the RSC remains compliant with the NIST security standards.  More details on this position provided in Appendix 3.
+Child protection staff to ensure processing of unaccompanied children according to best practices, if needed.
+
+2.  For the FY 2023 budget, applicants are required to submit a budget narrative explaining all line items proposed in the budget.  For FY 2024 and FY 2025, applicants do not need to include a justification of all line items in the budget narrative, but rather, there is a summary narrative for FY 2024 and FY 2025 that will address expected costs in years two and three of the program (as detailed at the end of this appendix).
+3.  The use of the budget summary and detail template is strongly recommended and estimates should be rounded to the nearest dollar.  Information included in the budget detail should correspond to information in the budget summary and be explained in greater detail in the budget narrative.
+4.  Applicants should provide real quarterly budgets in the budget summary and detail, factoring in timing for expected costs such as travel, purchase of equipment, etc.
+5.  The purpose of the budget narrative is to explain the costs that PRM expects an organization to include in each budget category.  Please include all information in the budget narrative that is included in the budget detail spreadsheet.  Make sure that budget documents are consistent in terms of the order in which items are presented and that dollar amounts match in the budget narrative and budget detail.
+6.  Applicants with current awards from the Bureau should provide a justification for and clearly explain any changes made to the prior year’s budget.
+7.  For applicants currently managing the RSC, indicate if a budget line item is new in the comments section of the budget detail and include a rationale for the proposed change in the budget narrative.
+8.  For policy guidance concerning U.S. Government regulations or admissible expenditure limits, etc., please refer to 2 CFR 200.  The suggested budget template is provided as Attachment A.  Additionally, RSC award-specific information on the budget categories and what should be included in the budget narrative is detailed below.
+
+Personnel:
+This category includes annual salaries/wages, stipends, allowances, differentials, bonuses or extra months’ salary, and any anticipated termination/severance pay for any personnel to be charged to the proposed agreement. (Note: headquarters personnel should not be included here but under the other direct costs category below).
+All positions listed should be in terms of FTE, expressed as a percent, the rate of pay, and the associated unit measurement (hour/month/year) anticipated to fulfill project implementation.  In the budget narrative, identify each position and indicate its role in RSC operations.  The budget narrative should indicate both the number of FTEs and the number of employees occupying each type of position.
+For example, RSC Director – This individual is responsible for the overall management of the RSC.  This position is responsible for compliance with all the terms and conditions of the agreement including implementation, program, and financial reporting.  $85,000/year x 100% of time = $85,000.
+Identify consultants separately from other permanent staff by listing them in the contractual category detailed below.  Include anticipated position title(s), the proposed daily or hourly rate to be paid as compensation, and the number of consultant days that are anticipated.
+The Bureau will not authorize personnel positions to be charged based on a flat monthly fee that includes salaries, benefits, travel costs, etc.
+If your organization anticipates the payment of employee termination and/or severance pay during the proposed funding period, the Bureau will consider such costs an allowable charge to the extent of the Bureau’s responsibility in accordance with each employee’s direct relation to the Bureau’s funded activities.  For example, an employee charged to Bureau activities for one-half of their employment with the organization shall have only one half of their termination or severance costs charged to the agreement.  Explain anticipated termination or severance expenses in the budget narrative section.  Severance pay must be consistent with the organization’s established personnel policies and practices as well as local labor laws.
+Other types of allowances such as housing and education or differentials must be shown separately and identified against the position to be charged.  The budget detail should specify which positions and the number of employees being given each service; i.e., housing for 3 employees; education allowance for 2 children of 2 employees, etc.  Allowances should be based on established policies and should be made available to all employees of the organization in similar situations or positions, not just to employees funded by the U.S. Government.  The Bureau’s policy is to limit the payment of allowances to amounts which do not exceed the rates approved for government employees in similar situations.
+Additionally, attach a staff organizational chart with the above information, indicating existing and proposed positions, staff restructuring or reorganization from the previous year (if applicable), and an organizational chart.  Attach a copy of your organization’s established salary schedule showing different pay levels and step increases on which the budget is based.
+Information on the Cost of Living Allowance (COLA) and proposed salary increase or adjustment should be noted in the budget narrative accompanying the budget worksheet.
+Fringe Benefits:
+This category identifies the various fringe benefits offered to employees for which the Bureau will be charged under the agreement.  While the cost of individual benefits need not be specified, the total cost, including the percentage of salaries, if appropriate, should be shown.  The benefits must be consistent with the organization’s established personnel policies and practices for all of its employees, not just for those employees who may be funded by the government.
+Travel:
+List local and program travel by function in this category (in-country, regional, international, etc.) and type of trip (circuit ride, monitoring, etc.).  Headquarters staff travel should also be included in this travel cost category.
+In the budget detail, provide one total for each category and type of trip.  All anticipated international trips must be listed individually.  Show only the total cost of each trip.  Do not itemize by category (airfare, per diem, etc.); rather, list general categories as well as the number of trips included in the trip total in the comments column for each type of travel.
+In the budget narrative, a detailed description of all anticipated travel by category is required.  Travel should be identified via mode of travel, departure and arrival city, purpose, unit of measurement, and duration of trip.  Please note that the movement of project participants and supplies is a separate transportation line item.
+For example, 10 in-country trips will be undertaken to conduct case processing.  Roundtrip airfare from Jordan to Algeria for 5 employees is anticipated.  Each trip will include 5 days of per diem per employee.
+In-country Airfare – 10 trips x 5 employees x $1,000 = $50,000
+Lodging – 10 trips x 5 employees x 5 days x $161/day = $40,250
+Per diem – 10 trips x 5 employees x 5 days x $57 = $14,250
+It is the Bureau’s policy not to reimburse organizations for per diem allowances, both overseas and domestic, which exceed the rates approved for government employees.  Current rates can be found at the following link:  https://aoprals.state.gov/web920/per_diem.asp.
+Equipment:
+This category must include a complete and detailed listing of all non-expendable equipment anticipated to be purchased for program activities and to be charged to the agreement.  Non-expendable equipment is that which has a useful life of one year or more and an acquisition cost of $5,000 or more per unit.  However, consistent with the recipient’s policy, lower limits may be used.  The program budget must identify which of the above is followed and must be consistently applied to all U.S. Government funding arrangements.  PRM’s Office of the Comptroller must be informed, in writing, of a recipient’s policy and the threshold amount if equal to or greater than $5,000.  Any equipment that may be determined, after the initial budget approval, to be required to meet the program objectives must be specifically approved by the Bureau in writing prior to the purchase.  Equipment not included in the approved budget or subsequently approved by the Bureau will be considered an unallowable cost under the agreement.
+List all equipment that will be leased, including vehicles.  For each new vehicle to be purchased and charged to the agreement, please state the purpose for which it will be used and indicate whether the vehicle will be assigned to a motor pool or to an individual.  Also, please list separately any vehicle that may currently be owned or leased that is expected to be charged to the agreement.  Bureau policy prohibits the use of program vehicles and drivers for personal use, which includes commuting between home and place of employment.  Any non-direct program or unofficial use of a vehicle must be reimbursed at the appropriate government rate.
+For organizations that have not previously received Bureau funding: Include a summary description of your property management procedures that are currently in place.  This will be incorporated into the Bureau’s funding arrangements with your organization.  In the budget narrative, include a detailed listing of all non-expendable equipment anticipated to be purchased for program activities including justification.  For example, Land Rover – Due to the challenging road conditions, inclement weather, terrain conditions, and geographical location(s) of project sites, it is deemed reasonable and necessary to purchase a new vehicle.  Vehicle x 1 quantity = $40,000
+Consolidate like items of lesser value by type of equipment (i.e., telephones, office furniture) with quantities or types to be purchased noted in the comments column.  See Appendix 3 for WRAPS/START requirements.
+List all equipment that will be leased, including vehicles.
+For guidance in determining allowable insurance costs, please refer to 2 CFR 200, Subpart D, Section 310 Insurance Coverage.  The Bureau will no longer allow charges to its agreements for costs of insuring equipment purchased with program funds against loss or damage, except for unique or high expense items.  The Bureau will allow charges for automobile liability and comprehensive insurance coverage.
+Supplies:
+Show all tangible personal property by appropriate category (office supplies, classroom supplies, etc.) that may be purchased and charged under the agreement.  The budget narrative should describe the types of items included in each of the categories and the proposed use (e.g. pens, pencils, notebooks, printer paper, etc.).
+For example: 12 months x $100/month x 3 project offices = $3,600
+Due to the opening of a new project office to support DHS circuit rides, project supplies include the following items: 2 laptop computers, 3 desktop computers, and 2 printers (2 laptop computers x $700 = $1,400 ; 3 desktop computers x $1,200 = $3,600; 2 printers x $400 = $800).
+Contractual:
+List all proposed sub-contracts or sub-recipients that are anticipated to carry out the proposed program, i.e., security guards, additional personnel, sub-agreements with an implementing partners etc.  These agreements are subject to the regulations set forth in 2 CFR 200, Appendix II.
+Construction:
+Generally, the Bureau limits the use of Federal assistance awards to implement new construction programs and programs involving significant construction activities consistent with Department-wide policy.  An applicant may, however, request consideration of minor construction related activities that consist of the renovation or rehabilitation of existing permanent structures with a sufficient description of the activities and/or related statements of work to be performed.  The construction, renovation, or rehabilitation of temporary structures should be excluded from this section.
+Other Direct Costs: 
+Include any other direct cost not clearly covered herein.  Examples are computer use, telephone, postage, space rental (list projected rental items), audit fees, insurance, printing/duplicating, utilities, etc.  Each item must be listed separately showing an estimated cost.
+Other direct costs also included any expenses related to refugee processing which do not fit in any other category, such as medical exam or fees for panel physicians.  Provide a detailed breakdown of anticipated costs for each category of activity.  Headquarters staff costs associated with the RSC should also be included under the other direct cost category and include the percentage of time dedicated to this program.
+Describe in the budget detail as follows:
+Rent of Office space in three locations – 12 months x 3 offices x $400 = $14,400
+Utilities – 12 months x 3 offices x $100 = $3,60
+Postage – 12 months x 3 offices x $50 = $1,800
+Courier – 25 trips x 2 offices x $25 = $1,250
+Communication (phone, fax, internet) = 12 months x 3 offices x $200 = $7,200
+Transportation cost of case files via ground freight = 2 trips x $3,000 = $6,000
+Indirect Costs:
+Show the amount of indirect costs and the base amount on which it is determined.  It must be indicated whether the rate has been approved by a government cognizant agency and the type of rate (provisional, predetermined, or fixed).  A copy of the most current NICRA must be submitted for the recipient and sub-recipient(s), if applicable. In accordance with guidance from the   Office of Management and Budget (OMB), applicants with no NICRA may elect to charge a de minimis rate of 10 percent of the MTDC which may be used indefinitely (2 CFR 200, Subpart E, Section 414 Indirect (F&A) Costs).  A de minimis rate calculation must be provided if the applicant elects to charge the de minimis rate.
+Comments:
+Comments are not required for every budget line item.  This column provides space for further identification of items included in the budget categories.  For example, under travel, total cost for each trip should be provided under the “Proposed Budget” column, with the number of trips and items included in the costs, e.g., airfare, per diem, taxis, etc., specified under “Comments.”  The comments column is not intended to replace the budget narrative section.
+FY 2024 and FY 2025 Budget:
+The budget now includes a budget summary and detail for the second and third years of the program.  This will be used for planning purposes only, and organizations will still have to submit updated budget documents before the start of each fiscal year of the award.  Organizations should attempt to provide a realistic budget that accounts for the proposed maximum level of departures for each RSC and expected RSC growth.  In the budget narrative for FY 2023, organizations should include a section at the end titled FY 2024 and FY 2025 budget and briefly address the staffing, resources, infrastructure, etc. with funding implications needed to reach the proposed level of departures for FY 2024 and FY 2025.  This should be in line with the departure numbers provided in the capacity development plan section of the proposal narrative.  In planning for FY 2024 and FY 2025, organizations should assume the guidance provided in this appendix, Section 1 will also be line items included in year two and year three budgets (e.g.: travel for workshops, meetings, etc.).  Organizations do not need to provide a line-by-line justification for all of the budget items proposed in FY 2024 and FY 2025.
+
+Appendix 3:  START Equipment & Software Requirements
+1. The following guidance provides information on START requirements. 
+
+System Solution Champion (SSCs):  SSCs will remain in their role at their specific RSC.  The RPC will continue to provide guidance to SSCs on key priorities and activities post-START deployment.  The SSC will remain fully dedicated to RPC-directed START activities, and rely on cooperation and support from RSC colleagues to advance training, system testing, guidance review/drafting, and other activities to improve standardization in guidance, processing efficiency, reporting, and system enhancements
+Information Security Personnel:  RSCs should have at least one dedicated system security staff member who understands the NIST framework. This staff member will need to understand all system details including: architecture; system components (hardware, software, peripherals, etc.); location of each system component; data flow; interconnections (internal and external); security categorization; security requirements; configuration management processes and procedures; users (roles, responsibilities, access controls, location, etc.); key personnel by name.
+Reporting:  RSC Data Integrity teams will continue to work collaboratively with SSCs to evaluate and create reports in Tableau and to increasingly assess reports created in the START Reporting tool by the RPC.  These POCs will also complete analysis on START Filtering capabilities and identify RSC workflow enhancements.  Hours of engagement will vary; however, all RSC reporting teams will be required to work collaboratively with one another and RPC to support the development of standardized reporting and predictive analytics across the USRAP
+
+2.  The following includes RSC required equipment for START.  Please note the equipment listed below is the “minimum” requirement. The RSC may exceed any of the recommendations. Should the RSC replace a previous RSC in the same location and find that the existing hardware does not meet the minimum requirements specified in document, the new RSC staff will be responsible for any and all necessary upgrades.
+
+Facility Server/IT Room
+The RSC is responsible for providing and maintaining an IT server room capable of housing all the necessary networking, computer, and telephony hardware required to support the business operations of an RSC.  This includes space, power (minimum two-15amp circuits per device), enterprise UPS (uninterruptible power supply) solution, cooling, and fire suppression solution.
+The RSC is responsible for enforcing physical access authorization at entry/exit points to the server room by (at minimum);
+Verifying individual access authorizations before granting access to the facility
+Controlling ingress/egress to the facility using well defined physical access control systems/devices and/or guards
+Providing security safeguards to control access to areas within the facility officially designated as publicly accessible;
+Escorts visitors and monitors visitor activity
+The RSC will hold in reserve the necessary IT server capacity (i.e. space, power, enterprise UPS (uninterruptible power supply) solution, and cooling) required to provide colocation services for a WRAPS/START on premise solution.
+Networking
+CISCO 4431 Routers – minimum 2
+U.S. manufactured commercial grade switch(es) – minimum 2
+Firewall
+A pair of CISCO ASA or Palo Alto (with VLAN separation) and IPSec VPN tunnel to RPC
+Structured cabling (wireless access is prohibited)
+Cable run from wall jacks to patch panel in wiring closet
+RJ45 patch cables to connect PC to wall jacks
+RJ45 patch cables to connect patch panel to LAN switched
+Telecommunications.  The RSC must have an primary and alternate Internet Service Provider (ISP) with a minimum of:
+Primary link: 50/50 MB dedicated link
+Alternate link: 20/20 MB dedicated link – This will only be used when primary link is not available for more than 72 hours
+IP subnet with at least 14 usable host addresses
+RSC Office Operations:  Server Hardware to function as an RSC.  The following equipment/software is representative of an environment to support desktops accessing WRAPS.  If not already available, it should be included in the proposal.
+Domain Controller
+1 Dual Core Processor 64-bit
+8 GB RAM
+2 – 80 GB SATA Disk Drives
+CD-RW/DVD-ROM
+Enterprise Level Microsoft Exchange & File Server (2 Servers)
+2 Dual Core Processors 64-bit
+Minimum 16 GB RAM
+Minimum 2TB Storage
+CD-RW/DVD-ROM
+RAID Controller
+Spam Filtering Solution
+Tape Drive for backups
+Redundant Power Supply
+Redundant Fan Kit
+Server Software
+All non-WRAPS Servers:
+Windows Server 2012 or higher (2016 recommended)
+Commercial grade Anti-Virus Software
+Automated patch management and compliance reporting
+Backup Software 
+Required Peripherals
+Network Printer(s)
+Network Label Printer (Zebra LP2844 is utilized at the RPC)
+Digital Camera
+Double-sided Image Scanner
+Copy Machine(s)
+Fax Machine(s)/Service
+Telephony System
+All caseworkers and supervisors must have access to a telephony solution that provides the ability to make and receive local and long distance phone calls. This may be achieved via a third party VOIP solution (recommend US based solutions), traditional telephony provider, or a combination of both.
+VOIP solutions should be monitored and controlled. The RSC should established usage restrictions based on the potential to cause damage if used maliciously
+If RSC decide to procure a cloud based VOIP solution. The RSC is responsible to make sure they are choosing FedRAMP certified solution.
+Workstation Desktops
+Each caseworker and each supervisor at the RSC must have at least a 64-bit capable Intel or AMD desktop computer with the following minimum requirements:
+Workstation Hardware
+Minimum 8 GB RAM
+Minimum 100 GB Hard Disk
+CD/DVD-ROM Drive
+4 USB Ports
+17-in Monitor
+Workstation Software
+Windows 10 Professional or Enterprise
+Microsoft Office 2013
+Microsoft Internet Explorer 11 or higher
+Google Chrome
+Adobe Acrobat Reader
+Commercial Anti-Virus Software – RSCs need approval from the RPC Security Team on type of software
+Full disk encryption for all RSC workstations
+
+Note: Kaspersky products are not permitted.
+
+Security & Compliance
+The RPC will be responsible for assessment, authorization and continuous monitoring of WRAPS/START application and components.
+In accordance with Federal Information Security Act (FISMA), the RSC is responsible for implementing appropriate security controls and assurance requirements for a “moderate impact” system as described in NIST Special Publication (SP) 800-53 Revision 4.
+The RSC is required to adhere to PRM Integrity & Compliance guidelines.  Note:  These guidelines align with the requirements identified in NIST SP 800-53 Rev.4.
+The RSC information systems must be able to receive an authorization to operate (ATO) in accordance with NIST SP 800-37 Rev 2. The ATO assessment will be conducted by the RPC through an RPC-procured auditor. The audit findings and recommendations to issue an ATO will be adjudicated by the RPC security team for  final determination.
+The auditor will start contacting RSCs starting in FY 2022 to schedule audits. The RSC does not need to budget for this audit as it will be funded and coordinated by PRM.
+In preparation for the RSC information system assessment and authorization, the RSC is responsible for developing all required documentation in accordance with NIST SP 800-37 Rev 2.  RSCs are encouraged to obtain a NIST external audit as a “dry run” in FY 2021 to prepare for the official PRM/RPC audit if they have not received one already.  The list below defines, but is not limited to, minimum documentation required:
+
+
+
+
+Document/Artifact Name 
+Standards/Guidance 
+
+
+Security Categorization Document
+NIST SP 800-37 REV 2, SP-800-53 REV 4:RA-2, FIPS 199
+
+
+Minimum Security Controls Selection Document
+NIST SP 800-37 REV 2, FIPS 200
+
+
+E-authentication Risk assessment
+NIST SP 800-37 REV 2 , SP-800-53 REV 4:RA-2
+
+
+Privacy Threshold Analysis (PTA)
+NIST SP-800-37 REV 2, SP-800-53 REV 4:AR-2
+
+
+Privacy Impact Assessment (PIA)
+NIST SP-800-37 REV 2, SP-800-53 REV 4:AR-2
+
+
+External Interconnection Security Agreement(s)
+NIST SP 800-47, SP-800-53 REV 4:CA-3,FIPS 199
+
+
+Plan of Action and Milestones (POA&M)
+NIST SP 800-53 REV 4:CA-5, OMB Memorandum 02-01
+
+
+Continuous Monitoring Strategy
+NIST SP 800-53 REV 4:CA-7, OMB Memorandum 11-33
+
+
+Internal Interconnection Agreement(s)
+NIST SP 800-53 REV 4:CA-9
+
+
+Configuration Management Plan
+NIST SP 800-53 REV 4:CM-9 (CM-2, CM-3, CM-4, CM-5, CM-6, CM-7, CM-8), NIST SP-800-128
+
+
+Contingency Plan
+NIST SP 800-53 REV 4:CP-2,CP-6, CP-7, CP-9, CP-10, NIST SP 800-34 REV. 1
+
+
+Contingency Plan Testing, Training & Exercise
+NIST SP 800-53 REV 4: CP-3,CP-4, NIST SP 800-34 REV. 1, FIPS-199
+
+
+Incident Response Plan
+NIST SP 800-53 REV 4:IR-2, IR-3, IR-9, NIST SP 800-61
+
+
+Security Awareness and Training Plan
+NIST SP 800-53 REV 4, AT-2,AT-3,IR-2, Executive Order 13587
+
+
+System Security Plan
+NIST SP 800-37 REV 2, NIST SP 800-53 REV 4:PL-2
+
+
+Rules of Behavior (Users, privileged users)
+NIST SP 800-53 REV 4:PL-4, NIST SP 800-18
+
+
+Information System Hardware/Software Inventory
+NIST SP 800-53 REV 4:CM-8, NIST SP 800-128
+
+
+Information Security Architecture Diagram
+NIST SP 800-53 REV 4:PL-8
+
+
+Vulnerability Scans (Web, OS, and database)
+NIST SP 800-53 REV 4:RA-5, NIST SP 800-40    
+
+
+
+Information Assurance 
+
+RSCs should ensure all staff review and sign applicable Rules of Behavior/Acceptable Use Policy within 30 days of receiving an account.  This policy defines the local RSC rules users must follow and acceptable use of the system.
+RSCs should develop a formal process to ensure all processing staff receive initial and yearly Information Awareness training.  RSCs should maintain a current roster of general users and those that maintain elevated privileges (i.e. Administrators).
+RSCs should develop a system plan to include a network diagram, a record of all connections to RPC and other partners, and an up to date inventory of hardware/software.
+The RPC provides the curriculum to facilitate both general training geared towards all staff and privileged user training, which covers advanced principles of IT Security, policies, and procedures.
+
+Vulnerability Scanning and Maintenance    
+
+Each RSC is responsible for the maintenance and security of their own equipment but must adhere to an acceptable security standard. This requires that the RSC do regular vulnerability scanning and patching of all desktops and servers on their network. To ensure that this is maintained, RSCs must provide scan data on a monthly basis to the RPC Security Team and to the RPC Director. One of the following scanning solutions is recommended:
+
+Nexpose Rapid 7
+Tenable Network Security (Nessus)
+Qualys
+
+
+
+Incident handling 
+
+The RSC is responsible for implementation of incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication and recovery. Incident-related information can be obtained from a variety of sources including but not limited to, audit monitoring, network monitoring, physical access monitoring, user/administrator reports and inside threat program. It is recommended that the RSC should employ automated mechanisms to support the incident handling process.
+
+Backup and disaster recovery  
+
+The RSC is responsible for an enterprise level backup and recovery solution that includes the backup of all servers with regular weekly rotation full backups held offsite for a minimum of 6 months.  All backup data must be encrypted at rest. Evidence of a Disaster Recovery plan and the results of a Disaster Recovery test should be provided to the RPC Security Team and to the RPC Director on an annual basis.
+Circuit Ride Laptops: With the transition from WRAPS to START, RSCs that use circuit ride servers should not procure any new equipment outlined below without consultation and approval from their program officer and the RPC.  The circuit ide server itself, containing the WRAPS application, will be provided.  Include all other equipment required to use the circuit ride server in the field.
+Hardware – laptops to connect to circuit ride server
+
+Workstations/laptops, LAN equipment and switches for circuit ride processing are determined by local circuit ride requirements
+The workstations and/or laptops should have BitLocker or equivalent encryption
+Any external devices should be encrypted (for instance Ironkey Thumbdrives should be used)
+Printers, Label Printers, Scanners, Digital Cameras, etc. as needed
+
+
+
+Additional Information:  The RPC utilizes HP equipment for servers, desktops, and network printers.  Both AMD and Intel-based processors are acceptable for desktops.  Also, Cisco is the preferred manufacturer for the networking/security infrastructure.  Any subscription-based anti-malware/anti-virus products should be sufficient.  Symantec is utilized at the RPC and has been verified to not interfere with WRAPS/START operations.
+Appendix 4:  Sample RSC Scorecard Template
+FY 2023 RSC Proposal Review
+Rating Sheet
+
+
+
+Organization
+
+
+
+RSC Region
+
+
+
+Same as current organization?   
+Yes No 
+If new organization list here: 
+
+
+
+
+
+
+Rater # (to be assigned at review)
+
+
+
+Total Score
+
+
+
+
+
+
+
+Criteria
+Score
+
+
+I.  Organizational Structure & Management Capacity (20 points)
+
+
+
+II.  Processing Expertise and Plan to Achieve Objectives (20 points)
+
+
+
+III.  Cultural Orientation (5 points)
+
+
+
+IV.  Coordination with Stakeholders (5 points)
+
+
+
+V. Training, Monitoring, & Oversight (20 points)
+
+
+
+VI. Risk Management  (5 points)
+
+
+
+VII. Accountability to Affected Populations (5 points)
+
+
+
+VIII.  Gender Analysis (5 points)
+
+
+
+IX.  Budget (15 points)
+
+
+
+Total (out of 100)
+
+
+
+
+I. Organizational Structure and Management Capacity (20 points)
+
+Ability to provide regional refugee processing services for all USRAP applicants regardless of nationality, religion, gender, sexual orientation, political opinion, race or ethnicity;
+Ability to collaborate equitably with all resettlement agencies;
+Headquarters capacity to provide oversight and management;
+RSC activities effectively consider the specific and unique protection and case processing needs of potentially vulnerable and underserved groups;
+Organizational structure, description of FTEs, and justification for FTE levels based on projected caseload;
+Ability to maintain system security posture, comply with PRM security requirements and protect refugee data.
+
+SCORE:  /20
+II. Processing Expertise and Plan to Achieve Objectives (20 points)
+
+Proposed processing plan that addresses refugee caseload and program objectives and requirements, and shows how resources (staffing, equipment) link to potential number of departures based on data, past experience, and taking into account the organization’s capacity development plan;
+Ability to implement Standard Operating Procedures and adapt quickly to changing requirements ;
+Communication strategy for disseminating information to refugees in line with confidentiality guidelines;
+If applicable, detailed plan outlining how the organization will assume responsibility for the RSC; including logistics, staffing and timeframe for transition.
+
+SCORE:  /20
+III. Cultural Orientation (5 points)
+
+Plan to develop and implement curriculum to prepare refugees for travel and initial adjustment to life in the United States;
+Incorporates the Bureau’s cultural orientation guidelines and other materials developed by the cultural orientation technical assistance provider.
+
+SCORE:  /5
+IV. Coordination with other Stakeholders (5 points)
+
+Capacity to coordinate effectively with partners (UNHCR, IOM, US Embassy, USCIS, other NGOs).
+
+SCORE:  /5
+V. Training, Monitoring and Oversight (20 points)
+
+Develop and implement annual and new staff training plans, addresses how plan will strengthen service delivery;
+How applicant will ensure compliance with PRM’s USRAP Manual Integrity and Compliance module;
+Evidence of capacity to monitor processing and cultural orientation activities, and perform robust quality control to ensure staff adhere to USRAP SOPs to ensure program standardization where possible;
+Establish and document procedures for fraud mitigation strategies and compliance with USRAP Manual Integrity and Compliance requirements;
+Capacity to provide timely and accurate reporting on activities.
+
+SCORE:  /20
+VI.  Risk Management (5 points)
+
+Risk analysis is specific to operations at the RSC, addresses potential programmatic or administrative risks (including fraud or corruption);
+Analysis specifically examines the risk that the program may inadvertently benefit terrorists or their supporters and includes a responsive mitigation plan/action.
+
+SCORE:  /5
+VII. Accountability to Affected Populations (AAP) (5 points)
+
+Organizational framework that adheres to Inter-Agency Standing Committee AAP guidelines;
+Procedures for collecting, analyzing, and responding to beneficiary feedback throughout processing process.
+
+SCORE:  /5
+VIII. Gender Analysis (5 points)
+
+Analysis explaining experiences of gender dynamics and roles within target populations, associated risks experienced by vulnerable populations, power imbalances, and proposed responses to mitigate differences in access, participation, or decision making.
+
+SCORE:  /5
+IX. Budget (15 points)
+
+Detailed and cost-effective budget including justification for staffing, travel, and other funding needs.
+Does the budget detail follow the instructions in Appendix 2?
+
+Yes No
+
+Does the budget narrative follow the template in Attachment A?
+
+Yes No
+SCORE:  /15
+
+
+
+
+
+
+Tags
+
+Bureau of Population, Refugees, and Migration
+NGO Programs
+Notice of Funding Opportunity
+Turkey
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+					June 22, 2022
+				
+
+
+				World Refugee Day 2022			
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+					June 8, 2022
+				
+
+
+				FY 2023 Request for Concept Notes on Capacity Development and Strengthening of Domestic Refugee Resettlement			
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+					June 20, 2022
+				
+
+
+				Remarks at the Annual Tripartite Consultations on Resettlement			
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+
+Back to Top
+
+
+
+
+
+
+
+
+
+
+
+
+White House
+USA.gov
+Office of the Inspector General
+Archives
+Contact Us
+ 
+
+
+
+
+follow us
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+Flickr
+GovDelivery
+
+
+
+
+Privacy Policy
+Accessibility Statement
+Copyright Information
+FOIA
+No FEAR Act
+ 
+
+
+
+
+
+
+
+
+Search:
+
+
+
+
+Search
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+.wmpci-popup-wrp .wmpci-popup-body{background-color: #ffffff;border-width: 0px; border-style: solid;max-width: 50;}.wpmci-popup-cnt-inr-wrp{height:1000;color:#000000;}.wpmci-popup-cnt-inr-wrp h2, .wpmci-popup-cnt-inr-wrp h4{color:#000000;}
+
+
+
+
+
+U.S. Department of State
+The Lessons of 1989: Freedom and Our Future
+
+
+
+
+
+
+
+
+var sbiajaxurl = "https://www.state.gov/wp-admin/admin-ajax.php";
+
+
+
+
+
+
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/www.state.gov\/wp-json\/","nonce":"2889d25d7e","versionString":"wp\/v2\/"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var Wmpci_Popup = {"enable":"0","delay":"0","exp_time":"1","close_on_esc":"1","hide_time":"0"};
+/* ]]> */
+
+
+
+

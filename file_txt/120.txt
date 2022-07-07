@@ -1,0 +1,1758 @@
+
+
+
+
+
+
+
+
+
+
+
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+
+
+
+Support for the Rule of Law, Independent Media, and Civil Society in Lebanon - United States Department of State
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.state.gov/#website","url":"https://www.state.gov/","name":"United States Department of State","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.state.gov/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.state.gov/statements-of-interest-requests-for-proposals-and-notices-of-funding-opportunity/support-for-the-rule-of-law-independent-media-and-civil-society-in-lebanon/#webpage","url":"https://www.state.gov/statements-of-interest-requests-for-proposals-and-notices-of-funding-opportunity/support-for-the-rule-of-law-independent-media-and-civil-society-in-lebanon/","name":"Support for the Rule of Law, Independent Media, and Civil Society in Lebanon - United States Department of State","isPartOf":{"@id":"https://www.state.gov/#website"},"datePublished":"2021-04-07T15:36:24+00:00","dateModified":"2021-04-07T15:36:24+00:00","breadcrumb":{"@id":"https://www.state.gov/statements-of-interest-requests-for-proposals-and-notices-of-funding-opportunity/support-for-the-rule-of-law-independent-media-and-civil-society-in-lebanon/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.state.gov/statements-of-interest-requests-for-proposals-and-notices-of-funding-opportunity/support-for-the-rule-of-law-independent-media-and-civil-society-in-lebanon/"]}]},{"@type":"BreadcrumbList","@id":"https://www.state.gov/statements-of-interest-requests-for-proposals-and-notices-of-funding-opportunity/support-for-the-rule-of-law-independent-media-and-civil-society-in-lebanon/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.state.gov/"},{"@type":"ListItem","position":2,"name":"Statements of Interest, Requests for Proposals, and Notices of Funding Opportunity","item":"https://www.state.gov/statements-of-interest-requests-for-proposals-and-notices-of-funding-opportunity/"},{"@type":"ListItem","position":3,"name":"Support for the Rule of Law, Independent Media, and Civil Society in Lebanon"}]}]}
+
+
+
+
+
+
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.state.gov\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--state-dark-blue: #062135;--wp--preset--color--state-blue: #0A314D;--wp--preset--color--state-white: #FFFFFF;--wp--preset--color--state-dark-gray: #333333;--wp--preset--color--state-link: #4574A1;--wp--preset--color--state-gold: #C1A783;--wp--preset--color--state-red: #D01319;--wp--preset--color--state-light-gray: #8D98AA;--wp--preset--color--state-gray: #767676;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pageAttributes":[null,null],"pagePostAuthor":"Tianna Hutchins"};
+	dataLayer.push( dataLayer_content );
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T9WK49Q');
+
+
+
+
+
+
+
+			@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	.profile-card__wrapper .profile-card__image img { top: 63% !important; }
+}
+span.icon-svg, span.icon-svg svg {
+    width: auto;
+}
+.wmpci-popup-wrp.splash {
+    background: hsla( 217, 17%, 66%, 0.6 );
+}
+
+.wmpci-popup-body {
+    max-width: 750px;
+}
+
+.wpmci-popup-cnt-inr-wrp {
+    box-shadow: 0 0 17px 5px hsla(0, 0%, 12%, 0.2);
+    padding: 0;
+}
+
+.dos_popup_header {
+    height: auto;
+    width: 100%;
+}
+
+.wpmci-popup-cnt-inr-wrp h2 {
+    background: linear-gradient( to bottom, #062135 0, #062135 68px, #0a324c 68px, #0a324c 100% );
+    color: #fff !important;
+    font-family: "EB Garamond", Times, Serif;
+    font-size: 20px;
+    height: 168px;
+    margin-bottom: 60px !important;
+    padding-top: 111px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.wpmci-popup-cnt-inr-wrp h2 em {
+    display: inline-block;
+    margin-right: 0.25em;
+    text-transform: none;
+}
+
+.wpmci-popup-cnt-inr-wrp h2::before {
+    background: center / contain no-repeat url('/wp-content/themes/state/images/state-favicon.png');
+    content: '';
+    display: block;
+    height: 70px;
+    left: 50%;
+    position: absolute;
+    top: 19px;
+    transform: translateX( -50% );
+    width: 70px;
+}
+
+.wpmci-popup-cnt-inr-wrp h4 {
+    color: #0a314d !important;
+    font-family: "EB Garamond", Times, Serif;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+    line-height: 42px;
+    margin-bottom:30px;
+}
+
+.dos_popup_copy {
+    color: #333;
+    font-family: "Open Sans", Arial, Sans-Serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.25px;
+    line-height: 28px;
+    margin: 40px auto 50px !important;
+    width: 80%;
+}
+
+.dos_popup_close {
+    border: 3px #D11F27 solid;
+    color: #0a314d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Open Sans", Arial, Sans-Serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    height: 72px;
+    letter-spacing: 1.5px;
+    margin: 0 auto 30px;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.dos_popup_close:hover {
+    color: #8d98aa;
+}
+
+.dos_popup_close::after {
+    color: #d01319;
+    margin-left: 10px;
+}
+.collection-result .collection-result-meta span {
+    border-right: 2px solid #ccc;
+    margin: 20px 15px 0 0;
+    padding-right: 15px;
+}
+.collection-result .collection-result-meta span:last-child {
+    border: 0;
+    margin: 20px 0 0;
+    padding: 0;
+}
+@media only screen and (min-width: 600px) {
+	.collection-result .collection-result-meta span {
+		white-space: nowrap;
+	}
+}
+.collection-result-meta .divider {
+    display: none;
+}
+.report-appendices .appendix__contents ul ul li {
+    padding-left: 20px;
+}
+.report-appendices .appendix__contents ol
+padding-inline-start: 40px;
+}
+.report-appendices .appendix__contents ol > li {
+    padding-left: 0;
+	margin-left: 30px;
+list-style: decimal;
+}
+.report-appendices .appendix__contents ol li {
+    padding-left: 0;
+    margin-left: 30px;
+    list-style: decimal;
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    .report-toc span.toc-hamburger {
+      left: -50px;
+    }
+}
+/* #post-14921 .collection-result-meta {display: none;} */
+
+
+.supporting-content__column .card__image .crop_default img {
+    height: 107%;
+}
+.front-page-policy-issues__wrapper .policy-issues__article a {
+    word-wrap: anywhere;
+}
+.postid-167354 .bc_middle.collapse a:nth-child(n+2), .postid-167354 .bc_middle.collapse .bc_carat {     display: none; }
+
+@media only screen and (max-width: 768px) {
+    html .entry-content img.alignnone,
+    html .entry-content img.aligncenter,
+    html .entry-content img.alignright,
+    html .entry-content img.alignleft,
+    html .entry-content figure.alignnone,
+    html .entry-content figure.aligncenter,
+    html .entry-content figure.alignright,
+    html .entry-content figure.alignleft {
+        width: inherit !important;
+        max-width: 100% !important;
+        display: inherit !important;
+        float: inherit;
+        margin-left: unset;
+        margin-right: unset;
+        height: auto;
+    }
+    html body .entry-content img.alignleft, html .entry-content figure.alignleft {
+        float: left;
+        margin 20px 20px 20px 0 !important;
+        margin-right: 20px !important;
+    }
+    html body .entry-content img.alignright, html .entry-content figure.alignright {
+        float: right;
+        margin 20px 0 20px 20px !important;
+        margin-left: 20px !important;
+    }
+/*	.home .front-page-policy-issues__wrapper .policy-issues__article a {
+    word-break: break-word;
+}*/
+}
+
+.has-background-opacity-10 {
+	background-color: rgba(0, 0, 0, 0.1) !important;
+}
+.has-background-opacity-20 {
+	background-color: rgba(0, 0, 0, 0.2) !important;
+}
+.has-background-opacity-30 {
+	background-color: rgba(0, 0, 0, 0.3) !important;
+}
+.has-background-opacity-40 {
+	background-color: rgba(0, 0, 0, 0.4) !important;
+}
+.has-background-opacity-50 {
+	background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.has-background-opacity-60 {
+	background-color: rgba(0, 0, 0, 0.6) !important;
+}
+.has-background-opacity-70 {
+	background-color: rgba(0, 0, 0, 0.7) !important;
+}
+.has-background-opacity-80 {
+	background-color: rgba(0, 0, 0, 0.8) !important;
+}
+.has-background-opacity-90 {
+	background-color: rgba(0, 0, 0, 0.9) !important;
+}
+.news-bar__list {
+   z-index: 999999999;
+}
+.page-id-84379 .entry-content table {
+    width: 100% !important;
+    display: inline-table;
+}
+@media(max-width:767px) {
+	.page-id-84379 .entry-content table {
+    width: 95% !important;
+    overflow: scroll;
+		display: block;
+  }
+	.hide-on-mobile {
+		display: none !important;
+	}
+}
+.page-id-84379 .entry-content table td {
+    padding: 16px 12px;
+}
+.page-id-84379 .entry-content {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 12;
+    grid-column: 1/span 12;
+}
+body.page-template-collection-by-terms header .social_links_header .frame {
+    margin-bottom: 0 !important;
+}
+html[lang=ar] main .has-text-align-right, html[lang=ar] main .wp-block-pullquote p {
+  direction: rtl !important;
+}
+.dipnote-social-media .widget-area section.widget_custom-twitter-feeds-widget {
+  max-height: 950px;
+}
+.dipnote-social-media aside {
+    height: auto !important;
+}
+.state_trip_travel-template.postid-319779 .slick-dots {
+  display: none;
+}
+.live_now_banner {
+ background:#2d5f99;
+ padding:10px 20px
+}
+.live_now_banner .live_message {
+ display:block;
+ text-indent:-16px;
+ margin:0 auto;
+ padding-left:16px;
+ max-width:1200px
+}
+.live_now_banner .live_message a {
+ color:#fff
+}
+.live_now_banner .live_message:before {
+ color:#f0d21d;
+ content:'\e911';
+ font-family:icomoon;
+ font-size:9px;
+ text-decoration:none;
+ margin-right:3px;
+ z-index:1
+}
+.live_now_banner .live_title {
+ font-size:14px;
+ text-decoration:underline
+}
+@media(min-width:767px) {
+  .home .front-page-hero {
+    min-height: 608px;
+  }
+}
+.home .video__iframe.hidden, .home .video__poster.hidden {
+    display: block;
+}
+.addthis .at-icon-wrapper.at-share-btn.at-svc-email {   display: none; }		
+
+
+
+;(function (g) {
+var d = document, am = d.createElement("script"), h = d.head || d.getElementsByTagName("head")[0], fsr = "fsReady",
+aex = {
+"src": "/wp-content/themes/state/foresee_assets/js/gateway.min.js",
+"type": "text/javascript",
+"async": "true",
+"data-vendor": "fs",
+"data-mode": "selfhost",
+"data-environment": "production",
+"data-hasssl": "true",
+"data-client": "state-gov",
+"data-codelocation": "/wp-content/themes/state/foresee_assets/code/19.11.1/",
+"data-isselfhosted": "true",
+"data-product-assets": "/wp-content/themes/state/foresee_assets/product_assets/",
+"data-role": "gateway"
+};
+for (var attr in aex){am.setAttribute(attr, aex[attr]);}h.appendChild(am); g[fsr] || (g[fsr] = function () {var aT = "__" + fsr + "_stk__";g[aT] = g[aT] || [];g[aT].push(arguments);});})(window);
+
+!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="WQTDE-3U7ZD-TLDZY-ZPT2B-WL72L",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"WQTDE-3U7ZD-TLDZY-ZPT2B-WL72L";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="ejfiazyx2t5quywbxiaa-f-e93271f95-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"32","ak.cp":"840896","ak.ai":parseInt("536498",10),"ak.ol":"0","ak.cr":23,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"65803955","ak.r":41483,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"34.74.128.0","ak.cport":60212,"ak.gh":"23.220.107.10","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1656863232","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==/fMzpxjRPDm2YccbZnUHvLDmyrhcs9ISSIT368Fc5GjssEtSSVd3MSIkVZj/C3omdut6cnOG46zmGxE7MWYm25U9nTB3LTARwMQULwz+zoKiL779Bngz0kRNszfQloGlt7rzNPQQy4bX996NrjuMD40mC1T1twmmknocKuXEXtiWEdHgD/+ehhxODA1qgRjzlZY2ysfDQoKAsBHrM+kiBo+iGi7T659E/1c5l0Uu3VLTLEhTwDFICklVQGLLctGPe47wSncAJ/Ib/1sWhnvc+ZH6e+GUSxBHudtm3+C6NjfdsmHJ3DnAyfa0o/SiBZJiRJDecrThisW+3TLg6LShN7W+BbCWz3BVf4FYeAQHU/Pqamf77361U/ecRp6J2autu+Ji/g8JJ+cU1VmXGs87xkDBHAPpWM34gVbuA7guerY=","ak.pv":"41","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+
+
+
+
+
+Skip to content
+
+An official website of the United States Government Here's how you know
+
+
+
+
+Official websites use .gov
+				A .gov website belongs to an official government organization in the United States.
+			
+
+
+
+
+Secure .gov websites use HTTPS
+				A lock (  ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+			
+
+
+
+
+
+
+Newsroom
+Business
+Employees
+Job Seekers
+Students
+Travelers
+Visas
+ 
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+Flickr
+GovDelivery
+
+
+
+
+
+
+
+	// Code to load the navigation without the temporarily blank navigation and page jumpiness -- mainly for desktop.
+	if( window.jQuery ) {
+		if ( jQuery(window).width() >= 975 ) {
+			jQuery('.nav__utility').show();
+			jQuery('.site-nav--primary').appendTo('.nav__second-nav');
+			jQuery('.nav__primary-nav').appendTo('.nav__second-nav');
+		}
+		if ( jQuery(window).width() < 975 ) {
+			jQuery('.nav__utility').hide();
+		}
+	}
+
+
+
+Menu
+
+State Department Home
+
+Search
+
+
+State Department Home
+Policy Issues
+
+Back
+
+Policy Issues
+
+
+
+
+
+
+										Anti-Corruption and Transparency
+									
+
+
+
+
+
+
+										Arms Control and Nonproliferation
+									
+
+
+
+
+
+
+										Climate and Environment
+									
+
+
+
+
+
+
+										Climate Crisis
+									
+
+
+
+
+
+
+										Combating Drugs and Crime
+									
+
+
+
+
+
+
+										Countering Terrorism
+									
+
+
+
+
+
+
+										COVID-19 Recovery
+									
+
+
+
+
+
+
+										Cyber Issues
+									
+
+
+
+
+
+
+										Disarming Disinformation
+									
+
+
+
+
+
+
+										Economic Prosperity and Trade Policy
+									
+
+
+
+
+
+
+										Energy
+									
+
+
+
+
+
+
+										Global Health
+									
+
+
+
+
+
+
+										Global Women’s Issues
+									
+
+
+
+
+
+
+										Holding Russia and Belarus to Account
+									
+
+
+
+
+
+
+										Human Rights and Democracy
+									
+
+
+
+
+
+
+										Human Trafficking
+									
+
+
+
+
+
+
+										The Ocean and Polar Affairs
+									
+
+
+
+
+
+
+										Refugee and Humanitarian Assistance
+									
+
+
+
+
+
+
+										Science, Technology, and Innovation
+									
+
+
+
+
+
+
+										Treaties and International Agreements
+									
+
+
+
+
+
+
+										United with Ukraine
+									
+
+
+
+
+
+
+
+Countries & Areas
+
+Back
+
+Countries & Areas
+
+Search for country or area
+
+AAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+BBahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+CCabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Costa Rica
+Côte d’Ivoire
+Croatia
+Cuba
+Cyprus
+Czechia
+DDemocratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+EEcuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+FFiji
+Finland
+France
+GGabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+HHaiti
+Holy See
+Honduras
+Hungary
+IIceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+JJamaica
+Japan
+Jordan
+KKazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+LLaos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+MMadagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+NNamibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+OOman
+PPakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+QQatar
+RRepublic of the Congo
+Romania
+Russia
+Rwanda
+SSaint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+São Tomé and Príncipe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+TTaiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+UUganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uruguay
+Uzbekistan
+VVanuatu
+Venezuela
+Vietnam
+YYemen
+ZZambia
+Zimbabwe
+
+
+
+
+
+Bureaus & Offices
+
+Back
+
+Bureaus & Offices
+
+
+
+The Secretary of StateThe Secretary of State
+The Secretary of State
+Bureau of Intelligence and Research
+Bureau of Legislative Affairs
+Counselor of the Department
+Executive Secretariat
+Office of the Chief of Protocol
+Office of Civil Rights
+Office of Diversity and Inclusion
+Office of Global Women’s Issues
+Office of the Legal Adviser
+Office of the Ombudsman
+Office of the U.S. Global AIDS Coordinator and Global Health Diplomacy
+Policy Planning Staff
+Special Presidential Envoy for Hostage Affairs
+Special Representative for Afghanistan Reconciliation
+Special Representative for Iran
+Special Representative for Syria Engagement
+Special Representative for Venezuela
+U.S. Security Coordinator for Israel and the Palestinian Authority
+Deputy Secretaries of StateDeputy Secretaries of State
+Deputy Secretary of State
+Bureau of Cyberspace and Digital Policy
+Office of the U.S. Coordinator for the Arctic Region
+Deputy Secretary of State for Management and Resources
+Office of Foreign Assistance
+Office of Small and Disadvantaged Business Utilization
+Arms Control and International SecurityArms Control and International Security
+Under Secretary for Arms Control and International Security
+Bureau of Arms Control, Verification and Compliance
+Bureau of International Security and Nonproliferation
+Bureau of Political-Military Affairs
+Civilian Security, Democracy, and Human RightsCivilian Security, Democracy, and Human Rights
+Under Secretary for Civilian Security, Democracy, and Human Rights
+Bureau of Conflict and Stabilization Operations
+Bureau of Counterterrorism
+Bureau of Democracy, Human Rights, and Labor
+Bureau of International Narcotics and Law Enforcement Affairs
+Bureau of Population, Refugees, and Migration
+Office of Global Criminal Justice
+Office of International Religious Freedom
+Office of the Special Envoy To Monitor and Combat Antisemitism
+Office to Monitor and Combat Trafficking in Persons
+Economic Growth, Energy, and EnvironmentEconomic Growth, Energy, and Environment
+Under Secretary for Economic Growth, Energy, and the Environment
+Bureau of Economic and Business Affairs
+Bureau of Energy Resources
+Bureau of Oceans and International Environmental and Scientific Affairs
+Office of Global Food Security
+Office of Global Partnerships
+Office of the Chief Economist
+Office of the Science and Technology Adviser
+ManagementManagement
+Under Secretary for Management
+Bureau of Administration
+Bureau of Budget and Planning
+Bureau of the Comptroller and Global Financial Services
+Bureau of Consular Affairs
+Bureau of Diplomatic Security
+Bureau of Global Talent Management
+Bureau of Information Resource Management
+Bureau of Medical Services
+Bureau of Overseas Buildings Operations
+Director of Diplomatic Reception Rooms
+Foreign Service Institute
+Office of Foreign Missions
+Office of Management Strategy and Solutions
+Political AffairsPolitical Affairs
+Under Secretary for Political Affairs
+Bureau of African Affairs
+Bureau of East Asian and Pacific Affairs
+Bureau of European and Eurasian Affairs
+Bureau of International Organization Affairs
+Bureau of Near Eastern Affairs
+Bureau of South and Central Asian Affairs
+Bureau of Western Hemisphere Affairs
+Public Diplomacy and Public AffairsPublic Diplomacy and Public Affairs
+Under Secretary for Public Diplomacy and Public Affairs
+Educational and Cultural Affairs
+Expo Unit
+Global Engagement Center
+Global Public Affairs
+Policy, Planning, and Resources
+U.S. Advisory Commission on Public Diplomacy
+
+
+
+
+
+
+
+About
+
+Back
+
+About
+
+
+
+Mission
+
+
+
+										About the U.S. Department of State
+									
+
+
+
+
+										Joint Strategic Plan
+									
+
+
+
+
+										Equity Action Plan
+									
+
+
+
+
+										Foreign Affairs Manual and Handbook
+									
+
+
+
+
+										We Are the U.S. Department of State
+									
+
+
+
+History
+
+
+
+										Previous Administration Archives
+									
+
+
+
+
+										Foreign Relations of the United States
+									
+
+
+
+
+										National Museum of American Diplomacy
+									
+
+
+
+
+										Art in Embassies
+									
+
+
+
+Administrative
+
+
+
+										Department Reports and Publications
+									
+
+
+
+
+										Agency Financial Reports
+									
+
+
+
+
+										Form Finder
+									
+
+
+
+
+										Organization Chart
+									
+
+
+
+
+										Plans, Performance, Budget
+									
+
+
+
+
+										Information Quality Act
+									
+
+
+
+
+										Open Government Initiative
+									
+
+
+
+
+										Digital Government Strategy
+									
+
+
+
+
+										Plain Writing Program
+									
+
+
+
+
+										Partner With State
+									
+
+
+
+Leadership
+
+
+
+										The Secretary of State
+									
+
+
+
+
+										Deputy Secretary of State
+									
+
+
+
+
+										Deputy Secretary of State for Management and Resources
+									
+
+
+
+
+										Biographies of Senior Officials
+									
+
+
+
+Directories
+
+
+
+										Contact Us
+									
+
+
+
+
+										Telephone Directory
+									
+
+
+
+
+										U.S. Ambassadors
+									
+
+
+
+
+										U.S. Embassies and Other Posts
+									
+
+
+
+
+										Country Offices Directory
+									
+
+
+
+
+										Key Officers of Foreign Service Posts
+									
+
+
+
+
+										Diplomats in Residence
+									
+
+
+
+
+
+
+
+
+
+
+
+
+	// Code to enable sub-area highlighting for countries and areas navigation
+
+	if(window.jQuery) {
+		jQuery(document).ready(function(){
+			jQuery(document).on({
+				touchstart: function( event ) {
+					event.preventDefault();
+					if(!jQuery( this ).prev().hasClass('highlighted')) {
+						jQuery( this ).prev().addClass('highlighted');
+					}
+				},
+				mouseleave: function() {
+					if(jQuery( this ).prev().hasClass('highlighted')) {
+					}
+				},
+				mouseover: function() {
+					if(!jQuery( this ).prev().hasClass('highlighted')) {
+						jQuery( this ).prev().addClass('highlighted');
+					}
+				}
+			}, '#country_navigation_chosen .indent');
+
+			jQuery(document).on({
+				touchstart: function( event ) {
+					event.preventDefault();
+					if(!jQuery( this ).next('.indent').hasClass('highlighted')) {
+						jQuery( this ).next('.indent').addClass('highlighted');
+					}
+				},
+				mouseleave: function() {
+					if(jQuery( this ).next('.indent').hasClass('highlighted')) {
+					}
+				},
+				mouseover: function() {
+					if(!jQuery( this ).next('.indent').hasClass('highlighted')) {
+						jQuery( this ).next('.indent').addClass('highlighted');
+					}
+				}
+			}, '#country_navigation_chosen .noindent');
+
+		});
+
+		// Code to load the navigation without the temporarily blank navigation and page jumpiness -- mainly for desktop.
+		if ( jQuery(window).width() >= 975 ) {
+			jQuery('.nav__utility').show();
+			jQuery('.site-nav--primary').appendTo('.nav__second-nav');
+			jQuery('.nav__primary-nav').appendTo('.nav__second-nav');
+		}
+		if ( jQuery(window).width() < 975 ) {
+			jQuery('.nav__utility').hide();
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+HomeStatements of Interest, Requests for Proposals, and Notices of Funding Opportunity ...Support for the Rule of Law, Independent Media, and Civil Society in Lebanon 
+hide
+
+
+
+
+	if(window.jQuery) {
+		jQuery( document ).ready(function() {
+			if (jQuery(".bc_middle").hasClass("collapse")) {
+				jQuery(".bc_ellipse").click(function(){
+					jQuery(".bc_hide").toggleClass("visible");
+					jQuery(".bc_middle").toggle();
+					jQuery(".bc_ellipse").toggle();
+					jQuery(".bc_content").toggleClass("noflex");
+					jQuery(".block_breadcrumbs_content").toggleClass("noflex");
+				});
+
+				jQuery(".bc_hide").click(function(){
+					jQuery(".bc_hide").toggleClass("visible");
+					jQuery(".bc_middle").toggle();
+					jQuery(".bc_ellipse").toggle();
+					jQuery(".bc_content").toggleClass("noflex");
+					jQuery(".block_breadcrumbs_content").toggleClass("noflex");
+				});
+
+			} else {
+				jQuery(".bc_ellipse").hide();
+			}
+		});
+	}
+
+
+
+
+
+
+				
+					Support for the Rule of Law, Independent Media, and Civil Society in Lebanon
+				
+			
+
+
+Funding Opportunity Announcement
+Bureau of Democracy, Human Rights, and Labor
+April 7, 2021
+
+
+
+
+Share
+
+
+Share this page on:
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		
+United States Department of State 
+Bureau of Democracy, Human Rights and Labor (DRL)
+Notice of Funding Opportunity (NOFO): 
+Support for the Rule of Law, Independent Media, and Civil Society in Lebanon
+This is the announcement of funding opportunity number SFOP0007885.
+Catalog of Federal Domestic Assistance Number:  19.345
+Type of Solicitation: Open
+Application Deadline:  11:59 PM EDT on 7, June, 2021
+Funding Floor:  $750,000
+Funding Ceiling:  $1,500,000
+Anticipated Number of Awards:  2-3
+Type of Award: Grant, Cooperative Agreement
+Period of Performance:  18-24 months
+Anticipated Time to Award, Pending Availability of Funds:  8 months
+A. Project Description
+The U.S. Department of State, Bureau of Democracy, Human Rights and Labor (DRL) announces an open competition for organizations interested in submitting applications for projects that improve the rule of law, strengthen independent media, and/or increase civil society’s role as a critical force in broader civic activism in Lebanon. Where possible, DRL seeks to encourage intersectional coalition building between values-based groups that advocate on key transitional aims, i.e., electoral reform, economic justice, anti-corruption, transparency in aid distribution, good governance, and meaningful inclusion of marginalized groups, etc. Applicants may submit proposals under one of the following categories:
+
+Rule of Law: DRL’s long-term objective is to advance judicial independence by building civil society’s capacity to hold the justice sector accountable in making progress toward meaningful reforms inclusive of all members of society. Program outcomes may include: civil society effectively advocates for justice sector reforms; civil society, including independent media and/or professional syndicates, increases effective awareness of and influence on justice sector reforms; and public trust in the reform process of the judiciary is improved.
+Civil Society and/or Independent Media: DRL’s objective is to strengthen nascent civil society organizations, professional syndicates, and/or independent media outlets in Lebanon to strategically advance and represent citizen concerns.  Program outcomes may include: independent media outlets and/or nascent, non-Beirut-centric Lebanese CSOs, representing a diverse set of rights-related issues, increase their organizational capacity, financial stability, and structures; independent media outlets’ and/or nascent CSOs’ skills in advocacy campaigns on issues of public importance, particularly transparency and accountability, are strengthened; organizations and/or media outlets contribute to improving the public trust and holding government officials accountable to the commitments of the offices they hold; and CSOs build coalitions for collective action through developing and adapting shared and inclusive policy positions. Proposals may include direct support to organizations through small- to medium-sized grants.
+
+Successful proposals will address contextual challenges as well as detail technical programmatic interventions.  To promote collaboration and avoid duplication of efforts, projects should demonstrate the ability to coordinate closely with other actors currently or previously engaged in similar initiatives or advocacy on this topic.  DRL’s preference is to avoid duplicating past efforts by supporting new and creative approaches.  This does not exclude from consideration projects that improve upon or expand existing successful projects in a new and complementary way.
+Innovative ideas for working in a difficult environment – particularly best practices adapted from lessons learned — are welcome.  Proposals that include Lebanese organizations as the lead implementer or as substantial program partners are strongly encouraged and will be viewed favorably.   DRL also requires all of its programming to be non-discriminatory and expects implementers to include strategies for engaging individuals/organizations regardless of religion, gender, disability, race, ethnicity, and/or sexual orientation and gender identity as a part of this program.
+DRL is conscious of the ever-changing security situation in the broader NEA region. With this in mind, applicants are required to submit a detailed contingency plan and risk assessment in order to demonstrate situational awareness and preparedness.  Risk assessment and contingency plan documents must address safety and contingency for in-person events and recruitment for said events; processes for receiving and disbursing funds; as well as means to secure online programs or communications.
+A proven ability to implement programs in Lebanon must be demonstrated.  As part of the proposal narrative, or as an annex to the proposal submission, applicants are encouraged to submit lessons learned from past programming in Lebanon that demonstrate how the implementer has safely operated and responded to challenges, learning from both successes and failures, in the operating environment.
+Where appropriate, competitive proposals may include:
+
+A cogent Theory of Change (TOC) that directly links activities to the intended results of the project;
+Opportunities for beneficiaries to apply their new knowledge and skills in practical efforts;
+Solicitation of feedback and suggestions from beneficiaries, including marginalized populations such as women, LGBTI, and persons with disabilities, when developing activities in order to strengthen the sustainability of programs and participant ownership of project outcomes;
+Input from participants on sustainability plans and systematic review of the plans throughout the life of the project, with adjustments made as necessary;
+Inclusion of vulnerable populations throughout program design and activities;
+Joint identification and definition of key concepts with relevant stakeholders and stakeholder input into project activities;
+Systematic follow up with beneficiaries at specific intervals after the completion of activities to track how beneficiaries are retaining new knowledge as well as applying their new skills.
+
+Activities that are not typically allowed include, but are not limited to:
+
+The provision of humanitarian assistance;
+English language instruction;
+Development of high-tech computer or communications software and/or hardware;
+Purely academic exchanges or fellowships;
+External exchanges or fellowships lasting longer than six months;
+Off-shore activities that are not clearly linked to in-country initiatives and impact or are not necessary per security concerns;
+Theoretical explorations of human rights or democracy issues, including projects aimed primarily at research and evaluation that do not incorporate training or capacity-building for local civil society;
+Micro-loans or similar small business development initiatives;
+Initiatives directed towards a diaspora community rather than current residents of targeted countries.
+
+This notice is subject to availability of funding.
+B. Federal Award Information
+Primary organizations can submit two application(s) in response to the NOFO.  If an applicant chooses to submit multiple applications to this NOFO, it is the responsibility of the applicant to demonstrate the competitiveness and uniqueness of each application.
+The U.S. government may:  (a) reject any or all applications, (b) accept other than the lowest cost application, (c) accept more than one application, and (d) waive irregularities in applications received.
+The U.S. government may make award(s) on the basis of initial applications received, without discussions or negotiations.  Therefore, each initial application should contain the applicant’s best terms from a cost and technical standpoint.  The U.S. government reserves the right (though it is under no obligation to do so), however, to enter into discussions with one or more applicants in order to obtain clarifications, additional detail, or to suggest refinements in the project description, budget, or other aspects of an application.
+DRL anticipates awarding either a grant or cooperative agreement depending on the needs and risk factors of the program.  The final determination on award mechanism will be made by the Grants Officer.  The distinction between grants and cooperative agreements revolves around the existence of “substantial involvement.”  Cooperative agreements require greater Federal government participation in the project.  If a cooperative agreement is awarded, DRL will undertake reasonable and programmatically necessary substantial involvement.  Examples of substantial involvement can include, but are not limited to:
+
+Active participation or collaboration with the recipient in the implementation of the award;
+Review and approval of one stage of work before another can begin;
+Review and approval of substantive provisions of proposed sub-awards or contracts beyond existing Federal policy;
+Approval of the recipient’s budget or plan of work prior to the award.
+
+The authority for this funding opportunity is found in the Foreign Assistance Act of 1961, as amended (FAA).
+To maximize the impact and sustainability of the award(s) that result from this NOFO, DRL retains the right to execute non-competitive continuation amendment(s).  The total duration of any award, including potential non-competitive continuation amendments, shall not exceed 60 months, or five years.  Any non-competitive continuation is contingent on performance and pending availability of funds.  A non-competitive continuation is not guaranteed and the Department of State reserves the right to exercise or not to exercise this option.
+C. Eligibility Information
+For application information, please see the proposal submission instructions (PSI), updated March 2021 on our website.
+C.1 Eligible Applicants
+DRL welcomes applications from U.S.-based and foreign-based non-profit organizations/nongovernment organizations (NGO) and public international organizations; private, public, or state institutions of higher education; and for-profit organizations or businesses.  DRL’s preference is to work with non-profit entities; however, there may be some occasions when a for-profit entity is best suited.
+Applications submitted by for-profit entities may be subject to additional review following the panel selection process.  Additionally, the Department of State prohibits profit to for-profit or commercial organizations under its assistance awards.  Profit is defined as any amount in excess of allowable direct and indirect costs.  The allowability of costs incurred by commercial organizations is determined in accordance with the provisions of the Federal Acquisition Regulation (FAR) at 48 CFR 30, Cost Accounting Standards Administration, and 48 CFR 31 Contract Cost Principles and Procedures.
+Please see 2 CFR 200.307 for regulations regarding program income.
+C.2 Cost Sharing or Matching
+Providing cost sharing, matching, or cost participation is not an eligibility factor or requirement for this NOFO, and providing cost share will not result in a more favorable competitive ranking.
+C.3 Other
+Applicants should have existing, or the capacity to develop, active partnerships with thematic or in-country partners, entities, and relevant stakeholders, including private sector partners and NGOs, and have demonstrable experience in administering successful and preferably similar projects.  DRL encourages applications from foreign-based NGOs headquartered in the geographic regions/countries relevant to this NOFO.  Applicants may form consortia in order to bring together organizations with varied expertise to propose a comprehensive program in one proposal.  However, one organization should be designated in the proposal as the lead applicant, with the other members designated as sub-award partners.  DRL reserves the right to request additional background information on applicants that do not have previous experience administering federal grant awards, and these applicants may be subject to limited funding on a pilot basis.
+DRL is committed to an anti-discrimination policy in all of its projects and activities.  DRL welcomes applications irrespective of race, ethnicity, color, creed, national origin, gender, sexual orientation, gender identity, disability, or other status.
+Any applicant listed on the Excluded Parties List System in the System for Award Management (SAM.gov) (www.sam.gov) and/or has a current debt to the U.S. government is not eligible to apply for an assistance award in accordance with the OMB guidelines at 2 CFR 180 that implement Executive Orders 12549 (3 CFR,1986 Comp., p. 189) and 12689 (3 CFR,1989 Comp., p. 235), “Debarment and Suspension.”  Additionally, no entity or person listed on the Excluded Parties List System in SAM.gov can participate in any activities under an award.  All applicants are strongly encouraged to review the Excluded Parties List System in SAM.gov to ensure that no ineligible entity or person is included in their application.
+D. Application and Submission Information
+D.1 Address to Request Application Package
+Applicants can find application forms, kits, or other materials needed to apply on www.grants.gov and SAMS Domestic (https://mygrants.servicenowservices.com) under the announcement title “DRL FY2020: Support for the Rule of Law, Independent Media, and Civil Society in Lebanon,” funding opportunity number “SFOP0007885.”  Please contact the DRL point of contact listed in Section G if requesting reasonable accommodations for persons with disabilities or for security reasons.  Please note that reasonable accommodations do not include deadline extensions.
+D.2 Content and Form of Application Submission
+For all application documents, please ensure:
+
+All documents are in English and all costs are in U.S. Dollars.  If an original document within the application is in another language, an English translation must be provided (please note the Department of State, as indicated in 2 CFR 200.111, requires that English is the official language of all award documents).  If any document is provided in both English and a foreign language, the English language version is the controlling version;
+All pages are numbered, including budgets and attachments;
+All documents are formatted to 8 ½ x 11 paper; and,
+All documents are single-spaced, 12-point Times New Roman font, with 1-inch margins.  Captions and footnotes may be 10-point Times New Roman font.  Font sizes in charts and tables, including the budget, can be reformatted to fit within 1 page width.
+
+D.2.1 Application Requirements
+Complete applications must include the following:
+
+Completed and signed SF-424, SF-424A, and SF-424B forms.  Please see SF-424 instructions in Section 2B of the PSI.
+Organizations that engage in lobbying the U.S. government including Congress, or pay for another entity to lobby on their behalf, are also required to complete the SF-LLL “Disclosure of Lobbying Activities” form (only if applicable).  Please see SF-LLL guidance in Section 2B of the PSI.
+Cover Page (not to exceed one (1) page, preferably as a Word Document) that includes a table with the organization name, project title, target country/countries, project synopsis, and name and contact information for the application’s main point of contact.  Please see Cover Page Section 2C of the PSI for a template and more details.
+Executive Summary (not to exceed one (1) page, preferably as a Word Document) that outlines project goals, objectives, activities, etc.
+
+The Executive Summary should include a brief section that explicitly states:  (1) the problem statement addressed by the project, (2) research-based evidence justifying the unique project approach, and (3) quantifiable project outcomes and impacts.
+
+
+Table of Contents (not to exceed one (1) page, preferably as a Word Document) listing all documents and attachments with page numbers.
+Proposal Narrative (not to exceed ten (10) pages, preferably as a Word Document).  Please note the ten-page limit does not include the Cover Page, Executive Summary, Table of Contents, Attachments, Detailed Budget, Budget Narrative, Audit, or NICRA.  Applicants are encouraged to combine multiple documents into a single Word Document or PDF (i.e. Cover Page, Table of Contents, Executive Summary, and Proposal Narrative in one file).  Please see Proposal Narrative Guidelines in Section 2F of the PSI for more details.
+
+The Proposal Narrative should demonstrate the applicant’s commitment to ensuring the participation of all people as a strategy for implementation.  Please integrate inclusion strategies in all sections of the Proposal Narrative to enhance programmatic impact.
+
+
+Budget (preferably as an Excel workbook) that includes three (3) columns containing the request to DRL, any cost sharing contribution, and the total budget.  A summary budget should also be included using the OMB-approved budget categories (see SF-424A as a sample) in a separate tab.  Costs must be in U.S. Dollars.  Detailed line-item budgets for sub-grantees should be included as additional tabs within the Excel workbook (if available at the time of submission).  Please see Budget Guidelines Section 2G of the PSI for more information.
+
+The programming approach should be dedicated to strengthening inclusive societies as a necessary pillar of strong democracies.  Please include costs associated with this commitment in the Budget and Budget Narrative.
+
+
+Budget Narrative (preferably as a Word Document) that includes substantive explanations and justifications for each line item in the detailed budget spreadsheet, as well as the source and a description of all cost-share offered.  Please see Budget Guidelines Section 2G of the PSI for more information.
+The organization’s most recent audit, if applicable.  This should be a single audit, program-specific audit, or other audit in accordance with Generally Accepted Government Auditing Standards (GAGAS).  Please see Audit Section 2H of the PSI for more information.
+Logic Model (preferably as a Word Document).  Please see Logic Model Section 2I of the PSI for more information.
+Monitoring and Evaluation Narrative (not to exceed four (4) pages, preferably as a Word Document).  Please see Monitoring and Evaluation Narrative Section 2J of the PSI for more information.
+
+As stated within the DRL Guide to Program Monitoring and Evaluation (p. 6): DRL strongly encourages applicants to consider whether their monitoring and evaluation systems are utilizing human rights-based approaches, applying a gender and equity lens, or include the participation of sub-grantees and project participants.  Within the Monitoring and Evaluation Narrative, applicants should demonstrate their commitment to inclusive strategies and consider whether evaluation design, data collection, analysis, reporting and learning are conducted in an ethical and responsible way with all project participants (e.g. direct beneficiaries, sub-grantees).  Applicants should still make adequate provisions to protect the privacy of human subjects when collecting data from individuals. For instance, when collecting data from project participants, consider whether your organization will have the necessary informed consent forms, confidentiality agreements, and data security protocols.
+
+
+Monitoring and Evaluation Plan (preferably as a Word Document or Excel Sheet).  Please see Monitoring and Evaluation Plan Section 2J of the PSI for more information.
+Risk Analysis (preferably as a Word Document).  Please see Risk Analysis Section 2K of the PSI for more information on this requirement, including Do No Harm principles and Preventing Sexual Exploitation and Abuse (PSEA) policies/plans.
+Key Personnel (not to exceed two (2) pages, preferably as a Word Document).  Please include short bios that highlight relevant professional experience.  Given the limited space, CVs are not recommended for submission.
+Timeline (not to exceed one (1) page, preferably as a Word Document or Excel Sheet).  The timeline of the overall proposal should include activities, evaluation efforts, and program closeout.
+Gender Analysis (not to exceed three (3) pages, preferably as a Word Document) that provides a concise analysis of relevant gender norms, power relations, and conflict dynamics in target countries.  Potential domains of analysis include institutional practices and barriers, cultural norms, gender roles, access to and control over assets and resources, and patterns of decision-making.  Applicants should briefly explain how they have integrated findings from their analysis into project design and/or other proposal documents, including a plan for regularly reviewing and updating the gender analysis with local partners/beneficiaries, and making any necessary adjustments to program implementation.  A set of guiding questions can be found in Section 2L of the PSI.
+Security Plan addressing any issues involving in-person events and recruitment for said events, and safety for any online programs or communications, including independent IT security audits (to include a vulnerability assessment) of any proposed web application or platform.  Organization’s security plan should demonstrate consideration of the risks identified in the submitted risk assessment.  Costs may also be identified within the budget and budget narrative.  Applicants are also encouraged to include contingency plans for in-person or online activities.
+Contingency Plan for proposed activities should the originally planned activities not be able to be implemented.  The contingency plan should be submitted as an additional annex.  Applicants should demonstrate consideration of the risks identified in the submitted risk assessment and include specific alternative activities or locations as part of the contingency plan.  Any proposed “plan” must comply with 2CFR200.433 – Contingency provisions.  Plans must not include unallocable or unallowable expenses, and must not result in a larger Total Award Value than the identified as the “competition ceiling.”  DRL requires prior approval by the Grants Officer of the “plan” before any activities can take place, or costs can be incurred against the “plan.”
+Lessons Learned (not to exceed one (1) page, preferably as a Word Document) from past programs Lebanon that demonstrate how the implementer has safely operated and responded to programmatic challenges, learning from both successes and failures, in the operating environment.  To be incorporated into the ten (10) pages allowed for “Proposal Narrative.”
+Psychosocial Assistance (to be incorporated into the ten (10) pages allowed for “Proposal Narrative,” and into “Budget” and “Budget Narrative”).  A section in the proposal, budget, and budget narrative to reflect appropriate resources and support for the psychosocial health of staff (i.e., activities can range from access to educational materials and training opportunities to counseling services to other contextually-relevant support).
+
+References:  For reference to international guidance, please see the following: Core Humanitarian Standard Commitment 8.9 (https://corehumanitarianstandard.org/files/files/CHS-Guidance-Notes-and-Indicators.pdf); and IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings Action Sheet 4.4 (http://www.who.int/mental_health/emergencies/guidelines_iasc_mental_health_psychosocial_june_2007.pdf).
+
+
+
+Applications that do not include the elements listed above will be deemed technically ineligible.  
+D.2.2 Additional Application Documents
+Strong applications will also contain the following:
+
+Individual Letters of Support and/or Memorandum of Understanding.  Letters of support and MOUs must be specific to the project implementation (e.g. from proposed partners or sub-award recipients) and will not count towards the page limit.
+
+Please refer to the Proposal Submission Instructions (PSI), updated March 2021, on DRL’s website for detailed guidance on the documents above:  https://www.state.gov/bureau-of-democracy-human-rights-and-labor/programs-and-grants/.  For an application checklist and sample templates please see the Resources page on DRL’s website:  https://www.state.gov/resources-for-programs-and-grants/.  The sample templates provided on the DRL website are suggested, but not mandatory.
+DRL reserves the right to request additional documents not included in this NOFO.  Additionally, to ensure that all applications receive a balanced evaluation, the DRL review panel will review from the first page of each section up to the page limit and no further.
+Note:  If ultimately provided with a notification of non-binding intent to make a Federal award, applicants typically have two to three weeks to provide additional information and documents requested in the notification of intent.  The deadlines may vary in each notification of intent and applicants must adhere to the stated deadline in the notification of intent.
+D.2.3 Additional Information Requested For Those Receiving Notification of Intent
+Successful applicants must submit, after notification of intent to make a Federal award, but prior to issuance of a Federal award:
+
+Written responses and revised application documents addressing conditions and recommendations from the DRL review panel;
+A copy of the applicant’s latest NICRA as a PDF file, if the applicant has a NICRA and includes NICRA charges in the budget;
+A completed copy of the Department’s Financial Management Survey, if receiving DRL funding for the first time;
+Submission of required documents to register in the Payment Management System managed by the Department of Health and Human Services, if receiving DRL funding for the first time (unless an exemption is provided);
+Other requested information or documents included in the notification of intent to make a Federal award or subsequent communications prior to issuance of a Federal award;
+Applicants who submit their applications through Grants.gov will be required to create a SAMS Domestic account in order to accept the final award.  Accounts must be logged into to every 60 days in order to maintain an active account.
+
+D.3 Unique Entity Identifier and System for Award Management (SAM)
+All prime organizations, whether based in the United States or in another country, must have a Unique Entity Identifier (UEI), formerly referred to as DUNS, and an active registration with the SAM.gov before submitting an application.  DRL may not review applications from or make awards to applicants that have not completed all applicable UEI and SAM.gov requirements.  A UEI is one of the data elements mandated by Public Law 109-282, the Federal Funding Accountability and Transparency Act (FFATA), for all Federal awards.
+The 2 CFR 200 requires that sub-grantees obtain a UEI number.  Please note the UEI for sub-grantees is not required at the time of application, but will be required before the award is processed and/or directed to a sub-grantee.
+Note:  The process of obtaining a SAM.gov registration may take anywhere from 4-8 weeks.  Please begin your registration as early as possible.
+
+Organizations based in the United States or that pay employees within the United States will need an Employer Identification Number (EIN) from the Internal Revenue Service (IRS), a Commercial and Government Entity (CAGE) code, and a UEI number prior to registering in SAM.gov.
+Organizations based outside of the United States and that do not pay employees within the United States do not need an EIN from the IRS, but do need a NATO CAGE (NCAGE) code and UEI number prior to registering in SAM.gov.
+
+All prime organizations must also continue to maintain active SAM.gov registration with current information at all times during which they have an active Federal award or application under consideration by a Federal award agency.  SAM.gov requires all entities to renew their registration once a year in order to maintain an active registration status in SAM.  It is the responsibility of the applicant to ensure it has an active registration in SAM.gov and to maintain that active registration.  If an applicant has not fully complied with the requirements at the time of application, the applicant may be deemed technically ineligible to receive an award and use that determination as a basis for making an award to another applicant.
+For further guidance on the registration process, please see the SAM.gov Registration Guide on DRL’s website:  https://www.state.gov/resources-for-programs-and-grants/.  Please refer to 2 CFR 25.200 for additional information.  Also, please refer to Section D.5 – Funding Restriction of the NOFO.
+Note:  SAM.gov is not the same as SAMS Domestic.  It is free to register in both systems, but the registration processes are different.
+Information is included on the SAM.gov website to help international registrations, including “Quick Start Guide for International Registrations” and “Helpful Hints.”  Navigate to www.SAM.gov, click “HELP” in the top navigation bar, then click “International Registrants” in the left navigation panel.  Please note, guidance on SAM.gov and the guidance on GSA’s website about requirement for registering in SAM.gov is subject to change.  Applicants should review the website for the most up-to-date guidance.
+D.3.1 Exemptions
+An exemption from these requirements may be permitted on a case-by-case basis if:
+
+An applicant’s identity must be protected due to potential endangerment of their mission, their organization’s status, their employees, or individuals being served by the applicant. 
+
+Organizations requesting exemption from UEI or SAM.gov requirements must email the point of contact listed in the NOFO at least two weeks prior to the deadline in the NOFO providing a justification of their request.  Approval for a SAM.gov exemption must come from the warranted Grants Officer before the application can be deemed eligible for review.
+Note:  Foreign organizations will be required to register with the NATO Support Agency (NSPA) to receive a NCAGE code in order to register in SAM.gov.  NSPA will forward your registration request to the applicable National Codification Bureau (NCB) if your organization is located in a NATO or Tier 2 Sponsored Non-NATO Nation.  As of March 2021, NATO nations included Albania, Belgium, Bulgaria, Canada, Croatia, Czech Republic, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Turkey, United Kingdom, and the United States of America.  As of March 2021, Tier 2 nations included Argentina, Australia, Austria, Brazil, Colombia, Finland, India, Indonesia, Israel, Japan, Republic of Korea, Malaysia, Morocco, New Zealand, Serbia, Singapore, Sweden, Ukraine, and United Arab Emirates.  
+NSPA and/or the appropriate NCB forwards all NCAGE code information to all Allied Committee 135 (AC/135) nations, which as of March 2021 also included Afghanistan, Algeria, Belarus, Bosnia & Herzegovina, Brunei Darussalam, Chile, Egypt, Georgia, Jordan, Oman, Peru, Qatar, Saudi Arabia, South Africa, and Thailand.  All organizations are strongly advised to take this into consideration when assessing whether registration may result in possible endangerment.
+D.4 Submission Dates and Times
+Applications are due no later than 11:59 PM Eastern Standard Time (EST), on 7, June, 2021 on https://www.grants.gov/ or SAMS Domestic (https://mygrants.servicenowservices.com) under the announcement title “DRL FY2020: Support for the Rule of Law, Independent Media, and Civil Society in Lebanon,” funding opportunity number “SFOP0007885.”
+Grants.gov and SAMS Domestic automatically log the date and time an application submission is made, and the Department of State will use this information to determine whether an application has been submitted on time.  Late applications are neither reviewed nor considered.  Known system errors caused by Grants.gov or SAMS Domestic (https://mygrants.service-now.com) that are outside of the applicant’s control will be reviewed on a case by case basis.  Applicants should not expect a notification upon DRL receiving their application.
+D.5 Funding Restrictions
+DRL will not consider applications that reflect any type of support for any member, affiliate, or representative of a designated terrorist organization. Please refer the link for Foreign Terrorist Organizations:  https://www.state.gov/foreign-terrorist-organizations/
+Project activities whose direct beneficiaries are foreign militaries or paramilitary groups or individuals will not be considered for DRL funding given purpose limitations on funding.
+In accordance with Department of State policy for terrorism, applicants are advised that successful passing of vetting to evaluate the risk that funds may benefit terrorists or their supporters is a condition of award.  If chosen for an award, applicants will be asked to submit information required by DS Form 4184, Risk Analysis Information (attached to this solicitation) about their company and its principal personnel.  Vetting information is also required for all sub-award performance on assistance awards identified by the Department of State as presenting a risk of terrorist financing.  Vetting information may also be requested for project beneficiaries and participants.  Failure to submit information when requested, or failure to pass vetting, may be grounds for rejecting your proposal prior to award.
+The Leahy Law prohibits Department foreign assistance funds from supporting foreign security force units if the Secretary of State has credible information that the unit has committed a gross violation of human rights.  Per 22 USC §2378d(a) (2017), “No assistance shall be furnished under this chapter [FOREIGN ASSISTANCE] or the Arms Export Control Act [22 USC 2751 et seq.] to any unit of the security forces of a foreign country if the Secretary of State has credible information that such unit has committed a gross violation of human rights.”  Restrictions may apply to any proposed assistance to police or other law enforcement.  Among these, pursuant to section 620M of the Foreign Assistance Act of 1961, as amended (FAA), no assistance provided through this funding opportunity may be furnished to any unit of the security forces of a foreign country when there is credible information that such unit has committed a gross violation of human rights.  In accordance with the requirements of section 620M of the FAA, also known as the Leahy law, project beneficiaries or participants from a foreign government’s security forces may need to be vetted by the Department before the provision of any assistance.  If a proposed grant or cooperative agreement will provide assistance to foreign security forces or personnel, compliance with the Leahy Law is required.
+U.S. foreign assistance for Burma or Burmese beneficiaries is subject to restrictions.  This includes restrictions, pursuant to section 7043(a)(3) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2020 (Div. G, P.L. 116-94)(SFOAA), on funds appropriated under title III of the act for assistance for Burma.  Section 7043(a)(3) provides that such funds “may not be made available to any organization or entity controlled by the armed forces of Burma, or to any individual or organization that advocates violence against ethnic or religious groups or individuals in Burma, as determined by the Secretary of State.” In addition, funds cannot be made available to any individual or organization that has committed serious human rights abuse.
+Organizations should be cognizant of these restrictions when developing project proposals as these restrictions will require appropriate due diligence of program beneficiaries and collaboration with DRL to ensure compliance with these restrictions.  Program beneficiaries subject to due diligence vetting will include any individuals or entities that are beneficiaries of foreign assistance funding or support.  Due diligence vetting will include a review of open source materials.
+Federal awards generally will not allow reimbursement of pre-award costs; however, the Grants Officer may approve pre-award costs on a case-by-case basis.  Generally, construction costs are not allowed under DRL awards.  For additional information, please see the DRL Proposal Submission Instructions (PSI) for Applications:  https://www.state.gov/bureau-of-democracy-human-rights-and-labor/programs-and-grants/.
+D.6 Application Submission
+All application submissions must be made electronically via www.grants.gov or SAMS Domestic (https://mygrants.servicenowservices.com).  Both systems require registration by the applying organization.  Please note that the Grants.gov registration process can take ten (10) business days or longer, even if all registration steps are completed in a timely manner.
+It is the responsibility of the applicant to ensure that it has an active registration in SAMS Domestic or Grants.gov.  Applicants are required to document that the application has been received by SAMS Domestic or Grants.gov in its entirety.  DRL bears no responsibility for disqualification that result from applicants not being registered before the due date, for system errors in either SAMS Domestic or Grants.gov, or other errors in the application process.  Additionally, applicants must save a screen shot of the checklist showing all documents submitted in case any document fails to upload successfully.
+Faxed, couriered, or emailed documents will not be accepted.  Reasonable accommodations may, in appropriate circumstances, be provided to applicants with disabilities or for security reasons.  Applicants must follow all formatting instructions in the applicable NOFO and these instructions.
+DRL encourages organizations to submit applications during normal business hours (Monday – Friday, 9:00AM-5:00PM Eastern Standard Time (EST)).  If an applicant experiences technical difficulties and has contacted the appropriate helpdesk but is not receiving timely assistance (e.g. if you have not received a response within 48 hours of contacting the helpdesk), you may contact the DRL point of contact listed in the NOFO in Section G.  The point of contact may assist in contacting the appropriate helpdesk.
+Note:  The Grants Officer will determine technical eligibility of all applications.
+SAMS Domestic Applications:
+Applicants using SAMS Domestic for the first time should complete their “New Organization Registration.”  To register with SAMS Domestic, click “Login to https://mygrants.servicenowservices.com” and follow the “create an account” link.
+Organizations must remember to save a screen shot of the checklist showing all documents submitted in case any document fails to upload successfully.
+SAMS Domestic Help Desk:  
+For assistance with SAMS Domestic accounts and technical issues related to the system, please contact the ILMS help desk by phone at +1 (888) 313-4567 (toll charges apply for international callers) or through the Self Service online portal that can be accessed from https://afsitsm.service-now.com/ilms/home.  Customer support is available 24/7.
+Grants.gov Applications:
+Applicants who do not submit applications via SAMS Domestic may submit via www.grants.gov.
+Please be advised that completing all the necessary registration steps for obtaining a username and password from Grants.gov can take ten (10) business days or longer.
+Please refer to the Grants.gov website for definitions of various “application statuses” and the difference between a submission receipt and a submission validation.  Applicants will receive a validation e-mail from Grants.gov upon the successful submission of an application.  Validation of an electronic submission via Grants.gov can take up to two business days.  Additionally, organizations must remember to save a screenshot of the checklist showing all documents submitted in case any document fails to upload successfully.
+Grants.gov Helpdesk: 
+For assistance with Grants.gov, please call the Contact Center at +1 (800) 518-4726 or email support@grants.gov.  The Contact Center is available 24 hours a day, seven days a week, except federal holidays.
+See https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/federal-holidays/  for a list of federal holidays.
+E. Application Review Information
+E.1 Proposal Review Criteria
+The DRL review panel will evaluate each application individually against the following criteria, listed below in order of importance, and not against competing applications.  Please use the below criteria as a reference, but do not structure your application according to the sub-sections.
+Quality of Project Idea
+Applications should be responsive to the program framework and policy objectives identified in the NOFO, appropriate in the country/regional context, and should exhibit originality, substance, precision, and relevance to DRL’s mission of promoting human rights and democracy.  Projects should have the potential to have an immediate impact leading to long-term, sustainable reforms. DRL prefers new approaches that do not duplicate efforts by other entities.  This does not exclude from consideration projects that improve upon or expand existing successful projects in a new and complementary way.  In countries where similar activities are already taking place, an explanation should be provided as to how new activities will not duplicate or merely add to existing activities and how these efforts will be coordinated.  Proposals that promote creative approaches to recognized ongoing challenges are highly encouraged.  DRL prioritizes project proposals with inclusive approaches for advancing these rights.
+Project Planning/Ability to Achieve Objectives
+A strong application will include a clear articulation of how the proposed project activities contribute to the overall project objectives, and each activity will be clearly developed and detailed.  A comprehensive monthly work plan should demonstrate substantive undertakings and the logistical capacity of the organization.  Objectives should be ambitious yet measurable, results-focused and achievable in a reasonable timeframe.  A complete application must include a Logic Model to demonstrate how the project activities will have an impact on its proposed objectives.  The Logic Model should match the objectives, outcomes, key activities, and outputs described in the narrative.  Applications should address how the project will engage relevant stakeholders and should identify local partners as appropriate.
+If local partners have been identified, DRL strongly encourages applicants to submit letters of support from proposed in-country partners.  Additionally, applicants should describe the division of labor among the direct applicant and any local partners.  If applicable, applications should identify target geographic areas for activities, target participant groups or selection criteria for participants, and the specific roles of sub-awardees, among other pertinent details.
+DRL recognizes that all programs have some level of risk due to internal/external variables that have the potential to adversely affect a program.  Risk management should address how the program design incorporates the identification, assessment, and management of key risk factors.  DRL will review the Risk Analysis based on the organization’s ability to identify risks that could have an impact on the overall program as well as how the organization will manage these risks.
+Institution’s Record and Capacity
+DRL will consider the past performance of prior recipients and the demonstrated potential of new applicants.  Applications should demonstrate an institutional record of successful democracy and human rights programs, including responsible fiscal management and full compliance with all reporting requirements for past grants.  Proposed personnel and institutional resources should be adequate and appropriate to achieve the project’s objectives.  Projects should have potential for continued funding beyond DRL resources.
+Addressing Barriers to Equal Participation
+DRL strives to ensure its projects advance the rights and uphold the dignity of all persons.  As the U.S. government’s lead bureau dedicated to promoting democratic governance, DRL requests a programming approach dedicated to strengthening inclusive societies as a necessary pillar of strong democracies.  Violence targeting any members of society undermines collective security and threatens democracy.  DRL prioritizes inclusive and integrated program models that assess and address the barriers to access for individuals and groups based on their religion, gender, disabilities, ethnicity, or sexual orientation and gender identity.  Applicants should describe how programming will impact all of its beneficiaries, including support that specifically targets communities facing discrimination, and which may be under threat of violence.  This approach should be an integral part of both the concept and explicit design, and implementation of all proposed project activities, objectives, and monitoring.  Strong proposals will provide specific analysis, measures, and corresponding targets as appropriate.  Stakeholders shall identify the difference between opportunities and barriers to access, and design programs accordingly to not perpetuate these inequalities, but rather enhance programmatic impact by including all people in society.  The goal of this approach is to bring communities and those in power together in support of more stable and secure societies.
+Cost Effectiveness
+DRL strongly encourages applicants to clearly demonstrate project cost-effectiveness in their application, including examples of leveraging institutional and other resources.  However, cost-sharing or other examples of leveraging other resources are not required.  Inclusion of cost-sharing in the budget does not result in additional points awarded during the review process.  Budgets should have low and/or reasonable overhead and administration costs, and applicants should provide clear explanations and justifications for these costs in relation to the work involved.  All budget items should be clearly explained and justified to demonstrate necessity, appropriateness, and connection to the project objectives.
+Please note:  If cost share is included in the budget, the recipient must maintain written records to support all allowable costs that are claimed as its contribution to cost share, as well as costs to be paid by the Federal government.  Such records are subject to audit.  In the event the recipient does not meet the minimum amount of cost-sharing as stipulated in the recipient’s budget, DRL’s contribution may be reduced in proportion to the recipient’s contribution.
+Multiplier Effect/Sustainability
+Applications should clearly delineate how elements of the project will have a multiplier effect and be sustainable beyond the life of the grant.  A good multiplier effect will have an impact beyond the direct beneficiaries of the grant (e.g. participants trained under a grant go on to train other people; workshop participants use skills from a workshop to enhance a national level election that affects the entire populace).  A strong sustainability plan may include demonstrating continuing impact beyond the life of a project or garnering other donor support after DRL funding ceases.
+Project Monitoring and Evaluation
+Complete applications will include a detailed M&E Narrative and M&E Plan, which detail how the project’s progress will be monitored and evaluated.  Incorporating well-designed monitoring and evaluation processes into a project is an efficient method for documenting the change (intended and unintended) that a project seeks.  Applications should demonstrate the capacity to provide objectives with measurable outputs and outcomes.
+The quality of the M&E sections will be judged on the narrative explaining how both monitoring and evaluation will be carried out and who will be responsible for those related activities.  The M&E Narrative should explain how an external evaluation will be incorporated into the project implementation plan or how the project will be systematically assessed in the absence of one.  Please see the section on Monitoring and Evaluation Plan in the Proposal Submission Instructions (PSI) for more information on what is required in the narrative.
+The output and outcome-based performance indicators should not only be separated by project objectives but also should match the objectives, outcomes, and outputs detailed in the Logic Model and Proposal Narrative.  Performance indicators should be clearly defined (i.e., explained how the indicators will be measured and reported) either within the table or with a separate Performance Indicator Reference Sheet (PIRS).  For each performance indicator, the table should also include baselines and quarterly and cumulative targets, data collection tools, data sources, types of data disaggregation, and frequency of monitoring and evaluation.  There should also be metrics to capture how project activities target those who face discrimination due to their religion, gender, disabilities, ethnicity or sexual orientation and gender identity, where applicable.  Please see the section on Monitoring and Evaluation Plan in the Proposal Submission Instructions (PSI) for more information on what is required in the plan.
+E.2 Review and Selection Process
+DRL strives to ensure that each application receives a balanced evaluation by a DRL review panel.  The Department’s Office of Acquisitions Management (AQM) will determine technical eligibility for all applications.  All technically eligible applications for a given NOFO are reviewed against the same seven criteria, which include quality of project idea, project planning/ability to achieve objectives, institutional record and capacity, inclusive programming, cost effectiveness, multiplier effect/sustainability, and project monitoring and evaluation.
+Additionally, the DRL review panel will evaluate how the application addresses the NOFO request, U.S. foreign policy goals, and the priority needs of DRL overall.  DRL may also take into consideration the balance of the current portfolio of active projects, including geographic or thematic diversity, if needed.
+In most cases, the DRL review panel includes representatives from DRL, the appropriate Department of State regional bureau (to include feedback from U.S. embassies), and U.S. Agency for International Development (USAID) (to include feedback from USAID missions).  In some cases, additional panelists may participate, including from other Department of State bureaus or offices; U.S. government departments, agencies, or boards; representatives from partner governments; or representatives from entities that are in a public-private partnership with DRL.  At the end of the panel’s discussion about an application, the review panel votes on whether to recommend the application for approval by the DRL Assistant Secretary.  If more applications are recommended for approval than DRL can ultimately fund, the review panel will rank the recommended applications in priority order for consideration by the DRL Assistant Secretary.  The Grants Officer Representative (GOR) for the eventual award does not vote on the panel.  All panelists must sign non-disclosure agreements and conflicts of interest agreements.
+DRL review panels may provide conditions and recommendations on applications to enhance the proposed project, which must be addressed by the applicant before further consideration of the award.  To ensure effective use of DRL funds, conditions or recommendations may include requests to increase, decrease, clarify, and/or justify costs and project activities.
+F. Federal Award Administration Information
+F.1 Federal Award Notices
+DRL will provide a separate notification to applicants on the result of their applications.  Successful applicants will receive a letter electronically via email requesting that the applicant respond to review panel conditions and recommendations.  This notification is not an authorization to begin activities and does not constitute formal approval or a funding commitment.
+Final approval is contingent on the applicant successfully responding to the review panel’s conditions and recommendations; being registered in required systems, including the U.S. government’s Payment Management System (PMS), unless an exemption is provided; and completing and providing any additional documentation requested by DRL or AQM.  Final approval is also contingent on Congressional Notification requirements being met and final review and approval by the Department’s warranted Grants Officer.
+The notice of Federal award signed by the Department’s warranted Grants Officers is the sole authorizing document.  If awarded, the notice of Federal award will be provided to the applicant’s designated Authorizing Official via SAMS Domestic to be electronically counter-signed in the system.
+F.2 Administrative and National Policy and Legal Requirements
+DRL requires all recipients of foreign assistance funding to comply with all applicable Department and Federal laws and regulations, including but not limited to the following:
+The Uniform Administrative Requirements, Cost Principles and Audit Requirements for Federal Awards set forth in 2 CFR Chapter 200 (Sub-Chapters A through F) shall apply to all non-Federal entities, except for assistance awards to Individuals and Foreign Public Entities.  Sub-Chapters A through E shall apply to all foreign organizations, and Sub-Chapters A through D shall apply to all U.S. and foreign for-profit entities. The applicant/recipient of the award and any sub-recipient under the award must comply with all applicable terms and conditions, in addition to the assurance and certifications made part of the Notice of Award.  The Department’s Standard Terms and Conditions can be viewed at https://www.state.gov/about-us-office-of-the-procurement-executive/.
+Additionally, DRL supports implementation of the Women Peace and Security Act of 2017, which highlights the U.S. commitment to the meaningful participation of women in conflict prevention, management, and resolution.  For additional information, please refer to the following link: https://www.congress.gov/bill/115th-congress/senate-bill/1141.
+Due to the determination made under the Trafficking Victims Protection Act (TVPA) for FY 2020, assistance that benefits the governments of the following countries may be subject to a restriction under the TVPA.  The Department of State determines on a case-by-case basis what constitutes assistance to a government; the general principles listed below apply.
+Assistance to the government includes:
+
+All branches of government (executive, legislative, judicial) at all levels (national, regional, local);
+Public schools, universities, hospitals, and state-owned enterprises, as well as government employees;
+Cash, training, equipment, services, or other assistance provided directly to the government, assistance provided to an NGO or other implementer for the benefit of the government, and assistance to government employees.
+
+Subject to TVPA for funds obligated during FY 2020:
+NEA:  Iran, Syria
+Additional requirements may be included depending on the content of the program.
+F.3 Reporting
+Applicants should be aware that DRL awards will require that all reports (financial and progress) are uploaded to the grant file in SAMS Domestic on a quarterly basis.  The Federal Financial Report (FFR or SF-425) is the required form for the financial reports and must be submitted in PMS, as well as a copy from PMS then uploaded to the grant file in SAMS Domestic.  The progress reports uploaded to the grant file in SAMS Domestic must include a narrative as described below and Project Indicators (or other mutually agreed upon format approved by the Grants Officer) for the F Framework indicators. The F Framework indicators will be reviewed and negotiated during the final stages of issuing an award.
+Narrative progress reports should reflect the focus on measuring the project’s impact on the overarching objectives and should be compiled according to the objectives, outcomes, and outputs as outlined in the award’s Scope of Work (SOW) and in the Monitoring & Evaluation Narrative.  An assessment of the overall project’s impact should be included in each progress report.  Where relevant, progress reports should include the following sections:
+
+Relevant contextual information (limited);
+Explanation and evaluation of significant activities of the reporting period and how the activities reflect progress toward achieving objectives, including meeting benchmarks/targets as set in the M&E Plan.  In addition, attach the M&E Plan, comparing the target and actual numbers for the indicators;
+Any tangible impact or success stories from the project, when possible;
+Copy of mid-term and/or final evaluation report(s) conducted by an external evaluator; if applicable;
+Relevant supporting documentation or products related to the project activities (such as articles, meeting lists and agendas, participant surveys, photos, manuals, etc.) as separate attachments;
+Description of how the recipient is pursuing sustainability, including looking for sources of follow-on funding;
+Any problems/challenges in implementing the project and a corrective action plan with an updated timeline of activities;
+Reasons why established goals were not met;
+Data for the required F Framework indicator(s) for the quarter as well as aggregate data by fiscal year;
+Program Indicators or other mutually agreed upon format approved by the Grants Officer;
+Proposed activities for the next quarter; and,
+Additional pertinent information, including analysis and explanation of cost overruns or high unit costs, if applicable.
+
+A final narrative and financial report must also be submitted within 90 days after the expiration of the award.
+Please note:  Delays in reporting may result in delays of payment approvals and failure to provide required reports may jeopardize the recipient’s’ ability to receive future U.S. government funds.
+DRL reserves the right to request any additional programmatic and/or financial project information during the award period.
+G. Contact Information
+For technical submission questions related to this NOFO, please contact DRL-NEAProgramInfo@state.gov.
+For assistance with SAMS Domestic accounts and technical issues related to the system, please contact the ILMS help desk by phone at +1 (888) 313-4567 (toll charges apply for international callers) or through the Self Service online portal that can be accessed from https://afsitsm.service-now.com/ilms/home.  Customer support is available 24/7.
+Please note that establishing an account in SAMS Domestic may require the use of smartphone for multi-factor authentication (MFA).  If an applicant does not have accessibility to a smartphone during the time of creating an account, please contact the helpdesk and request instructions on MFA for Windows PC.
+For assistance with Grants.gov accounts and technical issues related to using the system, please call the Contact Center at +1 (800) 518-4726 or email support@grants.gov.  The Contact Center is available 24 hours a day, seven days a week, except federal holidays.
+For a list of federal holidays visit:
+https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/federal-holidays/
+Except for technical submission questions, during the NOFO period U.S. Department of State staff in Washington and overseas shall not discuss this competition with applicants until the entire proposal review process has been completed and rejection and approval letters have been transmitted.
+H. Other Information
+Applicants should be aware that DRL understands that some information contained in applications may be considered sensitive or proprietary and will make appropriate efforts to protect such information.  However, applicants are advised that DRL cannot guarantee that such information will not be disclosed, including pursuant to the Freedom of Information Act (FOIA) or other similar statutes.
+The information in this NOFO and “Proposal Submission Instructions for Applications” is binding and may not be modified by any DRL representative.  Explanatory information provided by DRL that contradicts this language will not be binding.  Issuance of the NOFO and negotiation of applications does not constitute an award commitment on the part of the U.S. government.  DRL reserves the right to reduce, revise, or increase proposal budgets.
+This NOFO will appear on www.grants.gov, SAMS Domestic, and DRL’s website https://www.state.gov/bureau-of-democracy-human-rights-and-labor/programs-and-grants/.
+Background Information on DRL and General DRL Funding
+DRL has the mission of promoting democracy and protecting human rights globally.  DRL supports projects that uphold democratic principles, support and strengthen democratic institutions, promote human rights, prevent atrocities, combat and prevent violent extremism, and build civil society around the world.  DRL typically focuses its work in countries with egregious human rights violations, where democracy and human rights advocates are under pressure and where governments are undemocratic or in transition.
+Additional background information on DRL and its efforts can be found on https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/bureau-of-democracy-human-rights-and-labor/.
+
+
+
+
+
+
+Tags
+
+Bureau of Democracy, Human Rights, and Labor
+Bureau of Near Eastern Affairs
+Civil Society
+Human Rights and Democracy
+Lebanon
+Notice of Funding Opportunity
+Press Freedom
+Rule of Law
+
+
+
+
+
+
+
+
+
+Back to Top
+
+
+
+
+
+
+
+
+
+
+
+
+White House
+USA.gov
+Office of the Inspector General
+Archives
+Contact Us
+ 
+
+
+
+
+follow us
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+Flickr
+GovDelivery
+
+
+
+
+Privacy Policy
+Accessibility Statement
+Copyright Information
+FOIA
+No FEAR Act
+ 
+
+
+
+
+
+
+
+
+Search:
+
+
+
+
+Search
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+.wmpci-popup-wrp .wmpci-popup-body{background-color: #ffffff;border-width: 0px; border-style: solid;max-width: 50;}.wpmci-popup-cnt-inr-wrp{height:1000;color:#000000;}.wpmci-popup-cnt-inr-wrp h2, .wpmci-popup-cnt-inr-wrp h4{color:#000000;}
+
+
+
+
+
+U.S. Department of State
+The Lessons of 1989: Freedom and Our Future
+
+
+
+
+
+
+
+
+var sbiajaxurl = "https://www.state.gov/wp-admin/admin-ajax.php";
+
+
+
+
+
+
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/www.state.gov\/wp-json\/","nonce":"2889d25d7e","versionString":"wp\/v2\/"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var Wmpci_Popup = {"enable":"0","delay":"0","exp_time":"1","close_on_esc":"1","hide_time":"0"};
+/* ]]> */
+
+
+
+

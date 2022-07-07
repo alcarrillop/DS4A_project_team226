@@ -1,0 +1,2200 @@
+
+
+
+
+
+
+
+
+
+
+
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+
+
+
+FY 2022 Notice of Funding Opportunity for Reception and Placement Program - United States Department of State
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.state.gov/#website","url":"https://www.state.gov/","name":"United States Department of State","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.state.gov/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.state.gov/fy-2022-notice-of-funding-opportunity-for-reception-and-placement-program/#webpage","url":"https://www.state.gov/fy-2022-notice-of-funding-opportunity-for-reception-and-placement-program/","name":"FY 2022 Notice of Funding Opportunity for Reception and Placement Program - United States Department of State","isPartOf":{"@id":"https://www.state.gov/#website"},"datePublished":"2021-04-19T16:46:56+00:00","dateModified":"2021-04-19T17:39:22+00:00","breadcrumb":{"@id":"https://www.state.gov/fy-2022-notice-of-funding-opportunity-for-reception-and-placement-program/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.state.gov/fy-2022-notice-of-funding-opportunity-for-reception-and-placement-program/"]}]},{"@type":"BreadcrumbList","@id":"https://www.state.gov/fy-2022-notice-of-funding-opportunity-for-reception-and-placement-program/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.state.gov/"},{"@type":"ListItem","position":2,"name":"FY 2022 Notice of Funding Opportunity for Reception and Placement Program"}]}]}
+
+
+
+
+
+
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.state.gov\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--state-dark-blue: #062135;--wp--preset--color--state-blue: #0A314D;--wp--preset--color--state-white: #FFFFFF;--wp--preset--color--state-dark-gray: #333333;--wp--preset--color--state-link: #4574A1;--wp--preset--color--state-gold: #C1A783;--wp--preset--color--state-red: #D01319;--wp--preset--color--state-light-gray: #8D98AA;--wp--preset--color--state-gray: #767676;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pageAttributes":[null,null],"pagePostAuthor":"Michael Wingard"};
+	dataLayer.push( dataLayer_content );
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T9WK49Q');
+
+
+
+
+
+
+
+			@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	.profile-card__wrapper .profile-card__image img { top: 63% !important; }
+}
+span.icon-svg, span.icon-svg svg {
+    width: auto;
+}
+.wmpci-popup-wrp.splash {
+    background: hsla( 217, 17%, 66%, 0.6 );
+}
+
+.wmpci-popup-body {
+    max-width: 750px;
+}
+
+.wpmci-popup-cnt-inr-wrp {
+    box-shadow: 0 0 17px 5px hsla(0, 0%, 12%, 0.2);
+    padding: 0;
+}
+
+.dos_popup_header {
+    height: auto;
+    width: 100%;
+}
+
+.wpmci-popup-cnt-inr-wrp h2 {
+    background: linear-gradient( to bottom, #062135 0, #062135 68px, #0a324c 68px, #0a324c 100% );
+    color: #fff !important;
+    font-family: "EB Garamond", Times, Serif;
+    font-size: 20px;
+    height: 168px;
+    margin-bottom: 60px !important;
+    padding-top: 111px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.wpmci-popup-cnt-inr-wrp h2 em {
+    display: inline-block;
+    margin-right: 0.25em;
+    text-transform: none;
+}
+
+.wpmci-popup-cnt-inr-wrp h2::before {
+    background: center / contain no-repeat url('/wp-content/themes/state/images/state-favicon.png');
+    content: '';
+    display: block;
+    height: 70px;
+    left: 50%;
+    position: absolute;
+    top: 19px;
+    transform: translateX( -50% );
+    width: 70px;
+}
+
+.wpmci-popup-cnt-inr-wrp h4 {
+    color: #0a314d !important;
+    font-family: "EB Garamond", Times, Serif;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+    line-height: 42px;
+    margin-bottom:30px;
+}
+
+.dos_popup_copy {
+    color: #333;
+    font-family: "Open Sans", Arial, Sans-Serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.25px;
+    line-height: 28px;
+    margin: 40px auto 50px !important;
+    width: 80%;
+}
+
+.dos_popup_close {
+    border: 3px #D11F27 solid;
+    color: #0a314d;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Open Sans", Arial, Sans-Serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    height: 72px;
+    letter-spacing: 1.5px;
+    margin: 0 auto 30px;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.dos_popup_close:hover {
+    color: #8d98aa;
+}
+
+.dos_popup_close::after {
+    color: #d01319;
+    margin-left: 10px;
+}
+.collection-result .collection-result-meta span {
+    border-right: 2px solid #ccc;
+    margin: 20px 15px 0 0;
+    padding-right: 15px;
+}
+.collection-result .collection-result-meta span:last-child {
+    border: 0;
+    margin: 20px 0 0;
+    padding: 0;
+}
+@media only screen and (min-width: 600px) {
+	.collection-result .collection-result-meta span {
+		white-space: nowrap;
+	}
+}
+.collection-result-meta .divider {
+    display: none;
+}
+.report-appendices .appendix__contents ul ul li {
+    padding-left: 20px;
+}
+.report-appendices .appendix__contents ol
+padding-inline-start: 40px;
+}
+.report-appendices .appendix__contents ol > li {
+    padding-left: 0;
+	margin-left: 30px;
+list-style: decimal;
+}
+.report-appendices .appendix__contents ol li {
+    padding-left: 0;
+    margin-left: 30px;
+    list-style: decimal;
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    .report-toc span.toc-hamburger {
+      left: -50px;
+    }
+}
+/* #post-14921 .collection-result-meta {display: none;} */
+
+
+.supporting-content__column .card__image .crop_default img {
+    height: 107%;
+}
+.front-page-policy-issues__wrapper .policy-issues__article a {
+    word-wrap: anywhere;
+}
+.postid-167354 .bc_middle.collapse a:nth-child(n+2), .postid-167354 .bc_middle.collapse .bc_carat {     display: none; }
+
+@media only screen and (max-width: 768px) {
+    html .entry-content img.alignnone,
+    html .entry-content img.aligncenter,
+    html .entry-content img.alignright,
+    html .entry-content img.alignleft,
+    html .entry-content figure.alignnone,
+    html .entry-content figure.aligncenter,
+    html .entry-content figure.alignright,
+    html .entry-content figure.alignleft {
+        width: inherit !important;
+        max-width: 100% !important;
+        display: inherit !important;
+        float: inherit;
+        margin-left: unset;
+        margin-right: unset;
+        height: auto;
+    }
+    html body .entry-content img.alignleft, html .entry-content figure.alignleft {
+        float: left;
+        margin 20px 20px 20px 0 !important;
+        margin-right: 20px !important;
+    }
+    html body .entry-content img.alignright, html .entry-content figure.alignright {
+        float: right;
+        margin 20px 0 20px 20px !important;
+        margin-left: 20px !important;
+    }
+/*	.home .front-page-policy-issues__wrapper .policy-issues__article a {
+    word-break: break-word;
+}*/
+}
+
+.has-background-opacity-10 {
+	background-color: rgba(0, 0, 0, 0.1) !important;
+}
+.has-background-opacity-20 {
+	background-color: rgba(0, 0, 0, 0.2) !important;
+}
+.has-background-opacity-30 {
+	background-color: rgba(0, 0, 0, 0.3) !important;
+}
+.has-background-opacity-40 {
+	background-color: rgba(0, 0, 0, 0.4) !important;
+}
+.has-background-opacity-50 {
+	background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.has-background-opacity-60 {
+	background-color: rgba(0, 0, 0, 0.6) !important;
+}
+.has-background-opacity-70 {
+	background-color: rgba(0, 0, 0, 0.7) !important;
+}
+.has-background-opacity-80 {
+	background-color: rgba(0, 0, 0, 0.8) !important;
+}
+.has-background-opacity-90 {
+	background-color: rgba(0, 0, 0, 0.9) !important;
+}
+.news-bar__list {
+   z-index: 999999999;
+}
+.page-id-84379 .entry-content table {
+    width: 100% !important;
+    display: inline-table;
+}
+@media(max-width:767px) {
+	.page-id-84379 .entry-content table {
+    width: 95% !important;
+    overflow: scroll;
+		display: block;
+  }
+	.hide-on-mobile {
+		display: none !important;
+	}
+}
+.page-id-84379 .entry-content table td {
+    padding: 16px 12px;
+}
+.page-id-84379 .entry-content {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 12;
+    grid-column: 1/span 12;
+}
+body.page-template-collection-by-terms header .social_links_header .frame {
+    margin-bottom: 0 !important;
+}
+html[lang=ar] main .has-text-align-right, html[lang=ar] main .wp-block-pullquote p {
+  direction: rtl !important;
+}
+.dipnote-social-media .widget-area section.widget_custom-twitter-feeds-widget {
+  max-height: 950px;
+}
+.dipnote-social-media aside {
+    height: auto !important;
+}
+.state_trip_travel-template.postid-319779 .slick-dots {
+  display: none;
+}
+.live_now_banner {
+ background:#2d5f99;
+ padding:10px 20px
+}
+.live_now_banner .live_message {
+ display:block;
+ text-indent:-16px;
+ margin:0 auto;
+ padding-left:16px;
+ max-width:1200px
+}
+.live_now_banner .live_message a {
+ color:#fff
+}
+.live_now_banner .live_message:before {
+ color:#f0d21d;
+ content:'\e911';
+ font-family:icomoon;
+ font-size:9px;
+ text-decoration:none;
+ margin-right:3px;
+ z-index:1
+}
+.live_now_banner .live_title {
+ font-size:14px;
+ text-decoration:underline
+}
+@media(min-width:767px) {
+  .home .front-page-hero {
+    min-height: 608px;
+  }
+}
+.home .video__iframe.hidden, .home .video__poster.hidden {
+    display: block;
+}
+.addthis .at-icon-wrapper.at-share-btn.at-svc-email {   display: none; }		
+
+
+
+;(function (g) {
+var d = document, am = d.createElement("script"), h = d.head || d.getElementsByTagName("head")[0], fsr = "fsReady",
+aex = {
+"src": "/wp-content/themes/state/foresee_assets/js/gateway.min.js",
+"type": "text/javascript",
+"async": "true",
+"data-vendor": "fs",
+"data-mode": "selfhost",
+"data-environment": "production",
+"data-hasssl": "true",
+"data-client": "state-gov",
+"data-codelocation": "/wp-content/themes/state/foresee_assets/code/19.11.1/",
+"data-isselfhosted": "true",
+"data-product-assets": "/wp-content/themes/state/foresee_assets/product_assets/",
+"data-role": "gateway"
+};
+for (var attr in aex){am.setAttribute(attr, aex[attr]);}h.appendChild(am); g[fsr] || (g[fsr] = function () {var aT = "__" + fsr + "_stk__";g[aT] = g[aT] || [];g[aT].push(arguments);});})(window);
+
+!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="WQTDE-3U7ZD-TLDZY-ZPT2B-WL72L",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"WQTDE-3U7ZD-TLDZY-ZPT2B-WL72L";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="ejfiazyx2t5roywbxcxa-f-0bb5a063c-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"32","ak.cp":"840896","ak.ai":parseInt("536498",10),"ak.ol":"0","ak.cr":24,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"815b3705","ak.r":41483,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"34.74.128.0","ak.cport":36862,"ak.gh":"23.220.107.23","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1656862894","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==oBdb0+Eva6dM8GZIeP6GsnAAT6EPDdUtsFtdP5/Nqn9yUAY7EMvriqDwnUiQqld2UgmVeaRrZjV9RTD1VeyJyUXmKryYc2DTqqg3pL5nki4GB8xjUJDQGfbVrRwOIjp89VxhX9ZeOz0c3ue7ikzw5h/zQ1TZqiHYoO7aJ5zObEHrnvPdmMxVxrMUlfvaYKoL+H4Ae32oI1stXQW0lDwyy909lkV4GkvFmiWMVPaaS0khI+RAlI6rQkm/r9qAPP9CgL6taoB1eKefhga43GgTxSZd87IfPVaQaWY3i3MDB06Ecz7wNZeinEquMP4TMJH6yCRWy59Sui7iAsKx1acuhs6MYQV1dN3a0plnt4OCRgErRpYeXvAfQ7C6RBJHJQezx2d4zxsVzAJFNCaNFjDnQmlqLH5j3oSB4TvGf8JNFUc=","ak.pv":"41","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+
+
+
+
+
+Skip to content
+
+An official website of the United States Government Here's how you know
+
+
+
+
+Official websites use .gov
+				A .gov website belongs to an official government organization in the United States.
+			
+
+
+
+
+Secure .gov websites use HTTPS
+				A lock (  ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+			
+
+
+
+
+
+
+Newsroom
+Business
+Employees
+Job Seekers
+Students
+Travelers
+Visas
+ 
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+Flickr
+GovDelivery
+
+
+
+
+
+
+
+	// Code to load the navigation without the temporarily blank navigation and page jumpiness -- mainly for desktop.
+	if( window.jQuery ) {
+		if ( jQuery(window).width() >= 975 ) {
+			jQuery('.nav__utility').show();
+			jQuery('.site-nav--primary').appendTo('.nav__second-nav');
+			jQuery('.nav__primary-nav').appendTo('.nav__second-nav');
+		}
+		if ( jQuery(window).width() < 975 ) {
+			jQuery('.nav__utility').hide();
+		}
+	}
+
+
+
+Menu
+
+State Department Home
+
+Search
+
+
+State Department Home
+Policy Issues
+
+Back
+
+Policy Issues
+
+
+
+
+
+
+										Anti-Corruption and Transparency
+									
+
+
+
+
+
+
+										Arms Control and Nonproliferation
+									
+
+
+
+
+
+
+										Climate and Environment
+									
+
+
+
+
+
+
+										Climate Crisis
+									
+
+
+
+
+
+
+										Combating Drugs and Crime
+									
+
+
+
+
+
+
+										Countering Terrorism
+									
+
+
+
+
+
+
+										COVID-19 Recovery
+									
+
+
+
+
+
+
+										Cyber Issues
+									
+
+
+
+
+
+
+										Disarming Disinformation
+									
+
+
+
+
+
+
+										Economic Prosperity and Trade Policy
+									
+
+
+
+
+
+
+										Energy
+									
+
+
+
+
+
+
+										Global Health
+									
+
+
+
+
+
+
+										Global Women’s Issues
+									
+
+
+
+
+
+
+										Holding Russia and Belarus to Account
+									
+
+
+
+
+
+
+										Human Rights and Democracy
+									
+
+
+
+
+
+
+										Human Trafficking
+									
+
+
+
+
+
+
+										The Ocean and Polar Affairs
+									
+
+
+
+
+
+
+										Refugee and Humanitarian Assistance
+									
+
+
+
+
+
+
+										Science, Technology, and Innovation
+									
+
+
+
+
+
+
+										Treaties and International Agreements
+									
+
+
+
+
+
+
+										United with Ukraine
+									
+
+
+
+
+
+
+
+Countries & Areas
+
+Back
+
+Countries & Areas
+
+Search for country or area
+
+AAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+BBahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+CCabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Costa Rica
+Côte d’Ivoire
+Croatia
+Cuba
+Cyprus
+Czechia
+DDemocratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+EEcuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+FFiji
+Finland
+France
+GGabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+HHaiti
+Holy See
+Honduras
+Hungary
+IIceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+JJamaica
+Japan
+Jordan
+KKazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+LLaos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+MMadagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+NNamibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+OOman
+PPakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+QQatar
+RRepublic of the Congo
+Romania
+Russia
+Rwanda
+SSaint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+São Tomé and Príncipe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+TTaiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+UUganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uruguay
+Uzbekistan
+VVanuatu
+Venezuela
+Vietnam
+YYemen
+ZZambia
+Zimbabwe
+
+
+
+
+
+Bureaus & Offices
+
+Back
+
+Bureaus & Offices
+
+
+
+The Secretary of StateThe Secretary of State
+The Secretary of State
+Bureau of Intelligence and Research
+Bureau of Legislative Affairs
+Counselor of the Department
+Executive Secretariat
+Office of the Chief of Protocol
+Office of Civil Rights
+Office of Diversity and Inclusion
+Office of Global Women’s Issues
+Office of the Legal Adviser
+Office of the Ombudsman
+Office of the U.S. Global AIDS Coordinator and Global Health Diplomacy
+Policy Planning Staff
+Special Presidential Envoy for Hostage Affairs
+Special Representative for Afghanistan Reconciliation
+Special Representative for Iran
+Special Representative for Syria Engagement
+Special Representative for Venezuela
+U.S. Security Coordinator for Israel and the Palestinian Authority
+Deputy Secretaries of StateDeputy Secretaries of State
+Deputy Secretary of State
+Bureau of Cyberspace and Digital Policy
+Office of the U.S. Coordinator for the Arctic Region
+Deputy Secretary of State for Management and Resources
+Office of Foreign Assistance
+Office of Small and Disadvantaged Business Utilization
+Arms Control and International SecurityArms Control and International Security
+Under Secretary for Arms Control and International Security
+Bureau of Arms Control, Verification and Compliance
+Bureau of International Security and Nonproliferation
+Bureau of Political-Military Affairs
+Civilian Security, Democracy, and Human RightsCivilian Security, Democracy, and Human Rights
+Under Secretary for Civilian Security, Democracy, and Human Rights
+Bureau of Conflict and Stabilization Operations
+Bureau of Counterterrorism
+Bureau of Democracy, Human Rights, and Labor
+Bureau of International Narcotics and Law Enforcement Affairs
+Bureau of Population, Refugees, and Migration
+Office of Global Criminal Justice
+Office of International Religious Freedom
+Office of the Special Envoy To Monitor and Combat Antisemitism
+Office to Monitor and Combat Trafficking in Persons
+Economic Growth, Energy, and EnvironmentEconomic Growth, Energy, and Environment
+Under Secretary for Economic Growth, Energy, and the Environment
+Bureau of Economic and Business Affairs
+Bureau of Energy Resources
+Bureau of Oceans and International Environmental and Scientific Affairs
+Office of Global Food Security
+Office of Global Partnerships
+Office of the Chief Economist
+Office of the Science and Technology Adviser
+ManagementManagement
+Under Secretary for Management
+Bureau of Administration
+Bureau of Budget and Planning
+Bureau of the Comptroller and Global Financial Services
+Bureau of Consular Affairs
+Bureau of Diplomatic Security
+Bureau of Global Talent Management
+Bureau of Information Resource Management
+Bureau of Medical Services
+Bureau of Overseas Buildings Operations
+Director of Diplomatic Reception Rooms
+Foreign Service Institute
+Office of Foreign Missions
+Office of Management Strategy and Solutions
+Political AffairsPolitical Affairs
+Under Secretary for Political Affairs
+Bureau of African Affairs
+Bureau of East Asian and Pacific Affairs
+Bureau of European and Eurasian Affairs
+Bureau of International Organization Affairs
+Bureau of Near Eastern Affairs
+Bureau of South and Central Asian Affairs
+Bureau of Western Hemisphere Affairs
+Public Diplomacy and Public AffairsPublic Diplomacy and Public Affairs
+Under Secretary for Public Diplomacy and Public Affairs
+Educational and Cultural Affairs
+Expo Unit
+Global Engagement Center
+Global Public Affairs
+Policy, Planning, and Resources
+U.S. Advisory Commission on Public Diplomacy
+
+
+
+
+
+
+
+About
+
+Back
+
+About
+
+
+
+Mission
+
+
+
+										About the U.S. Department of State
+									
+
+
+
+
+										Joint Strategic Plan
+									
+
+
+
+
+										Equity Action Plan
+									
+
+
+
+
+										Foreign Affairs Manual and Handbook
+									
+
+
+
+
+										We Are the U.S. Department of State
+									
+
+
+
+History
+
+
+
+										Previous Administration Archives
+									
+
+
+
+
+										Foreign Relations of the United States
+									
+
+
+
+
+										National Museum of American Diplomacy
+									
+
+
+
+
+										Art in Embassies
+									
+
+
+
+Administrative
+
+
+
+										Department Reports and Publications
+									
+
+
+
+
+										Agency Financial Reports
+									
+
+
+
+
+										Form Finder
+									
+
+
+
+
+										Organization Chart
+									
+
+
+
+
+										Plans, Performance, Budget
+									
+
+
+
+
+										Information Quality Act
+									
+
+
+
+
+										Open Government Initiative
+									
+
+
+
+
+										Digital Government Strategy
+									
+
+
+
+
+										Plain Writing Program
+									
+
+
+
+
+										Partner With State
+									
+
+
+
+Leadership
+
+
+
+										The Secretary of State
+									
+
+
+
+
+										Deputy Secretary of State
+									
+
+
+
+
+										Deputy Secretary of State for Management and Resources
+									
+
+
+
+
+										Biographies of Senior Officials
+									
+
+
+
+Directories
+
+
+
+										Contact Us
+									
+
+
+
+
+										Telephone Directory
+									
+
+
+
+
+										U.S. Ambassadors
+									
+
+
+
+
+										U.S. Embassies and Other Posts
+									
+
+
+
+
+										Country Offices Directory
+									
+
+
+
+
+										Key Officers of Foreign Service Posts
+									
+
+
+
+
+										Diplomats in Residence
+									
+
+
+
+
+
+
+
+
+
+
+
+
+	// Code to enable sub-area highlighting for countries and areas navigation
+
+	if(window.jQuery) {
+		jQuery(document).ready(function(){
+			jQuery(document).on({
+				touchstart: function( event ) {
+					event.preventDefault();
+					if(!jQuery( this ).prev().hasClass('highlighted')) {
+						jQuery( this ).prev().addClass('highlighted');
+					}
+				},
+				mouseleave: function() {
+					if(jQuery( this ).prev().hasClass('highlighted')) {
+					}
+				},
+				mouseover: function() {
+					if(!jQuery( this ).prev().hasClass('highlighted')) {
+						jQuery( this ).prev().addClass('highlighted');
+					}
+				}
+			}, '#country_navigation_chosen .indent');
+
+			jQuery(document).on({
+				touchstart: function( event ) {
+					event.preventDefault();
+					if(!jQuery( this ).next('.indent').hasClass('highlighted')) {
+						jQuery( this ).next('.indent').addClass('highlighted');
+					}
+				},
+				mouseleave: function() {
+					if(jQuery( this ).next('.indent').hasClass('highlighted')) {
+					}
+				},
+				mouseover: function() {
+					if(!jQuery( this ).next('.indent').hasClass('highlighted')) {
+						jQuery( this ).next('.indent').addClass('highlighted');
+					}
+				}
+			}, '#country_navigation_chosen .noindent');
+
+		});
+
+		// Code to load the navigation without the temporarily blank navigation and page jumpiness -- mainly for desktop.
+		if ( jQuery(window).width() >= 975 ) {
+			jQuery('.nav__utility').show();
+			jQuery('.site-nav--primary').appendTo('.nav__second-nav');
+			jQuery('.nav__primary-nav').appendTo('.nav__second-nav');
+		}
+		if ( jQuery(window).width() < 975 ) {
+			jQuery('.nav__utility').hide();
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+HomeFunding Opportunity Announcements ...FY 2022 Notice of Funding Opportunity for Reception and Placement Program 
+hide
+
+
+
+
+	if(window.jQuery) {
+		jQuery( document ).ready(function() {
+			if (jQuery(".bc_middle").hasClass("collapse")) {
+				jQuery(".bc_ellipse").click(function(){
+					jQuery(".bc_hide").toggleClass("visible");
+					jQuery(".bc_middle").toggle();
+					jQuery(".bc_ellipse").toggle();
+					jQuery(".bc_content").toggleClass("noflex");
+					jQuery(".block_breadcrumbs_content").toggleClass("noflex");
+				});
+
+				jQuery(".bc_hide").click(function(){
+					jQuery(".bc_hide").toggleClass("visible");
+					jQuery(".bc_middle").toggle();
+					jQuery(".bc_ellipse").toggle();
+					jQuery(".bc_content").toggleClass("noflex");
+					jQuery(".block_breadcrumbs_content").toggleClass("noflex");
+				});
+
+			} else {
+				jQuery(".bc_ellipse").hide();
+			}
+		});
+	}
+
+
+
+
+
+
+				
+					FY 2022 Notice of Funding Opportunity for Reception and Placement Program
+				
+			
+
+
+Funding Opportunity Announcement
+April 19, 2021
+
+
+
+
+
+						Download Notice												[756 KB]
+
+
+
+
+Share
+
+
+Share this page on:
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		
+FY 2022 Notice of Funding Opportunity for Reception and Placement Program
+Funding Opportunity Number:  SFOP0008037
+Assistance Listings (formerly Catalog of Federal Domestic Assistance, CFDA) number:  
+19.510 – U.S. Refugee Admissions Program
+Announcement issuance date:  Monday, April 19, 2021
+Announcement type:  Cooperative Agreement
+Proposal submission deadline:  Friday, July 2, 2021 at 11:59:59 PM Eastern Time Zone. We are unable to consider proposals submitted after this deadline.
+Anticipated time to award for selected proposals:  Pending the availability of funds, PRM anticipates, but makes no guarantee, that awards will be made less than six months from the proposal submission deadline.
+ADVISORY:  All applicants must submit application packages through the website Grants.gov.  PRM strongly recommends submitting your application package early to allow time to address any technical difficulties that may arise on the Grants.gov website.
+If you are new to PRM funding, the Grants.gov registration process can be complicated.  We urge you to refer to PRM’s General NGO Guidelines “Application Process” section for information and resources to help ensure that the application process runs smoothly.  PRM also strongly encourages organizations that have received funding from PRM in the past to read this section as a refresher.  Please note, some of the guidance and templates for refugee admissions programs differ from the guidance included in the General NGO Guidelines.  Award applicants should follow the directions and templates provided in this funding opportunity.
+PRM recommends proposals be submitted in Adobe PDF, as Microsoft Word documents may sometimes produce different page lengths based on software versions and configurations.  Do not include a cover page, page limits are strictly adhered to, and exceeding the page length limits will result in disqualification.  All proposals, and required documents, must be in English.
+Full Text of Notice of Funding Opportunity
+
+ Program Description
+Purpose of the Reception and Placement (R&P) Program
+The R&P Program for the initial reception and placement of refugees in the United States is managed by PRM (hereinafter referred to as the “Bureau”).  The purpose of the R&P Program is to promote the successful reception and placement of all persons who are admitted to the United States under the U.S. Refugee Admissions Program.  For the purpose of this announcement, “refugee” is defined as a person admitted to the United States under section 207(c) of the Immigration and Nationality Act (INA), as amended, or a person to whom eligibility for the resettlement assistance available to individuals admitted under section 207(c) has been extended by statute.
+
+To accomplish this goal, the INA recognizes the desirability for public or private non-profit organizations to provide R&P services and to assist refugees to achieve economic self-sufficiency as quickly as possible. The program goals and objectives set forth in this announcement have been established in accordance with these statutory provisions.
+The goals of the R&P Program administered by the Bureau are:
+
+To ensure the ability to receive promptly into the United States all refugees approved for admission under applicable provisions of the INA;
+To ensure that all refugees approved for admission to the United States are provided with reception and placement services appropriate to their personal circumstances;
+To maintain national capacity for the reception and placement of refugees, in accordance with admissions ceilings determined annually by the President after consultation with the Congress; and,
+To assist refugees in achieving economic self-sufficiency in coordination with other refugee services and assistance programs authorized by the INA and any mainstream services and assistance programs for which refugees are eligible.
+
+Core program objectives for FY 2022 include the following:
+
+Resettlement Agency management ensures sound and timely operations to appropriately prepare and plan for refugee arrivals to the United States.
+Resettlement Agency management provides sound oversight and support to maintain a flexible, well-equipped, and knowledgeable affiliate network.
+Resettlement Affiliates deliver timely and individualized services that promote refugee well-being, integration, and self-sufficiency.
+Resettlement Affiliates regularly engage, inform, and consult resettlement partners in their communities.
+Resettlement Affiliates ensure refugees are connected to appropriate services and oriented to their new communities.
+Resettlement Affiliates involve local communities to increase assistance and other integration support to refugees.
+
+The Bureau partners with and provides partial financial support to non-governmental organizations (NGOs) to carry out the R&P Program.  Participating organizations are expected to combine the Bureau’s financial assistance with existing and projected private resources for the provision of R&P services for refugees admitted to the United States during the period October 1, 2021 through September 30, 2022.  The R&P service period is defined as an initial 30-day period that can be extended up to 90 days after arrival should more than 30 days be required to complete delivery of R&P services.
+
+Funding Procedures
+
+The FY 2022 ceiling for refugee admissions will be established by the President following consultations with Congress towards the end of FY 2021.  In order to serve  the Administration’s goal to admit up to 125,000 refugees in FY 2022, while taking into account the current state of USRAP capacity and ongoing operational constraints related to COVID-19, PRM intends to award initial funding and placement plans at an operational level of 65,000 refugee arrivals.  If the Presidential Determination sets a target beyond this initial operational level, successful applicants will also be assigned an unallocated placement reserve of additional placements (i.e., additional placement numbers not yet assigned to any affiliate nor included in the affiliate administrative funding budget) sufficient to bring the national total up to that level.  Arrival trends will be reviewed mid-year to adjust placement plans and budgets upwards, as needed.
+In addition, applicants should include 10,000 Special Immigrant Visa (SIV) recipients in their planning.
+Under expected FY 2022 funding procedures, each agency with which the Bureau enters into a Cooperative Agreement (CA) will be provided $1,225 per capita grant for direct assistance to each refugee it sponsors who arrives in the United States during the period of the CA and is verified to have been placed and assisted by the agency.  This funding is to be used to cover payments made by the affiliate to or on behalf of individual refugees for cash disbursement and/or purchases for the purpose of meeting material needs according to the requirements of the program.  This funding is intended to supplement private resources available to the applicant and may be used at the local affiliates at which refugees are resettled and only for the direct benefit of refugees in accordance with program requirements as described in the CA.
+PRM may award additional direct assistance funding to be administered by resettlement agency headquarters throughout their network to supplement the per capita grant according to factors that may vary geographically such as cost of living, housing, and additional caseload vulnerabilities. This assistance should focus on unmet needs and not duplicate or supplant programs available under any other Federal source of funding.
+The Bureau intends to fund affiliate R&P administrative costs and R&P Program national management costs according to separately negotiated and approved budgets based on the applicant’s sponsorship capacity.
+As in previous years, applicants should base their placement plans provided to PRM in response to this funding opportunity on the capacity of their network of local affiliates, which will have consulted with resettlement partners in their communities in order to assess the capacity of the state, local community(ies), and affiliate to ensure that sufficient capacity exists to resettle the proposed caseload.  As part of this assessment, PRM expects that, to the extent possible, applicants will communicate and coordinate closely with other resettlement agencies proposing to place refugees in the same geographic area to ensure state and local partners are well-informed and consulted regarding the combined caseload being proposed among all local affiliates.
+
+Refugee Caseload Assignment
+
+Cases will be assigned to each approved applicant through a process administered on behalf of the Bureau by the Refugee Processing Center (RPC).
+The number of refugees assigned to an approved applicant will be determined by the Bureau, in accordance with the needs of the Admissions Program, taking into account projected initial operating levels as well as the target established by the FY 2022 Presidential Determination; the proposed capacity of the applicant and its affiliates; recommendations of state and local officials and the Office of Refugee Resettlement; the applicant’s demonstrated ability to implement its proposed placement plan; the cost effectiveness of the applicant’s plan; and past performance.  The number of refugees assigned to an approved applicant may be less than the proposed placement capacity of the applicant.  Iraqi and Afghan SIV recipients requesting R&P services will be allocated to the approved applicants in the same manner as refugee cases.
+
+ Federal Award Information
+
+
+Proposed program start date: October 1, 2021
+
+
+Duration of Activity: October 1, 2021 through September 30, 2022
+
+Applicants must continue to re-compete for PRM funding each year.  In funding a project one year, PRM makes no representations that it will continue to fund the project in successive years and encourages applicants to seek a wide array of donors to ensure long-term funding possibilities.
+
+Funding Limits: The Bureau anticipates award amounts will vary based on
+
+placement plans and overall national management and affiliate funding needs.  There is no funding floor or ceiling for this award.  However, total award amounts will be contingent on funding availabilities.
+
+Anticipated Amount to be Awarded Total: Total amounts awarded will
+
+be based on a thorough review of each proposal received and amount of funding available in FY 2022.
+
+ Eligibility Information
+
+
+Eligible Applicants
+
+The Bureau intends to award CAs for FY 2022 to well-qualified non-profit organizations able to offer a range of services throughout networks of multiple locations across the United States.  This will include applicants that have demonstrated satisfactory performance under previous agreements with the Bureau and/or applicants that meet the selection criteria described below and have demonstrated the ability to provide required services in a cost-effective manner.  The Bureau is interested in proposals that demonstrate cost efficiencies, including private funding sources, and economies of scale based on the number of refugees to be served.  Applicants should understand that participation in the FY 2021 R&P Program is neither a pre-condition for nor a guarantee of continued participation in FY 2022.
+In order to be considered for participation in the program, applicants must:
+
+Be a well-established social service provider with demonstrated case management expertise and experience managing a network of affiliates that provide reception and placement or similar services to refugees or other migrant populations in the United States;
+Have been a non-profit in operation for at least three full years with 501(c)(3) status with the IRS, other than institutions of higher education;
+Document the availability of private financial resources to contribute to the program; and
+Operate in multiple locations across the United States.
+
+Failure to satisfy any of the four required qualifications above will preclude further consideration for participation in the program.
+
+Cost Sharing or Matching: Cost sharing, matching, or cost participation is not a requirement of an application in response to this funding announcement.
+ Application and Submission Instructions
+ Address to Request Application Package: Application packages may be downloaded from the website www.Grants.gov.
+ Content and Form of Application:
+
+Applicants should report all data in terms of the federal fiscal year (i.e., October 1 through September 30).
+
+
+Proposal Format
+
+Applicants should adhere to the following guidelines when preparing proposals:
+
+All documents in the proposal should have the following page layout: 5 inch by 11 inch pages with one-inch margins on all sides.
+All documents in the proposal must be in 12-point Times New Roman font.
+All pages of the proposal must be numbered. Page numbers should restart at “page 1” for each separate file/attachment (Word, Excel, or PDF Document) that is submitted.
+Proposals should be no longer than specified in this section. Information included on pages beyond the stated page limitations will not be reviewed.
+Sections within each narrative should be sequential.
+Abstracts for individual affiliate and sub-office sites are to be arranged in alphabetical order, first by state name (not by abbreviation), then by city within each state where the office is located. All offices should be identified by location (State, City) and PRM code when available (e.g., FLXXX01).  For all Washington, D.C. locations, please use “Washington” for the city, and “District of Columbia” for the state.  All proposed new affiliates should be included at the end of this section.
+No attachments other than those specifically requested will be accepted or considered.
+
+
+Required Forms and Information and Sample Formats:
+
+Required Forms (Instructions accompany each form in the electronic Grant Application Package):
+
+Completed SF-424, SF-424A, and SF-424B forms. PRM requires that Box 21 of the SF-424 be checked.   Form SF-424B is now required only for those applicants who have not registered in SAM.gov or recertified their registration in SAM.gov since February 2, 2019 and completed the online representations and certifications.
+
+Other Required Information (Instructions are detailed below).  Please note, all required documents should encompass only the first 12 months of the program, including:
+
+Project Narrative
+Objectives and Indicators Table
+R&P Budget Summary, National Management Budget Detail, Affiliate Budget Detail, and Travel Cost Detail
+National Management Budget Narrative
+Affiliate R&P Funding Strategy and Policy
+Affiliate/Sub-office Abstracts
+URM Affiliate/Sub-office Abstracts, if applicable
+FY 2022 Proposed Consolidated Placement Plan
+Three-year Affiliate Monitoring Plan (FY 2020 – FY 2022)
+R&P Headquarters Staff Detail
+Headquarters Organizational Chart
+Supporting documentation for new sites as attachments, if applicable
+Accountability to Affected Populations (AAP) Framework
+Risk Analysis
+Copy of the organization’s Prevention of Sexual Exploitation and Abuse (PSEA) Code of Conduct, will be required prior to the issuance of an award, if the proposal is chosen for implementation.
+Most recent Negotiated Indirect Cost Rate Agreement (NICRA), if applicable, or a de minimis rate calculation of Modified Total Direct Costs (MTDC) if the applicant is eligible and elects to use the de minimis rate.
+Most recent external audit report is required prior to issuance of an award, if proposal is chosen for implementation.
+
+Sample Attachment Formats:
+Sample formats of the following documents are available on Grants.gov.  The Excel documents are included in a single Excel workbook.  Applicants are strongly urged to use these suggested formats.  Submissions prepared in alternate formats will be considered as long as all required information is provided.
+
+Objectives and Indicators Chart
+R&P Budget Summary, FY 2022 (Excel Document)
+National Management Budget Detail, FY 2022 (Excel Document)
+Affiliate Budget Detail, FY 2022 (Excel Document)
+Travel Cost Detail, FY 2022 (Excel Document)
+Affiliate/Sub-office Abstract (Word Document)
+URM Affiliate/Sub-office Abstract (Word Document)
+FY 2022 Proposed Consolidated Placement Plan (Excel Document)
+Three-year Affiliate Monitoring Plan (Excel Document)
+R&P Headquarters Staff Detail (Excel Document)
+Risk Analysis Template (Word Document)
+
+Detailed Instructions for Other Required Information
+
+Project Narrative
+
+The Project Narrative must contain the following sections and should adhere to the requirements listed:
+
+The Project Narrative should be subtitled and numbered to correspond with the required information sections below. If any individual section of information is not applicable, that fact should be specifically stated.
+The narrative should not exceed 25 pages. If applicable, include additional pages to describe any of the following activities being proposed:
+
+The Unaccompanied Refugee Minor (URM) program (one page)
+National Technical Assistance projects related to housing, community sponsorship/engagement, and/or resettlement agency staff and refugee security (two pages per project)
+International Organization for Migration (IOM) travel loan billing services (two pages)
+Placement of Refugees with U.S. Ties Outside Affiliates’ Radii (Remote Placement, two pages)
+
+
+Note that page numbers should be sequential for the entirety of the Project Narrative and should not restart with each section of required information.
+Submit the Project Narrative as an attachment by selecting the “Project Narrative Attachment Form” in the Grant.gov Application Package.
+
+Organizational Structure and Management 
+Each applicant should briefly describe its organizational structure.  Discuss how the organization is adapting and innovating in light of recent and anticipated changes in the U.S. Refugee Admissions Program and headquarters management, organization, or operations.  If applicable, explain any proposed changes per position from FY 2021 as well as how the organizational structure demonstrates cost effectiveness while maintaining strong management and program oversight.  Justify the number and need for the proposed Full-Time Equivalents (FTEs) to serve the proposed number of refugees.
+Describe formal or legal relationships with affiliates and sub-offices.
+State the number of placement sites (number of affiliates and sub-offices).  If applicable, list all affiliate and sub-office sites that were listed as zeroed out or were opened or closed in 2021, as well as proposed new sites and sites planned for closure in FY 2022.  Describe a coherent strategy or rationale for selecting and maintaining resettlement sites in the placement network.
+Describe organizational plans to manage projected increases in arrivals in FY 2022 at both the national and affiliate levels. Further, explain the national management strategy to prepare at both levels for potential expansions in subsequent years to ensure there is sufficient capacity within each affiliate and local community to adequately support increased arrivals.  Sufficient detail should be presented to demonstrate proactive, robust, and concrete planning to achieve this objective. 
+Program Management
+Applicants with existing programs should include a brief narrative description of how they actively manage resources to meet, and demonstrate accountability for, program outcomes.
+Describe the applicant’s community engagement strategies for FY 2022 at the national, local, and state levels, including identification of key issues or risk factors, how they affect successful resettlement, and how the applicant’s public outreach will impact outcomes for refugees.  Include applicant’s initiatives at the national and local levels to collect and use beneficiary feedback to improve programming and implement tangible strategies and action plans to increase refugee integration, measure results, and replicate successful practices.
+If the applicant is proposing to open new affiliates in FY 2022, describe the national strategy to support robust community engagement and coordination along with a sound management plan to onboard new affiliates.  Include plans for any potential further expansion in subsequent years, if applicable.
+Describe applicant’s plans to increase community sponsorship of refugees.  Community sponsorship pairs refugees with groups of individuals (such as local clubs, businesses, university communities, faith groups, sports teams, book clubs, etc.) who commit to providing clearly defined financial and/or in-kind contributions and volunteer services to support their welcome and integration.  One form of community sponsorship is co-sponsorship.   Co-sponsors are community groups which have accepted – in a (non-legally binding) written agreement with a resettlement agency – the responsibility to provide, or ensure the provision of, reception and placement services to certain refugees sponsored by the agency.  PRM also recognizes that resettlement agencies may also coordinate other forms of community sponsorship, allowing groups of individuals to provide clearly defined financial and/or in-kind contributions and volunteer services to the newly arriving refugees with whom they are paired.  PRM is interested in the added value to the R&P program that may be generated through community sponsorship such as improved refugee integration, increased housing and employment opportunities, and strengthened community and private support.  PRM also sees value in sponsorship for communities themselves, for maximizing refugee contributions, and for increasing public support for refugees and awareness of global affairs. PRM expects that applicants will establish clear objectives, strategies, and expected outcomes/results for community sponsorship models.
+Please input the total aggregate contributions in support of R&P to all affiliates and sub-offices (as documented in the affiliate/sub-office abstracts) in the chart below and provide a short description of the private contributions, including a breakdown of whether contributions were used to support R&P direct assistance or affiliate R&P program management.
+
+
+
+Contributions to the R&P Program
+
+
+Type of Donor
+
+FY 2020
+ Actual Cash
+
+FY 2020 Actual
+In-kind Value
+
+
+Foundations/ Corporations
+
+
+
+
+Faith-based/ Community-based Organizations
+
+
+
+
+Fees for Service
+
+
+
+
+Individuals
+
+
+
+
+Volunteer Hours/Miles
+
+
+
+
+State/County/Local Government: [SOURCE]
+
+
+
+
+Headquarters
+
+
+
+
+Affiliate/Sub-office
+
+
+
+
+Other:
+
+
+
+
+TOTAL
+
+
+
+
+Of which, total allocated/projected for R&P Direct Assistance
+
+
+
+
+Of which, total allocated/projected to support affiliate R&P program management
+
+
+
+
+
+ 
+Include a brief description of the applicant’s fraud prevention strategies and activities, including how the applicant uses culturally effective practices and procedures with refugees to combat fraud, and how the applicant responds to alleged or possible fraud (including, but not limited to, immigration and welfare benefit fraud). Please also include a brief summary of the risk analysis submitted as part of the proposal package.
+Gender Analysis:  PRM is committed to ensuring that R&P services are fully accessible to potentially vulnerable and underserved groups among the beneficiary population (such groups may include women; children; adolescents; lesbian, gay, bisexual, transgender, or intersex (LGBTQI+) individuals; older persons; the sick; persons with disabilities; and members of minority communities). The gender analysis should specifically analyze the factors that either promote or undermine gender equality within a given program and specifically address the needs of women and girls.
+Applicants should briefly describe:
+
+The gender dynamics within the target population (i.e., roles, power dynamics, and different needs of men and women, girls and boys),
+The specific risks and challenges posed by gender dynamics to R&P Program implementation, and
+How the program activities will mitigate these risks and be made accessible to affected groups (particularly women and girls).
+
+Placement
+Describe criteria used to determine placement of refugees throughout a network which guarantees quality, language-appropriate R&P services for arriving refugees of diverse backgrounds.  Identify the indicators used to evaluate other key placement factors such as community support and the best interest of the refugee.  Explain where significant increases or decreases in placement are expected in FY 2022.  Describe the applicant’s efforts to respond to variable arrival patterns while ensuring the required level of service to all refugees.  Note that the FY 2022 affiliate placement radius for all cases will be 100 miles within the same state, except for those cases served via remote placement or for which PRM has granted a placement exception.
+Network Monitoring 
+Applicants should describe monitoring of affiliate offices and sub-offices to include number of staff, duration of trips, and cost effectiveness.  If desk monitoring is used, describe the circumstances and process.  Explain the applicant’s process and timeframes for ensuring that corrective actions taken (in response to PRM monitoring, agency monitoring, and beneficiary feedback) result in final program compliance.
+Network Training
+Describe the overall network training strategy and how proposed activities will strengthen R&P service delivery.  Include the purpose of each training activity, its frequency, desired outcomes, and mechanisms for ensuring appropriate staff receive the training, and how training effectiveness will be measured.  Applicants should specify how monitoring trends will impact training plans for FY 2022.  Justify the cost effectiveness of the training mode being employed, i.e., conferences, distance learning, webinars.  Clearly establish the need for any proposed in-person trainings or conferences versus other modes of training.
+Applicants with existing programs should list network training activities related to R&P that took place, or are expected to take place, in FY 2021.  Note the number of staff who attended each training (distinguish between headquarters and affiliate staff), and explain how the effectiveness of the training was measured.
+Placement of Refugees with U.S. Ties Outside Affiliates’ Radii — Remote Placement (additional 2 page maximum)
+In some instances, R&P services must be provided to refugees joining U.S. ties in locations outside the approved placement radius of any affiliate.  Applicants proposing to manage placement of refugees in these circumstances should propose a model to implement and manage this process.  Include headquarters management structure, staffing, and resources proposed to oversee the process within the R&P program infrastructure (both pre- and post-arrival), as well as a detailed timeline for implementation.  Describe the process for identifying, securing, and training local partners.  In the HQ staffing chart, budget narrative, and budget, clearly identify any staffing and costs related to this placement model.  Include the proposed placement capacity.
+Unaccompanied Refugee Minor (URM) Foster Care Program Applicants 
+Only (additional 1 page maximum)
+If an applicant is currently participating in the placement of unaccompanied refugee minors into foster care and wishes to continue these placements in FY 2022, the proposal should describe headquarters procedures for placing and assuring such cases during FY 2021 and list participating affiliates.  List all proposed new URM sites. Applicants should also provide URM Affiliate Abstracts for each foster care site and include such sites in their consolidated placement plan.
+Technical Assistance Projects (additional 2 page maximum per project)
+In FY 2022, PRM is interested in funding technical assistance projects at the national level related to expanding suitable housing options for newly arriving refugees, increasing community sponsorship/engagement for refugee resettlement, and/or improving security of resettlement agency/affiliate staff and refugees. The purpose of these projects is to support resettlement agencies and their networks to build skills, capacity, and expertise in the aforementioned areas.  Technical assistance may include, but is not limited to, the development of targeted initiatives; staff training; methods for recruitment, training, and vetting of community sponsors; community engagement; and the development of materials and skills building opportunities to support such initiatives. Applicants must propose specific goals, strategies, and outcomes/results for each project, and may propose one or more projects.  Applicants should clearly identify in the national management budget and budget narrative any headquarters staffing and resources proposed to oversee these programs within the R&P program infrastructure as well as a timeline for implementation.
+IOM Travel Loan Program (additional 2 page maximum)
+For applicable current R&P Program participants, applicant should describe how its system for administering refugee transportation loans enables it to comply with the responsibilities set forth in the CA and those set forth in the separate Memorandum of Understanding (MOU) with IOM.  The description should address each of the CA and IOM MOU responsibilities and how each one is met or not met by the system.  Should a responsibility not yet be met by the loan system, please provide specific information on proposed changes and when such changes will be implemented to fully meet the requirements.  For example, does the system include appropriate procedures to successfully trace addresses?  Are social security numbers recorded in the loan files?  Does the system interface with the IOM Loan Tracking System (LTS) for the importing of USRAP Travel Loan Promissory Note (ePN) data and the exporting of Account Balances, Transactions and Transfers to IOM?  Are loan notes transferred to IOM in accordance with the steps set forth in the IOM MOU?  Are management procedures in place to ensure compliance with applicable federal, state and municipal statutes and regulations governing billing services?  Detail the number of full- and part-time staff devoted to the IOM travel loan effort during the current year and the number expected to be devoted under a new agreement.
+Note: Only applicants approved for participation may be assigned IOM travel loans; should new R&P agencies be identified and funded as a result of this announcement, they should not assume that their future number of assigned refugees will be sufficient to operate an individual loan program.
+New Applicants Only 
+Please provide all information required above as well as:
+
+A narrative (additional one page maximum) describing the history and development of the organization, its background in social service activities, particularly with refugee clients or other migrant populations and experience with and capacity to sponsor refugees of various ethnic backgrounds. Evidence of at least three years of operation in a non-profit 501(c)(3) status.
+Copies of recent evaluations of other federal or state-funded programs may be requested by the Bureau as evidence of ability to provide required services.
+
+
+Objectives and Indicators Table
+
+Applicants should submit a table detailing proposed objectives and indicators for FY 2022.  Tables should include the core program objectives and indicators as included in the sample format provided on Grants.gov.  Though not required, applicants are encouraged to include additional indicators that reflect the way in which their organization measures and evaluates achievement of R&P program goals and objectives.  Proposed objectives and indicators should be specific, measurable, achievable, relevant and reliable, time-bound, and trackable (SMART), and should be clearly linked to the program goals highlighted in Section A.1 of this notice of funding opportunity.  Note that these objectives and indicators will inform ongoing Bureau evaluation of agency performance, including via quarterly program reports and annual monitoring of agency headquarters.
+
+FY 2022 R&P Budget
+
+The R&P Program represents a long-standing public-private partnership and is funded from a combination of public and private resources.  Applicants should document contributions of private resources to the R&P Program at the national management and affiliate levels.  Applicants should provide a detailed and cost-effective budget.  The Budget must contain the following sections and should adhere to the requirements listed:
+
+FY 2022 R&P Budget Summary
+FY 2022 National Management Budget Detail
+FY 2022 Affiliate Budget Detail
+FY 2022 Travel Cost Detail
+FY 2022 Affiliate R&P Funding Strategy and Policy
+
+A sample excel format for the R&P Budget Summary, National Management Budget Detail, Affiliate Budget Detail, and Travel Cost Detail is provided on Grants.gov. The sample format for the R&P Budget Summary, National Management Budget Detail, and Affiliate Budget Detail include columns reflecting the Bureau (federal) and other (non-federal) funding sources as well as the total funding need.  These budget documents require each applicant to provide a breakdown of sources and amounts of non-federal funding supporting the national management and affiliate levels in the R&P program. The affiliate abstracts include a similar breakdown of sources and amounts of non-federal funding supporting R&P at the affiliate level.  These breakdowns should correspond to the amounts of non-federal funding included in the project narrative (for affiliate-level non-federal funding).  The Travel Cost Detail requires a breakdown of the associated costs for each planned trip by travel category.  The R&P Budget Summary, National Management Budget Detail, Affiliate Budget Detail, and Travel Cost Detail should follow the instructions listed in Appendix A.  The applicant shall comply with the relevant provisions of 2 CFR 200, “Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards” and the Department of State Standard Terms and Conditions.
+
+FY 2022 National Management Budget Narrative
+
+The National Management Budget Narrative should be a separate, narrative document, and should describe in full detail each of the items included in the FY 2022 R&P Budget Summary, National Management Budget Detail, and Travel Cost Detail.  The Budget Narrative should thoroughly and clearly describe each item and how figures were calculated; correspond with the information, comments, and figures provided on the R&P Budget Summary and National Management Budget Detail; be easy to understand; demonstrate cost effectiveness; and reflect calculations that are mathematically correct and comply with guidelines and limitations.  For existing applicants, any changes to the prior year’s budget should be clearly noted and explained.  Note that page numbers should be sequential for the entirety of the Budget Narrative and separate from the project narrative pagination.  For more information on the cost categories that should be included in the National Management Budget Narrative, please reference Appendix A.
+
+FY 2022 Affiliate R&P Funding Strategy and Policy (Maximum 2 pages)
+
+Applicants must submit an Affiliate R&P Funding Strategy and Policy, including a clear description of a consistent strategy and policy for how you will administer affiliate R&P funding in order to ensure your network is adequately prepared to implement the R&P program, particularly considering variability in arrivals throughout the year.  You may decide to administer affiliate funding based on placement plan numbers for each affiliate, a tiered system, etc.
+HQ Administered Additional Direct Assistance Funds:  In addition to the per capita grant, PRM may make available additional direct assistance funds to be administered by resettlement agency headquarters.  These funds would be awarded along with refugee per capita grants, to align with expected arrivals.  Funding amounts may be awarded at a per capita rate to be determined and must be used for refugees within their R&P period.  In the Affiliate R&P Funding Strategy and Policy, applicants should describe how any additional direct assistance R&P funds would be distributed to affiliates in their network to supplement the per capita grant according to factors that may vary geographically such as cost of living, housing, and additional caseload vulnerabilities.  Proposals should discuss how the applicant would determine which affiliates are eligible to receive such additional funding, and should describe their strategy to administer these additional direct assistance funds throughout their network.
+You may also include any necessary subsections here that detail this strategy and policy.
+
+Affiliate and Sub-Office Abstracts (Maximum 3 pages each)
+
+Applicants must submit an abstract for each affiliate office and sub-office, existing or proposed. The affiliate and sub-office abstracts should follow the abstract completion instructions listed in Appendix B using the sample format provided on Grants.gov.  All abstracts should be uploaded to Grants.gov as one continuous file.  New applicants and/or new sites need not complete sections that request information from previous fiscal years.
+Each affiliate or sub-office abstract should present information pertaining only to activities of that specific office and should not include data related to activities corresponding to sub-offices, or administering affiliates.  Applicants with refugee foster care programs should submit a URM affiliate abstract for each URM site.
+For submission with the R&P proposal, abstracts for individual affiliate and sub-office sites are to be arranged in alphabetical order, first by state name (not by state abbreviation), then by city within each state where the office is located.  NOTE: For all documents and attachments, affiliates and sub-offices should be arranged in this order.  All offices should be identified by location (State, City) and PRM code (e.g., FLXXX01).  For all Washington, D.C. locations, please use “Washington” for the city, and “District of Columbia” for the state should be included at the end.  All proposed new affiliates should be included at the end of this document.
+Please interfile the abstracts as a single electronic document in this fashion:
+
+Each sequential abstract should begin on a new page.
+Each affiliate and sub-office abstract is limited to three pages.
+If a sub-office is located in a different state than its administering affiliate, the sub-office abstract should be positioned by state rather than with its administering affiliate.
+
+
+URM Affiliate and Sub-office Abstracts (Maximum 3 pages each)
+
+Applicants must submit an abstract for each URM affiliate office and sub-office, existing or proposed.  The URM affiliate and sub-office abstracts should follow the URM abstract completion instructions listed in Appendix C using the sample format provided on Grants.gov.  All URM abstracts should be uploaded to Grants.gov as one continuous file.  New applicants and/or new sites need not complete sections that request information from previous fiscal years.
+Each URM affiliate or sub-office abstract should present information pertaining only to activities of that specific office and should not include data related to activities corresponding to sub-offices or administering affiliates.
+For submission with the R&P proposal, URM abstracts for individual affiliate and sub-office sites are to be arranged in alphabetical order, first by state name (not by state abbreviation), then by city within each state where the office is located.  NOTE: For all documents and attachments, affiliates and sub-offices should be arranged in this order.  All offices should be identified by location (State, City) and PRM code (e.g., FLXXX01).  For all Washington, D.C. locations, please use “Washington” for the city, and “District of Columbia” for the state should be included at the end.  All proposed new affiliates should be included at the end of this document.
+Please interfile the abstracts as a single electronic document in this fashion. 
+
+Each sequential abstract should begin on a new page.
+Each affiliate and sub-office abstract is limited to three pages.
+If a sub-office is located in a different state than its administering affiliate, the sub-office abstract should be positioned by state rather than with its administering affiliate.
+
+
+FY 2022 Proposed Consolidated Placement Plan
+
+Applicants should submit a proposed consolidated placement plan for FY 2022 that enumerates each affiliate or sub-office’s proposed arrivals.  Arrivals should be broken out by refugee and SIV (as shown in sample).  Applicants are urged to submit the proposed placement plan as the Microsoft Excel Spreadsheet sample format provided on Grants.gov.
+
+Three-Year Affiliate Monitoring Plan
+
+Applicants should provide their three-year affiliate monitoring plan, beginning with sites monitored in FY 2020 and continuing through FY 2022.  Applicants are encouraged to submit the three-year monitoring plan as a Microsoft Excel Spreadsheet similar to that of the sample provided on Grants.gov.
+
+When submitting this information, the applicant should list all affiliates and sub-offices. Sites should be listed by state name and city in alphabetical order (one city per line).
+Affiliate codes are those assigned by the Refugee Processing Center.
+Please include all sites, including those which resettled fewer than 100 refugees in FY 2021. Sites with fewer than 50 refugees expected in FY 2022 need not be scheduled for monitoring in FY 2022.  Rather, please note “fewer than 50 refugees” (see sample format).  The Bureau recognizes that this monitoring plan is subject to change.
+Only note official R&P monitoring visits on the plan. This may include scheduled monitoring visits, visits resulting from a change in resettlement director, or special circumstances that warrant an otherwise out-of-sequence visit.  Include the reason for the special circumstances visit.  Do not include visits for the sole purpose of technical assistance and/or training.  Include the reason for the special circumstances visit.
+Applicants should not include foster care sites.
+Identify the month of monitoring.
+
+
+R&P Headquarters Staff Detail
+
+Applicants should submit information on R&P headquarters staff and their proposed responsibilities on a Microsoft Excel Spreadsheet similar to that of the sample provided on Grants.gov.  List on this attachment all headquarters staff members working on R&P, each R&P FTE percentage, a description of the R&P duties performed, and the total R&P FTE.  For existing applicants, also include the total R&P FTE approved in FY 2021, and clearly identify and explain any changes in the number of FTEs proposed for FY 2022.
+
+Headquarters Organizational Chart
+
+Applicants should submit an organizational chart that diagrams the structure of the organization and the positions within, clearly distinguishing all staff paid by or contributing to R&P, and how the R&P Program fits into the larger organizational structure. The organizational chart should clearly align with the headquarters staff Excel spreadsheet.
+
+Supporting Documentation for New Affiliates and Sub-offices, if applicable
+
+All applicants should provide a statement of rationale for each proposed new affiliate or sub-office.  The rationale should discuss the need for resettlement capacity in the proposed location, the factors considered in selecting the location, and provide evidence of strong community support, particularly from required quarterly consultation participants.  Prior to proposing a new affiliate or sub-office, applicants must consult with potential partners in the proposed new site, as detailed in the abstract template.  The rationale should document any community consultations beyond the required minimum detailed in the abstract, including what topics were discussed, who was consulted, when meetings were held, and the outcome of the discussions.   The rationale should be accompanied by:
+
+a completed abstract,
+a letter of support from the proposed affiliate’s or sub-office’s governing entity, i.e., board of directors,
+a letter of support from the state refugee coordinator,
+letters of support from quarterly consultation participants (optional),
+an explanation of the proposed management structure at the new affiliate or sub-office,
+a timeline for the opening of the proposed office and implementation of program activities, and
+a detailed training plan for R&P staff.
+
+Supporting documentation for new affiliates and sub-offices, including the rationale, should not exceed 20 pages per site.  During the proposal review process, PRM may request additional information.
+Accountability to Affected Populations (AAP) Framework 
+PRM requires applicants to include in their proposal an organizational framework on accountability to affected populations prior to an award being issued.  The framework should be three to five pages in length, discuss collection and analysis techniques, and explain how beneficiary feedback will be used to change programming decisions where appropriate.  We encourage partners to align their AAP frameworks with the Inter-Agency Standing Committee’s Five Commitments to Accountability to Affected Populations.  PRM will consider funding activities aimed at incorporating beneficiary feedback as part of overall program budgets.  If an applicant has already submitted an organizational AAP framework to PRM as part of a separate proposal, they may submit the same framework for this proposal.
+
+Risk Analysis 
+
+PRM requires applicants to include in their proposal a risk analysis as a separate document.  The risk analysis should address any potential programmatic or administrative risks, including that of fraud or corruption, and should assess the level of risk that the proposed program may inadvertently benefit terrorists or their supporters specific to the proposed project.  As applicable, proposals must include plans to mitigate risk factors.  Applicants are urged to submit the risk analysis in the format of the template provided on Grants.gov.
+
+ Dun and Bradstreet Data Universal Numbering System (DUNS) Number 
+
+    and System for Award Management (SAM)
+Each applicant is required to:
+
+be registered in SAM at (www.sam.gov) before submitting its application;
+provide a valid DUNS number in its application; and
+continue to maintain an active SAM registration with current information at all times during which it has an active PRM award or an application or plan under consideration by PRM.
+
+No federal award may be made to an applicant until the applicant has complied with all applicable DUNS and SAM requirements and, if an applicant has not fully complied with the requirements by the time the PRM award is ready to be made, PRM may determine that the applicant is not qualified to receive a PRM award and use that determination as a basis for making a PRM award to another applicant.
+Proposals must be submitted via Grants.gov (not via SAMS Domestic).
+Grants.gov registration requires a DUNS number and active SAM.gov registration.  If you are new to PRM funding, the Grants.gov registration process can be complicated.  We urge you to refer to PRM’s General NGO Guidelines “Application Process” section for information and resources to help ensure that the application process runs smoothly.  PRM also strongly encourages organizations that have received funding from PRM in the past to read this section as a refresher.  Applicants may also refer to the “For Applicants” page on Grants.gov for complete details on requirements.
+Do not wait until the deadline to submit your application on Grants.gov.  Organizations not registered with Grants.gov should register well in advance of the deadline as it can take up to two weeks to finalize registration (sometimes longer for non-U.S. based NGOs to receive required registration numbers).  We also recommend that organizations, particularly first-time applicants, submit applications via Grants.gov no later than one week before the deadline to avoid last-minute technical difficulties that could result in an application not being considered.  PRM partners must maintain an active SAM registration with current information at all times during which they have an active federal award or an application under consideration by PRM or any federal agency.
+When registering with Grants.gov, organizations must designate points of contact and Authorized Organization Representatives (AORs).  Organizations based outside the United States must also request and receive an NCAGE (https://eportal.nspa.nato.int/AC135Public/scage/CageList.aspx ) code prior to registering with SAM.gov.  Applicants experiencing technical difficulties with the SAM registration process should contact the Federal Service Desk (FSD) online or at 1-866-606-8220 (U.S.) and 1-334-206-7828 (International).
+Applications must be submitted under the authority of the Authorized Organization Representative at the applicant organization.  Having proposals submitted by agency headquarters helps to avoid possible technical problems.
+If you encounter technical difficulties with Grants.gov please contact the Grants.gov Help Desk at support@grants.gov or by calling 1-800-518-4726.
+Applicants who are unable to submit applications via Grants.gov due to Grants.gov technical difficulties and;
+
+who have reported the problem to the Grants.gov help desk;
+received a case number; and
+had a service request opened to research the problem;
+
+may contact the relevant PRM Program Officer before the submission deadline to determine whether an alternative method of submission is appropriate.
+It is the responsibility of each applicant to ensure the appropriate registrations are in place and active.  Failure to have the appropriate organizational registrations in place is not considered a technical difficulty and is not justification for an alternate means of submission.
+In accordance with 2 CFR §200.113, Mandatory disclosures, the non-Federal entity or applicant for a Federal award must disclose, in a timely manner, in writing to the Federal awarding agency or pass-through entity all violations of Federal criminal law involving fraud, bribery, or gratuity violations potentially affecting the Federal award.  Non-Federal entities that have received a Federal award including the term and condition outlined in Appendix XII—Award Term and Condition for Recipient Integrity and Performance Matters are required to report certain civil, criminal, or administrative proceedings to SAM.  Failure to make required disclosures can result in any of the remedies described in 2 CFR §200.338 Remedies for noncompliance, including suspension or debarment.  (See also 2 CFR part 180, 31 U.S.C.  3321, and 41 U.S.C.  2313.)
+
+ Submission Dates and Times
+
+Announcement issuance date:  Monday, April 19, 2021
+Proposal submission deadline:  Friday, July 2, 2021 at 11:59:59 AM Eastern Time Zone.
+
+ Intergovernmental Review: Not Applicable.
+ Funding Restrictions. Federal awards will not allow reimbursement of Federal Award costs without prior authorization by PRM.
+Application Review Information
+Criteria: Eligible submissions will be those that comply with the criteria and requirements included in this announcement.  In addition, the review panel will evaluate the proposals based on the following criteria (100 points possible):
+Organizational Structure and Management (15 points) – Documented headquarters organizational ability to manage a network of affiliates in multiple locations and in a cost-effective manner, incorporating economies of scale. Demonstrated coherent and realistic strategy for innovating and adapting the agency headquarters and network to the level of both current and projected future arrivals to ensure there is sufficient affiliate and community capacity to support increasing caseloads. Strategy demonstrates concrete, robust, and proactive planning.  If new sites are proposed, all required documents are submitted and a sound rationale exists for opening in the proposed location, as well as a strong national strategy to manage growth, including for both new and existing sites, as well as plans for any potential further expansion in subsequent years.
+Program Management (25 points) – Demonstrated accountability for performance outcomes and cost-effective approach to refugee resettlement. Coherent community engagement strategies at the national, state, and level.  Clear description of collection and use of beneficiary feedback to improve performance.  Tangible plans to support development of effective refugee integration strategies.  Demonstrated support for affiliates’ efforts regarding community engagement, community sponsorship, refugee integration, and beneficiary feedback. Documented fraud prevention strategies and activities.
+
+If new affiliates are proposed, a sound national strategy to support community engagement and coordination is presented.  Tangible plans to manage the onboarding of new affiliates are described.
+Clear description of plans to increase community sponsorship of refugees.  The focus of the proposed community sponsorship models is discussed, including but not limited to enhanced refugee integration, increased housing and employment opportunities, greater community and private financial and social support, and increasing public awareness of and support for refugees. Applicants address the development of models along with clear objectives, strategies, and expected outcomes/results.
+Clear and realistic proposed strategy to distribute headquarters administered flex funds within the applicant’s network.
+Coherent analysis of gender dynamics, including risks and challenges posed to R&P Program implementation.  Documented strategy to mitigate risks and ensure R&P services are accessible to vulnerable populations based on their gender.
+
+Placement (20 points)
+
+
+Evidence of analysis and use of data regarding community support, refugee integration, and self-sufficiency. Explanation of how the applicant will respond to arrival trends while ensuring national resettlement capacity and the required level of service to all refugees.  10 Points (Note that this section will be evaluated using the program narrative)
+Documented local affiliate ability to provide quality, cost-efficient R&P services for arriving refugees. Evidence of a strong local environment to support resettlement.  Documented contributions of significant private resources to the R&P Program at the local level. 10 Points (Note that this section will be evaluated using information obtained from affiliate and sub-office abstracts, as well as the Affiliate R&P Funding Strategy)
+
+
+ Network Monitoring (10 points) – Documented headquarters capacity to monitor affiliate offices in a cost-effective manner. Evidence of sound process for ensuring corrective actions taken result in final program compliance.
+ Network Training (15 points) – Clear description of recent and proposed training events, including a specific description of how training effectiveness was or will be measured, particularly with regard to achievement of desired outcomes. Documented evidence of the link between monitoring results and training plans. Cost effectiveness of training activities to include justification of the need and cost for the types of training modalities proposed.
+Financial Documentation (15 points) – Documented contributions of private resources to the R&P Program at headquarters and at the local level. Detailed, accurate, and cost-effective national management budget.  Demonstrated economies of scale in the affiliate budget, as well as significant non-federal resources. Sound policy for affiliate R&P funding that supports a clear strategy to fund efficient and effective R&P services.
+
+Note that this section will be evaluated using the program narrative, including information obtained from the chart in the narrative detailing aggregate contributions to the affiliates, as well as both the national management and affiliate budgets, and the affiliate funding strategy.
+
+PRM will conduct a formal competitive review of all eligible proposals submitted in response to this funding announcement. A review panel will evaluate submissions based on the above-referenced proposal evaluation criteria in the context of available funding.  The panel will evaluate proposals to determine whether and to what extent the applicant’s proposal meets the R&P Program’s goals and objectives.
+Department of State review panels may provide conditions and recommendations on applications to enhance the proposed program, which must be addressed by the applicant before further consideration of the award. To ensure effective use of limited PRM funds, conditions or recommendations may include requests to increase, decrease, clarify, and/or justify costs and program activities.
+Proposals to conduct remote placement as well as technical assistance projects will be evaluated separately by the panel.
+
+
+Federal Award Administration Information
+
+
+Federal Award Administration. A successful applicant can expect to receive a separate notice from PRM stating that an application has been selected before PRM actually makes the federal award.  That notice is not an authorization to begin performance.  Only the notice of award signed by the grants officer is the authorizing document.  Unsuccessful applicants will be notified following completion of the selection and award process.
+Administrative and National Policy Requirements. PRM awards are made consistent with the following provisions in the following order of precedence:  (a) applicable laws and statutes of the United States, including any specific legislative provisions mandated in the statutory authority for the award; (b) Code of Federal Regulations (CFR); (c) Department of State Standard Terms and Conditions of the award; (d) the award’s specific requirements; and (e) other documents and attachments to the award.
+Reporting
+
+Successful applicants will be required to submit:
+
+Program Reports: PRM requires program reports describing and analyzing the results of activities undertaken during the validity period of the agreement.  A program report is required within thirty (30) days following the end of each three-month period of performance during the validity period of the agreement.  The final program report is due ninety (90) days following the end of the agreement.  The submission dates for program reports will be written into the CA.
+Financial Reports: Financial reports are required within thirty (30) days following the end of each calendar year quarter during the validity period of the agreement (January 30th, April 30th, July 30th, October 30th).  The final financial report covering the entire period of the agreement is required within ninety (90) days after the expiration date of the agreement.  For agreements containing indirect costs, final financial reports are due within sixty (60) days of the finalization of the applicable negotiated indirect cost rate agreement (NICRA).
+
+Reports reflecting expenditures for the recipient’s United States offices should be completed in accordance with the Federal Financial Report (FFR SF-425) and submitted electronically in the Department of Health and Human Services’ Payment Management System (HHS/PMS) and in accordance with other award specific requirements.  Detailed information pertaining to the Federal Financial Report including due dates, instruction manuals and access forms, is provided on the HHS/PMS website.
+
+Audit Reports: When a recipient-contracted audit is not required because the annual Federal award amount is less than the $750,000 threshold, the Department may determine that an audit must be performed and the audit report must be submitted to the responsible grants office(r) for review, dissemination, and resolution as appropriate. The cost of audits required under this policy may be charged either as an allowable direct cost to the award, or included in the organizations established indirect costs in the award’s detailed budget.
+
+
+ PRM Contacts
+
+Applicants with technical questions related to this announcement should contact the PRM staff listed below prior to proposal submission.  Please note that responses to technical questions from PRM do not indicate a commitment to fund the program discussed.
+PRM Program Officer:  Irving Jones at 202-453-9248 or JonesJI2@state.gov.
+Disclaimer:  External websites linked above may not be supported or accessible by all web browsers.  If you are unable to link to a referenced website, please try using a different browser or update to a more recent one.  If you continue to experience difficulties to reach external resources, please contact PRM’s NGO Coordinator.
+Appendix A:  Budget Guidance
+The following provides guidance for the preparation of the R&P Budget Summary, National Management Budget Detail, and National Management Budget Narrative submission using the sample Excel templates attached to this funding opportunity on Grants.gov.
+Note that in the sample budget Excel templates some basic program information (number of refugees and R&P affiliates) is requested in addition to the summary budget figures.  National management budget information is required by quarter; applicants should provide real quarterly budgets, factoring in special events such as conferences or training.  Estimates should be rounded to the nearest dollar.  Clarification should be provided in the budget narrative regarding any items that may be unclear and require explanation.
+Applicants with current R&P Cooperative Agreements with the Bureau should include the FY 2021 approved budget figures per line item for national management costs and provide a rationale in the budget narrative supporting the difference between FY 2021 estimated budgets and FY 2022 proposed amounts.
+All budgeted costs should be directly attributable to the R&P Program.                                                                                                  
+Personnel 
+This section of the budget should list individuals whose responsibility it is to oversee the provision of authorized R&P material needs support and core services.  Costs should include salaries of full-time and part-time program staff and administrative personnel associated with supervising the provision of R&P material needs support and core services.  Provide salary and Full-time Equivalent (FTE) for each individual.
+If an employee works 100% of the time on the R&P Program, that employee should be listed as 1.0 FTE.  If an employee works less than 100% of the time on the R&P Program, the FTE and funding level for the employee should be prorated appropriately.  Applicants are reminded that any employee charged directly to the R&P Program must complete time sheets demonstrating that the claimed amount of time was actually devoted to working on the R&P Program versus other responsibilities.
+If your organization anticipates the payment of employee termination and/or severance pay during the proposed funding period, the Bureau will consider such costs an allowable charge to the agreement to the extent of the Bureau’s responsibility in accordance with each employee’s direct relation to the Bureau’s funded activities.  For example, an employee charged to Bureau activities for one-half of their employment with the organization shall have only one half of their termination or severance costs charged to the agreement.  Explain anticipated termination or severance expenses in the budget narrative section.
+Information on Cost of Living Allowances (COLA) and proposed salary increase or adjustment should be noted in the budget narrative accompanying the budget worksheet.
+Fringe Benefits
+This section of the budget should include benefits for full-time and part-time program staff and administrative personnel associated with supervising the provision of R&P material needs support and core services.  If the fringe benefit rate is not included in the Negotiated Indirect Cost Rate Agreement (NICRA), please provide include the rates as a percentage, consistent with the organization’s established personnel policies and practices, that are being charged per category of benefits.
+Fringe benefits should be provided as a separate line item from personnel costs, representing total cost for all R&P staff listed.  Personnel whose costs are included in an applicant’s overhead base may not be included here.
+Travel
+This section of the budget should include travel costs related to the R&P Program for the purposes of, for example, attending allocations meetings, travel to affiliate offices to conduct R&P monitoring or training, travel to locations for new site development, attending the applicant’s national R&P conferences, and relevant Bureau meetings.  Relevant Bureau meetings are convened by the Bureau, and may include but are not limited to, R&P Program meetings, and various working groups.  Estimate no more than 20 relevant Bureau meetings.  Travel costs for applicant advisory committee meetings and/or RCUSA meetings may not be included.  No international travel costs may be included in this budget.  There are three areas in the budget worksheets to include travel details:  1) Provide a brief description of the travel in the comments section of the budget detail worksheet (for example, number of trips for what purpose at a cost of $xx per trip); 2) In the budget narrative, include purpose of trip, departure and arrival cities, duration, number of travelers, and total cost by travel category and overall travel costs; and 3) include the following information for each trip as a separate attachment (as suggested in the sample Travel Cost spreadsheet):  Departure city, arrival city, duration, number of travelers, total airfare cost, total lodging cost, total M&E per diem, other costs, and total cost.
+Equipment
+Provide separate estimates for expendable and non-expendable equipment and furnishings, with explanation in the comments section.  Non-expendable equipment is that which has a useful life of one year or more and an acquisition cost of $5,000 or more per unit.
+Supplies
+Supplies would include, but are not limited to, stationery, copier paper, envelopes, paper clips, pens, pencils, file folders, or other small items generally used within one (1) year or less.
+Contractual
+Provide and delineate contractual costs and professional fees according to appropriate category (e.g., computer consultant, program consultants, services of certified public accountants, etc. whose work is directly related to R&P).  Applicants are reminded that contracts not dedicated entirely to the R&P Program may not be charged to the program.
+Construction
+Generally, the Bureau limits the use of Federal assistance awards to implement new construction programs and programs involving significant construction activities consistent with Department-wide policy.  An applicant may, however, request consideration of minor construction related activities that consist of the renovation or rehabilitation of existing permanent structures with a sufficient description of the activities and/or related statements of work to be performed.  The construction, renovation, or rehabilitation of temporary structures should be excluded from this section.
+Other Direct Costs – National Management Budget
+This section of the budget should include costs directly attributable to the R&P Program not covered by any of the previous categories.  Such costs must be individually itemized and explained.  Some examples of costs that might appear in this section include subscriptions, briefing and orientation materials, conference registrations, rental or lease of office space, telephone service, postage and courier service, electricity, heat, water, and custodial and maintenance service.
+Other Direct Costs – Total Affiliate Budget
+You do not need to include a section for these proposed costs in the National Management Budget Narrative.  However, applicants should address how they will administer affiliate funding in the R&P Affiliate Funding Strategy and Policy.  All proposed affiliate costs should be depicted in the Affiliate Budget Detail.
+Other Direct Costs – Per Capita Direct
+You do not need to include a section for these proposed costs in the National Management Budget Narrative.  This is based on your proposed placement plan and the $1,225 per capita grant for direct assistance provided to each refugee.  This line item in the R&P Budget Summary will likely change throughout the year based on actual arrivals.
+Total Indirect Costs
+This section should show the amount of indirect costs and the base amount on which it is determined.  A copy of the current NICRA must be submitted for recipient and sub-recipient(s) as applicable.  Inclusion of indirect costs must be in compliance with the Uniform Administrative Requirements, Cost Principles and Audit Requirements for Federal Awards, (OMB Circular 2 CFR Part 200).
+Applicants are reminded that headquarters costs not dedicated entirely to the R&P Program may not be charged to the program.
+For applicants that intend to charge indirect costs against the affiliate funding proposed in the Affiliate Budget Detail and/or on the per capita direct assistance grant, please include that amount in the total calculation for proposed indirect costs in the R&P Budget Summary.  Applicants should also articulate this indirect cost breakdown in the National Management Budget Narrative and in the table included with the R&P Budget Summary.
+Appendix B:  Abstract Completion Instructions
+Successful applicants will be required to submit additional affiliate and sub-office contact information during the post-award process.  Applicants will be required to inform the Bureau throughout the year of any address or leadership changes.
+National Agency:  The name of the national agency.
+Affiliate Code:  For existing affiliates and sub-offices, enter the PRM affiliate code assigned by the Refugee Processing Center.
+Office State:  The state in which the affiliate is located.
+Office City:  The city in which the affiliate is located; the same city as in the Address field below.
+Office Name:  The name of the office where R&P services are provided.
+Office Address:  The street address of the office where R&P services are provided and files maintained.
+Sub-Office/Administering Office:  The abstract should clearly indicate whether the office is an administering affiliate or sub-office and identify management relationships with administering or sub-offices.  The Bureau defines a sub-office as an office where reception and placement services are provided and refugee case files are maintained during the reception and placement period with management oversight provided by a nearby affiliate office.
+Satellite Office (if applicable)
+If proposing to utilize a satellite location, describe the location and distance from the affiliate proposed in this abstract.
+R&P Program Affiliate Staffing:  Staff information should be expressed in full-time equivalents (FTE).  A full-time equivalent is determined by adding the number of hours each person devotes to R&P activities each week and dividing by 40.  Thus, if four people each devote five hours per week to R&P, the resulting FTE is 0.5.  Provide information for FY 2021 and FY 2022.
+
+R&P FTE Paid by R&P: The number of FTEs working on R&P who are paid from R&P funds (calculated according to example above).
+
+
+R&P FTE Paid by Other (not including volunteers): The number of FTEs working on R&P who are paid from other (normally private) funding sources.  Do not include unpaid volunteers.
+Total Client/FTE Ratio: The ratio of the projected number of arrivals for FY 2021 and for FY 2022 to the number of FTEs working on R&P.
+
+R&P Volunteers and Co-Sponsors: The abstract should clearly indicate the number of volunteer hours worked by individual volunteers, as well as members of sponsorship groups for FY 2020 (actual), 2021 (estimated), and 2022 (projected).
+
+# of R&P Community Sponsors (not including co-sponsors): Community sponsors are local teams of individuals, as well as formal and informal community groups, which are organized in coordination with a resettlement agency to provide clearly defined financial and/or in-kind contributions and volunteer services to the newly arriving refugees with whom they are paired.
+# of R&P Co-Sponsors: Co-sponsors are community groups which have accepted in a (non-legally binding) written agreement with a resettlement agency the responsibility to provide, or ensure the provision of, reception and placement services to certain refugees sponsored by the agency.
+
+Caseload Statistics:  Provide statistics for the number of individuals according to the following instructions.
+
+FY 2020 Actual Arrivals: If the affiliate was a participant in the FY 2020 R&P Program, provide the final number of actual arrivals to the affiliate in FY 2020. The number of arrivals may not necessarily match the capacity acknowledged for FY 2020.
+FY 2021 Acknowledged Capacity: If the affiliate was a participant in the FY 2021 R&P Program, provide the capacity acknowledged by PRM as of the date this proposal is submitted.
+FY 2021 Anticipated Arrivals: Provide the total number of actual arrivals projected for the entirety of the fiscal year.  The number projected is not necessarily the number proposed or capacity acknowledged last year.
+FY 2022 Proposed Capacity, Detailed: The affiliate’s proposed arrivals based on the community’s ability to resettle refugees broken out by those with U.S. Ties and without U.S. Ties.
+FY 2022 Proposed Nationalities: Indicate any nationalities to be served by the affiliate FY 2022 and mark if the nationality was previously served by the affiliate in FY 2020 or FY 2021.
+Relevant language capacity available on staff: Indicate whether the affiliate has the language capacity on staff to serve the proposed nationality.
+Relevant language capacity available from within community: Indicate whether the language capacity to serve the proposed nationality may be reasonably provided from within the community of resettlement.
+
+Recent R&P Monitoring Outcomes
+
+Date of most recent PRM monitoring visit: State the date (month and year) of the most recent PRM monitoring visit at this site.
+
+
+Compliance Rating: State the compliance rating as listed in the final monitoring report issued subsequent to the most recent PRM monitoring visit.
+
+
+Date of most recent Resettlement Agency headquarters monitoring visit (R&P): State the date (month and year) of the most recent Resettlement Agency headquarters monitoring visit (for the R&P Program).
+Compliance Rating: State the compliance rating (for the R&P Program) as listed in the monitoring report issued subsequent to the most recent Resettlement Agency headquarters monitoring visit.
+
+Consultations: 
+
+Sector: The sectors listed are the required stakeholders for community consultations.
+Title of Individual Consulted: State the title of the individual consulted regarding this proposal.
+Name of Agency or Organization: State the name of the organization this person represents.
+Date consulted about FY 2022 Proposed Caseload: Write the date this person was consulted regarding this proposal.
+Describe any significant concerns raised by any of the above representatives regarding the ability of the community to successfully receive the proposed FY 2022 caseload for this affiliate, as well as any concerns regarding the total caseload as proposed by all resettlement agencies for this geographic location. Note any plans to address those concerns, and whether proposed numbers align with the input from the representatives. If proposed numbers differ, provide the rationale for the difference.
+
+Financial Resources: In the chart below, enumerate the financial contributions from all sources developed by the affiliate in FY 2020 and FY 2021 and proposed for FY 2022 to support the R&P Program.  Include only those resources to be used for R&P activities.  Name sources of funding from state, county, or local government.  For each year, note how much of the total was or is projected to be used for R&P direct assistance (i.e., cash or in-kind to be given directly to clients) and how much was or is projected to be used by the affiliate to support R&P program management.  Note: other public funding (federal or state) may not supplant or comingle with R&P funds.
+
+
+
+PROJECTED CONTRIBUTIONS TO THE R&P PROGRAM
+
+
+ 
+FY 2020 ACTUAL
+FY 2021 ESTIMATED
+FY 2022 PROJECTED
+
+
+Type of Donor
+Cash
+In-Kind Value
+Cash
+In-Kind Value
+Cash
+In-Kind Value
+
+
+Foundations/ Corporations
+
+
+
+
+
+
+
+
+Faith-based/ Community-based Organizations
+
+
+
+
+
+
+
+
+Fees for Service
+
+
+
+
+
+
+
+
+Individuals
+
+
+
+
+
+
+
+
+Volunteer Hours/Miles
+
+
+
+
+
+
+
+
+State/County/Local Government: [SOURCE]
+
+
+
+
+
+
+
+
+Headquarters
+
+
+
+
+
+
+
+
+Affiliate/Sub-office
+
+
+
+
+
+
+
+
+Other:
+
+
+
+
+
+
+
+
+TOTAL
+
+
+
+
+
+
+
+
+Of which, total allocated/projected for R&P Direct Assistance
+
+
+
+
+
+
+
+
+Of which, total allocated/projected to support affiliate R&P program management
+
+
+
+
+
+
+
+
+
+ 
+
+Appendix C: URM Abstract Completion Instructions
+
+For agencies that hold contracts with states funded through Office of Refugee Resettlement to provide foster care services to unaccompanied refugee minors (URM) from overseas placements.  
+Successful applicants will be required to submit additional affiliate and sub-office contact information during the post-award process.  Applicants will be required to inform the Bureau throughout the year of any address or leadership changes.
+National Agency: The name of the national agency.
+Affiliate Code: For existing affiliates and sub-offices, enter the PRM affiliate code assigned by the Refugee Processing Center.
+Office State: The state in which the affiliate is located.
+Office City: The city in which the affiliate is located; the same city as in the address field below.
+Office Name: The name of the office where URM services are provided.
+Office Address: The street address of the office where URM services are provided and files maintained.
+Sub-Office/Administering Office: The abstract should clearly indicate whether the office is an administering office or sub-office and identify management relationships with administering or sub-offices. The Bureau defines a sub-office as an office where reception and placement services are provided and refugee case files are maintained during the reception and placement period with management oversight provided by a nearby affiliate office.
+Caseload Statistics: Provide statistics for the number of individuals according to the following instructions.
+
+FY 2020 Actual Arrivals: If the affiliate was a participant in the FY 2020 R&P Program, provide the final number of actual arrivals to the affiliate in FY 2020. The number of arrivals may not necessarily match the capacity acknowledged for FY 2020.
+FY 2021 Acknowledged Capacity: If the affiliate was a participant in the FY 2021 R&P Program, provide the capacity acknowledged by PRM as of the date this proposal is submitted.
+FY 2021 Anticipated Arrivals: Provide the total number of actual arrivals projected for the entirety of the fiscal year.  The number projected is not necessarily the number proposed or capacity acknowledged last year.
+FY 2022 Proposed Capacity: The affiliate’s proposed arrivals.
+
+Recent/Proposed Caseload:  
+
+Nationalities served in FY 2020 and FY 2021: List all nationalities served by the affiliate in FY 2020 and FY 2021.
+Proposed nationalities to be served at this location in FY 2022: List any nationalities to be served by the affiliate in FY 2022.
+Languages available on staff to support the proposed caseload: List languages spoken by affiliate staff.  Only include those languages spoken by the proposed caseload.
+Languages available from within the community of resettlement to support the proposed caseload: List languages for which interpretation may be reasonably provided from within the community of resettlement.  Only include those languages spoken by the proposed caseload.
+Other language resources used (note frequency and general circumstances of use): List other language resources (such as telephonic resources) used by the affiliate, as well as how frequently and under what circumstances these resources are used.
+
+Grievance and Protection from Sexual Exploitation and Abuse (PSEA) Policy
+
+Indicate whether the affiliate has a grievance policy.
+Indicate whether the affiliate has incorporated the Inter-Agency Standing Committee’s six core principles for PSEA into the organization’s code of conduct for all staff and volunteers.
+
+Instructions: Please number each response and include the question topic in bold. The questions below should not be repeated in your response.
+
+Site Rationale: For existing or proposed sites, briefly define the service area(s) where unaccompanied refugee minors (URMs) will be placed, and describe why that community is an optimal location for resettling URMs.  Include an assessment of overall community, resettlement services, and linkages for URMs after emancipation.  Provide the approximate population of the city or metro area and a description of refugee and other immigrant communities in the area.  If the site expects to resettle refugees from nationalities/ethnicities new to the resettlement location, please provide an assessment of the site’s ability to resettle the anticipated new populations.
+Foster Care: Briefly describe how foster care families are selected, trained, and supported.
+Placement Options: Briefly describe the range of placement options available to minors.
+Physical Presence: Briefly describe the physical presence requirements in order for guardianship/conservatorship to be established for the minor.
+Minors Close to 18 Years of Age: Of the capacity proposed for refugee minors from overseas, what is the affiliate’s ability to receive minors within six months of their 18th birthday?
+Major/Minor Cases: Briefly describe the affiliate’s ability to serve major/minor cases.
+
+
+
+
+
+
+Tags
+
+Bureau of Population, Refugees, and Migration
+NGO Programs
+
+
+
+
+
+
+
+
+
+Back to Top
+
+
+
+
+
+
+
+
+
+
+
+
+White House
+USA.gov
+Office of the Inspector General
+Archives
+Contact Us
+ 
+
+
+
+
+follow us
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+Flickr
+GovDelivery
+
+
+
+
+Privacy Policy
+Accessibility Statement
+Copyright Information
+FOIA
+No FEAR Act
+ 
+
+
+
+
+
+
+
+
+Search:
+
+
+
+
+Search
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+.wmpci-popup-wrp .wmpci-popup-body{background-color: #ffffff;border-width: 0px; border-style: solid;max-width: 50;}.wpmci-popup-cnt-inr-wrp{height:1000;color:#000000;}.wpmci-popup-cnt-inr-wrp h2, .wpmci-popup-cnt-inr-wrp h4{color:#000000;}
+
+
+
+
+
+U.S. Department of State
+The Lessons of 1989: Freedom and Our Future
+
+
+
+
+
+
+
+
+var sbiajaxurl = "https://www.state.gov/wp-admin/admin-ajax.php";
+
+
+
+
+
+
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/www.state.gov\/wp-json\/","nonce":"2889d25d7e","versionString":"wp\/v2\/"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var Wmpci_Popup = {"enable":"0","delay":"0","exp_time":"1","close_on_esc":"1","hide_time":"0"};
+/* ]]> */
+
+
+
+
